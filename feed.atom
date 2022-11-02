@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2022-11-02T14:01:38.041Z</id>
+    <title>osmos::feed</title>
+    <updated>2022-11-02T14:01:38.041Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Some Links About CSS Gradients]]></title>
+        <id>https://css-tricks.com/?p=374697</id>
+        <link href="https://css-tricks.com/some-links-about-css-gradients/"/>
+        <updated>2022-11-02T12:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …
+Some Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Delegation in JavaScript –Explained with an Example]]></title>
+        <id>https://www.freecodecamp.org/news/event-delegation-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/event-delegation-javascript/"/>
+        <updated>2022-11-01T17:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Event Delegation is a pattern based upon the concept of Event Bubbling [/news/event-bubbling-in-javascript/]. It is an event-handling pattern that allows you to handle events at a higher level in the DOM tree other than the level where the event was first received. There's a video version of this topic [https://www.youtube.com/watch?v=aZ3JWv0ofuA]]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Full Stack Development – HTML, CSS, JavaScript, Node.js, MongoDB]]></title>
+        <id>https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/</id>
+        <link href="https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/"/>
+        <updated>2022-11-01T16:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Full stack development is a term used to describe the process of developing a complete website or application from start to finish. A full stack developer is a web developer who can work on all parts of a website or application, from the back-end code that powers the site to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Errors in Python – the try, except, else, and finally Keywords Explained]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-errors-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-errors-in-python/"/>
+        <updated>2022-11-01T14:53:34.000Z</updated>
+        <summary type="html"><![CDATA[> “It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.” ― Steve McConnell Errors are inevitable in a programmer's life. In fact, while writing programs, errors can be really helpful in identifying the logic]]></summary>
+        <author>
+            <name>P S Mohammed Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rendering External API Data in WordPress Blocks on the Back End]]></title>
+        <id>https://css-tricks.com/?p=374381</id>
+        <link href="https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/"/>
+        <updated>2022-11-01T12:57:22.000Z</updated>
+        <summary type="html"><![CDATA[This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …
+Rendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Manoj Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putting The Graph In GraphQL With The Neo4j GraphQL Library]]></title>
+        <id>https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/</id>
+        <link href="https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/"/>
+        <updated>2022-11-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If building a GraphQL API backed by a native graph database sounds interesting or at all helpful for the problems you’re trying to solve as a developer, perhaps you’d like to give the open-source [Neo4j GraphQL Library](https://srv.buysellads.com/ads/long/x/TCZPLYDDTTTTTTFR6JINCTTTTTTGVUIVKKTTTTTTCT2NTYYTTTTTTI4BVH7U4JBCKQ466IDGV2IUWESGCV7WALL5QYYE) a try. Let’s take a closer look at the reasons why!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (William Lyon)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Bubbling in JavaScript – How Event Propagation Works with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/event-bubbling-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/event-bubbling-in-javascript/"/>
+        <updated>2022-10-31T21:04:17.000Z</updated>
+        <summary type="html"><![CDATA[HTML elements receive different types of events, from click, to blur, to scroll, and so on. One behavior these events have in common is Event Bubbling. I'll explain what this behavior means in this article. I also made a video version of this article which you can watch here [https://www.youtube.com/watch?v=KaHZdW02Tg0].]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeError: 'int' object is not subscriptable [Solved Python Error]]]></title>
+        <id>https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/</id>
+        <link href="https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/"/>
+        <updated>2022-10-31T17:37:23.000Z</updated>
+        <summary type="html"><![CDATA[The Python error "TypeError: 'int' object is not subscriptable" occurs when you try to treat an integer like a subscriptable object. In Python, a subscriptable object is one you can “subscript” or iterate over. Why the "TypeError: 'int' object is not subscriptable Error" Occurs You can iterate over a string,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Infrastructure as Code with AWS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/"/>
+        <updated>2022-10-31T17:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Infrastructure as code is the process of provisioning and managing your cloud resources by writing a template file that is both human-readable and machine consumable.  For AWS cloud development, the built-in choice for infrastructure as code is AWS CloudFormation. Using IaC, developers can manage a project’s infrastructure efficiently, allowing]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript's Proxy Object Works – Explained with Example Use Cases]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-proxy-object/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-proxy-object/"/>
+        <updated>2022-10-31T14:56:30.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you are going to learn what a proxy object is, along with its limitations. We will also look into some of the use cases that demonstrate how you can use proxy objects to solve various problems. Without further ado, let’s get started. Table of Contents  *]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Firebase Authentication in a React App]]></title>
+        <id>https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/</id>
+        <link href="https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/"/>
+        <updated>2022-10-31T14:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Almost every web application requires some form of authentication. This prevents unauthorized users from having access to the app's inner workings.  In this tutorial, you will learn how to authenticate your React app with the Firebase SDK. How to Authenticate with Firebase Authenticating with Firebase makes things easy for]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New CSS Media Query Range Syntax]]></title>
+        <id>https://css-tricks.com/?p=374670</id>
+        <link href="https://css-tricks.com/the-new-css-media-query-range-syntax/"/>
+        <updated>2022-10-31T13:05:38.000Z</updated>
+        <summary type="html"><![CDATA[The Media Queries Level 4 specification has introduced a new syntax for targeting a range of viewport widths using common mathematical comparison operators, like , and =, that make more sense syntactically while writing less code for responsive web design.
+The New CSS Media Query Range Syntax originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi Selvam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On The Edge Of November (2022 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/</id>
+        <link href="https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/"/>
+        <updated>2022-10-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEO Tips for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/tips-to-boost-your-seo/</id>
+        <link href="https://www.freecodecamp.org/news/tips-to-boost-your-seo/"/>
+        <updated>2022-10-29T00:09:34.000Z</updated>
+        <summary type="html"><![CDATA[SEO (Search Engine Optimization) is essential for your online marketing strategy. It's the process of optimizing your site and content to help you get as much traffic as you can from search engines. Reaching top positions in the search engine results pages (SERPs) with your website is one of the]]></summary>
+        <author>
+            <name>Edan Ben-Atar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Julia by Coding 7 Projects – Hands-On Programming Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/</id>
+        <link href="https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/"/>
+        <updated>2022-10-28T23:54:26.000Z</updated>
+        <summary type="html"><![CDATA[The Julia programming language is used for a lot of really impactful and interesting challenges like Machine Learning and Data Science.  But before you can get to the complex stuff, it is worth exploring the basics to develop a solid foundation.  In this tutorial, we will go over]]></summary>
+        <author>
+            <name>Logan Kilpatrick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motion Controls In The Browser]]></title>
+        <id>https://smashingmagazine.com/2022/10/motion-controls-browser/</id>
+        <link href="https://smashingmagazine.com/2022/10/motion-controls-browser/"/>
+        <updated>2022-10-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Yaphi Berhanu)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fancy Image Decorations: Outlines and Complex Animations]]></title>
+        <id>https://css-tricks.com/?p=374302</id>
+        <link href="https://css-tricks.com/fancy-image-decorations-outlines-and-complex-animations/"/>
+        <updated>2022-10-28T12:45:47.000Z</updated>
+        <summary type="html"><![CDATA[We’ve spent the last two articles in this three-part series playing with gradients to make really neat image decorations using nothing but the <img> element. In this third and final piece, we are going to explore more techniques using the …
+Fancy Image Decorations: Outlines and Complex Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holographic Trading Card Effect]]></title>
+        <id>https://css-tricks.com/?p=374609</id>
+        <link href="https://css-tricks.com/holographic-trading-card-effect/"/>
+        <updated>2022-10-26T17:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Simon Goellner (@simeydotme)’s collection of Holographic Trading Cards have captured our attention.
+Under the hood there is a suite of filter(), background-blend-mode(), mix-blend-mode(), and clip-path() combinations that have been painstakingly tweaked to reach the desired effect. I …
+Holographic Trading Card Effect originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Bradley Kouchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typographic Hierarchies]]></title>
+        <id>https://smashingmagazine.com/2022/10/typographic-hierarchies/</id>
+        <link href="https://smashingmagazine.com/2022/10/typographic-hierarchies/"/>
+        <updated>2022-10-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Alma Hoffmann discusses six basic variables to establish a typographic hierarchy, explains how to look at each differently, and in turn, designs pieces by intentionally modifying each variable to create a typographic hierarchy effectively.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alma Hoffmann)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Animated, Clickable Cards With the :has() Relational Pseudo Class]]></title>
+        <id>https://css-tricks.com/?p=374690</id>
+        <link href="https://css-tricks.com/creating-animated-clickable-cards-with-the-has-relational-pseudo-class/"/>
+        <updated>2022-10-25T14:15:17.000Z</updated>
+        <summary type="html"><![CDATA[The CSS :has() pseudo class is rolling out in many browsers with Chrome and Safari already fully supporting it. It’s often referred to it as “the parent selector” — as in, we can select style a parent element from a …
+Creating Animated, Clickable Cards With the :has() Relational Pseudo Class originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Brecht De Ruyte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State Of CSS Survey: Influence The Future Of CSS]]></title>
+        <id>https://smashingmagazine.com/2022/10/state-css-survey-2022/</id>
+        <link href="https://smashingmagazine.com/2022/10/state-css-survey-2022/"/>
+        <updated>2022-10-24T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Lea Verou)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is There Too Much CSS Now?]]></title>
+        <id>https://css-tricks.com/?p=374364</id>
+        <link href="https://css-tricks.com/is-there-too-much-css-now/"/>
+        <updated>2022-10-24T12:59:16.000Z</updated>
+        <summary type="html"><![CDATA[As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …
+Is There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sacha Greif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fancy Image Decorations: Masks and Advanced Hover Effects]]></title>
+        <id>https://css-tricks.com/?p=374194</id>
+        <link href="https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/"/>
+        <updated>2022-10-21T12:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …
+Fancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Futuristic CSS]]></title>
+        <id>https://smashingmagazine.com/2022/10/futuristic-css/</id>
+        <link href="https://smashingmagazine.com/2022/10/futuristic-css/"/>
+        <updated>2022-10-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sacha Greif)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences]]></title>
+        <id>https://css-tricks.com/?p=374470</id>
+        <link href="https://css-tricks.com/instant-articles-proprietary-syndication-user-fidelity-preferences/"/>
+        <updated>2022-10-20T19:59:46.000Z</updated>
+        <summary type="html"><![CDATA[I love it when there’s a sense of synergy in the blogosphere. First, I caught Nick Heer’s coverage of Meta ending support for Instant Articles, its proprietary format for stripped-down performant news articles. He also compares it to the similar …
+Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New In DevTools: Halloween Edition 🎃]]></title>
+        <id>https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/</id>
+        <link href="https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/"/>
+        <updated>2022-10-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive Animations for Every Screen Size and Device]]></title>
+        <id>https://css-tricks.com/?p=374345</id>
+        <link href="https://css-tricks.com/responsive-animations-for-every-screen-size-and-device/"/>
+        <updated>2022-10-20T12:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Before I career jumped into development, I did a bunch of motion graphics work in After Effects. But even with that background, I still found animating on the web pretty baffling.
+Video graphics are designed within a specific ratio and …
+Responsive Animations for Every Screen Size and Device originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Cassie Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Folder “Slit” Effect With CSS]]></title>
+        <id>https://css-tricks.com/?p=374376</id>
+        <link href="https://css-tricks.com/how-to-make-a-folder-slit-effect-with-css/"/>
+        <updated>2022-10-19T12:56:37.000Z</updated>
+        <summary type="html"><![CDATA[When you put something — say a regular sheet of paper — in a manilla folder, a part of that thing might peek out of the folder a little bit. The same sort of thing with a wallet and credit …
+How to Make a Folder “Slit” Effect With CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Privacy: A New Smashing Book Is Here]]></title>
+        <id>https://smashingmagazine.com/2022/10/understanding-privacy-book-release/</id>
+        <link href="https://smashingmagazine.com/2022/10/understanding-privacy-book-release/"/>
+        <updated>2022-10-19T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet Understanding Privacy, our brand new Smashing Book to make sense of privacy, and learn how to create inclusive, safe and privacy-aware digital experiences. eBook now available, print shipping in November.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuel Matuzovic: max() Trickery]]></title>
+        <id>https://css-tricks.com/?p=374466</id>
+        <link href="https://css-tricks.com/manuel-matuzovic-max-trickery/"/>
+        <updated>2022-10-18T13:54:38.000Z</updated>
+        <summary type="html"><![CDATA[By way of a post by Manuel Matuzović which is by way of a demo by Temani Afif.
+.wrapper {
+  margin-inline: max(0px, ((100% - 64rem) / 2)); 
+}
+You’d be doing yourself a favor to read Manuel’s breakdown of …
+Manuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pure CSS Bezier Curve Motion Paths]]></title>
+        <id>https://css-tricks.com/?p=373600</id>
+        <link href="https://css-tricks.com/pure-css-bezier-curve-motion-paths/"/>
+        <updated>2022-10-17T15:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Besides being elegant, Bezier curves have nice mathematical properties due to their definition and construction. No wonder they are widely used in so many areas! Now, how about using Bezier curves as motion paths with CSS?
+Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lu Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Full-Site Editing: A Deep Dive Into The New Feature]]></title>
+        <id>https://smashingmagazine.com/2022/10/wordpress-full-site-editing/</id>
+        <link href="https://smashingmagazine.com/2022/10/wordpress-full-site-editing/"/>
+        <updated>2022-10-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nick Schäferhoff)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind the CSScenes, October 2022]]></title>
+        <id>https://css-tricks.com/?p=374393</id>
+        <link href="https://css-tricks.com/behind-the-csscenes-october-2022/"/>
+        <updated>2022-10-14T21:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Well, hey, welcome back to Behind the CSScenes! These posts are like little check-ins we’re doing each month to give you a peek behind what we’re doing here at CSS-Tricks, as well as a chance for us to pause …
+Behind the CSScenes, October 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Haley Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fancy Image Decorations: Single Element Magic]]></title>
+        <id>https://css-tricks.com/?p=373965</id>
+        <link href="https://css-tricks.com/fancy-image-decorations-single-element-magic/"/>
+        <updated>2022-10-14T15:37:28.000Z</updated>
+        <summary type="html"><![CDATA[As the title says, we are going to decorate images! There’s a bunch of other articles out there that talk about this, but what we’re covering here is quite a bit different because it’s more of a challenge. The challenge? …
+Fancy Image Decorations: Single Element Magic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effective Communication For Everyday Meetings]]></title>
+        <id>https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/</id>
+        <link href="https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/"/>
+        <updated>2022-10-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andrii Zhdan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sustainable Web Development Strategies Within An Organization]]></title>
+        <id>https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/</id>
+        <link href="https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/"/>
+        <updated>2022-10-11T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delightful UI Animations With Shared Element Transitions API (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/</id>
+        <link href="https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/"/>
+        <updated>2022-10-10T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Adrian Bece will show how to create same-document page transitions for Single Page Apps using Shared Element Transitions API and check out its future implementation and potential for creating cross-document transitions in Multi-Page Apps.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Roadmap For Building A Business Chatbot]]></title>
+        <id>https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/</id>
+        <link href="https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/"/>
+        <updated>2022-10-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Devansh Bansal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js Authentication With Twilio Verify]]></title>
+        <id>https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/</id>
+        <link href="https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/"/>
+        <updated>2022-10-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexander Godwin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Fluid Typography With clamp() Using Sass Functions]]></title>
+        <id>https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/</id>
+        <link href="https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/"/>
+        <updated>2022-10-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
+</feed>

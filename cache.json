@@ -1,0 +1,507 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=374697",
+          "author": "Geoff Graham",
+          "description": "Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …\nSome Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/some-links-about-css-gradients/",
+          "publishedOn": "2022-11-02T12:59:02.000Z",
+          "wordCount": 1181,
+          "title": "Some Links About CSS Gradients",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374697"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374381",
+          "author": "Manoj Kumar",
+          "description": "This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …\nRendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/",
+          "publishedOn": "2022-11-01T12:57:22.000Z",
+          "wordCount": 2807,
+          "title": "Rendering External API Data in WordPress Blocks on the Back End",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374381"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374670",
+          "author": "Preethi Selvam",
+          "description": "The Media Queries Level 4 specification has introduced a new syntax for targeting a range of viewport widths using common mathematical comparison operators, like , and =, that make more sense syntactically while writing less code for responsive web design.\nThe New CSS Media Query Range Syntax originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-new-css-media-query-range-syntax/",
+          "publishedOn": "2022-10-31T13:05:38.000Z",
+          "wordCount": 2639,
+          "title": "The New CSS Media Query Range Syntax",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374670"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374302",
+          "author": "Temani Afif",
+          "description": "We’ve spent the last two articles in this three-part series playing with gradients to make really neat image decorations using nothing but the <img> element. In this third and final piece, we are going to explore more techniques using the …\nFancy Image Decorations: Outlines and Complex Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fancy-image-decorations-outlines-and-complex-animations/",
+          "publishedOn": "2022-10-28T12:45:47.000Z",
+          "wordCount": 1602,
+          "title": "Fancy Image Decorations: Outlines and Complex Animations",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374302"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374609",
+          "author": "Bradley Kouchi",
+          "description": "Simon Goellner (@simeydotme)’s collection of Holographic Trading Cards have captured our attention.\nUnder the hood there is a suite of filter(), background-blend-mode(), mix-blend-mode(), and clip-path() combinations that have been painstakingly tweaked to reach the desired effect. I …\nHolographic Trading Card Effect originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/holographic-trading-card-effect/",
+          "publishedOn": "2022-10-26T17:05:28.000Z",
+          "wordCount": 712,
+          "title": "Holographic Trading Card Effect",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374609"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374690",
+          "author": "Brecht De Ruyte",
+          "description": "The CSS :has() pseudo class is rolling out in many browsers with Chrome and Safari already fully supporting it. It’s often referred to it as “the parent selector” — as in, we can select style a parent element from a …\nCreating Animated, Clickable Cards With the :has() Relational Pseudo Class originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-animated-clickable-cards-with-the-has-relational-pseudo-class/",
+          "publishedOn": "2022-10-25T14:15:17.000Z",
+          "wordCount": 2729,
+          "title": "Creating Animated, Clickable Cards With the :has() Relational Pseudo Class",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374690"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374364",
+          "author": "Sacha Greif",
+          "description": "As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …\nIs There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/is-there-too-much-css-now/",
+          "publishedOn": "2022-10-24T12:59:16.000Z",
+          "wordCount": 3067,
+          "title": "Is There Too Much CSS Now?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374364"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374194",
+          "author": "Temani Afif",
+          "description": "Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …\nFancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/",
+          "publishedOn": "2022-10-21T12:46:27.000Z",
+          "wordCount": 2874,
+          "title": "Fancy Image Decorations: Masks and Advanced Hover Effects",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374194"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374470",
+          "author": "Geoff Graham",
+          "description": "I love it when there’s a sense of synergy in the blogosphere. First, I caught Nick Heer’s coverage of Meta ending support for Instant Articles, its proprietary format for stripped-down performant news articles. He also compares it to the similar …\nInstant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/instant-articles-proprietary-syndication-user-fidelity-preferences/",
+          "publishedOn": "2022-10-20T19:59:46.000Z",
+          "wordCount": 1111,
+          "title": "Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374470"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374345",
+          "author": "Cassie Evans",
+          "description": "Before I career jumped into development, I did a bunch of motion graphics work in After Effects. But even with that background, I still found animating on the web pretty baffling.\nVideo graphics are designed within a specific ratio and …\nResponsive Animations for Every Screen Size and Device originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/responsive-animations-for-every-screen-size-and-device/",
+          "publishedOn": "2022-10-20T12:42:30.000Z",
+          "wordCount": 3646,
+          "title": "Responsive Animations for Every Screen Size and Device",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374345"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374376",
+          "author": "Preethi",
+          "description": "When you put something — say a regular sheet of paper — in a manilla folder, a part of that thing might peek out of the folder a little bit. The same sort of thing with a wallet and credit …\nHow to Make a Folder “Slit” Effect With CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-make-a-folder-slit-effect-with-css/",
+          "publishedOn": "2022-10-19T12:56:37.000Z",
+          "wordCount": 1499,
+          "title": "How to Make a Folder “Slit” Effect With CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374376"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374466",
+          "author": "Geoff Graham",
+          "description": "By way of a post by Manuel Matuzović which is by way of a demo by Temani Afif.\n.wrapper {\n  margin-inline: max(0px, ((100% - 64rem) / 2)); \n}\nYou’d be doing yourself a favor to read Manuel’s breakdown of …\nManuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/manuel-matuzovic-max-trickery/",
+          "publishedOn": "2022-10-18T13:54:38.000Z",
+          "wordCount": 1101,
+          "title": "Manuel Matuzovic: max() Trickery",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374466"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373600",
+          "author": "Lu Wang",
+          "description": "Besides being elegant, Bezier curves have nice mathematical properties due to their definition and construction. No wonder they are widely used in so many areas! Now, how about using Bezier curves as motion paths with CSS?\nPure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/pure-css-bezier-curve-motion-paths/",
+          "publishedOn": "2022-10-17T15:30:05.000Z",
+          "wordCount": 2443,
+          "title": "Pure CSS Bezier Curve Motion Paths",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373600"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374393",
+          "author": "Haley Mills",
+          "description": "Well, hey, welcome back to Behind the CSScenes! These posts are like little check-ins we’re doing each month to give you a peek behind what we’re doing here at CSS-Tricks, as well as a chance for us to pause …\nBehind the CSScenes, October 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/behind-the-csscenes-october-2022/",
+          "publishedOn": "2022-10-14T21:40:26.000Z",
+          "wordCount": 1619,
+          "title": "Behind the CSScenes, October 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374393"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373965",
+          "author": "Temani Afif",
+          "description": "As the title says, we are going to decorate images! There’s a bunch of other articles out there that talk about this, but what we’re covering here is quite a bit different because it’s more of a challenge. The challenge? …\nFancy Image Decorations: Single Element Magic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fancy-image-decorations-single-element-magic/",
+          "publishedOn": "2022-10-14T15:37:28.000Z",
+          "wordCount": 3247,
+          "title": "Fancy Image Decorations: Single Element Magic",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373965"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
+          "author": "hello@smashingmagazine.com (William Lyon)",
+          "description": "If building a GraphQL API backed by a native graph database sounds interesting or at all helpful for the problems you’re trying to solve as a developer, perhaps you’d like to give the open-source [Neo4j GraphQL Library](https://srv.buysellads.com/ads/long/x/TCZPLYDDTTTTTTFR6JINCTTTTTTGVUIVKKTTTTTTCT2NTYYTTTTTTI4BVH7U4JBCKQ466IDGV2IUWESGCV7WALL5QYYE) a try. Let’s take a closer look at the reasons why!",
+          "link": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
+          "publishedOn": "2022-11-01T11:00:00.000Z",
+          "wordCount": 4667,
+          "title": "Putting The Graph In GraphQL With The Neo4j GraphQL Library",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b51519f-b70b-41bf-9add-84c4f84cb126/neo4j-library-graphql.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b51519f-b70b-41bf-9add-84c4f84cb126/neo4j-library-graphql.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!",
+          "link": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
+          "publishedOn": "2022-10-31T09:00:00.000Z",
+          "wordCount": 4798,
+          "title": "On The Edge Of November (2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
+          "author": "hello@smashingmagazine.com (Yaphi Berhanu)",
+          "description": "If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.",
+          "link": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
+          "publishedOn": "2022-10-28T14:00:00.000Z",
+          "wordCount": 4895,
+          "title": "Motion Controls In The Browser",
+          "enclosure": {
+            "url": "http://res.cloudinary.com/indysigner/image/upload/v1666964645/motion-controls-browser_eenha4.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1666964645/motion-controls-browser_eenha4.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/typographic-hierarchies/",
+          "author": "hello@smashingmagazine.com (Alma Hoffmann)",
+          "description": "In this article, Alma Hoffmann discusses six basic variables to establish a typographic hierarchy, explains how to look at each differently, and in turn, designs pieces by intentionally modifying each variable to create a typographic hierarchy effectively.",
+          "link": "https://smashingmagazine.com/2022/10/typographic-hierarchies/",
+          "publishedOn": "2022-10-26T15:00:00.000Z",
+          "wordCount": 8394,
+          "title": "Typographic Hierarchies",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ed9186f-f287-412d-a930-0cd2ae7ae196/typographic-hierarchies.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ed9186f-f287-412d-a930-0cd2ae7ae196/typographic-hierarchies.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
+          "author": "hello@smashingmagazine.com (Lea Verou)",
+          "description": "The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.",
+          "link": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
+          "publishedOn": "2022-10-24T19:00:00.000Z",
+          "wordCount": 3084,
+          "title": "State Of CSS Survey: Influence The Future Of CSS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/futuristic-css/",
+          "author": "hello@smashingmagazine.com (Sacha Greif)",
+          "description": "In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.",
+          "link": "https://smashingmagazine.com/2022/10/futuristic-css/",
+          "publishedOn": "2022-10-21T12:00:00.000Z",
+          "wordCount": 4504,
+          "title": "Futuristic CSS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
+          "author": "hello@smashingmagazine.com (Patrick Brosset)",
+          "description": "In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.",
+          "link": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
+          "publishedOn": "2022-10-20T14:00:00.000Z",
+          "wordCount": 4955,
+          "title": "What’s New In DevTools: Halloween Edition 🎃",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/understanding-privacy-book-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Meet Understanding Privacy, our brand new Smashing Book to make sense of privacy, and learn how to create inclusive, safe and privacy-aware digital experiences. eBook now available, print shipping in November.",
+          "link": "https://smashingmagazine.com/2022/10/understanding-privacy-book-release/",
+          "publishedOn": "2022-10-19T12:45:00.000Z",
+          "wordCount": 3841,
+          "title": "Understanding Privacy: A New Smashing Book Is Here",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3509bd84-1307-4bb5-a00f-1b9da09b8acb/understanding-privacy-banner-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3509bd84-1307-4bb5-a00f-1b9da09b8acb/understanding-privacy-banner-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/wordpress-full-site-editing/",
+          "author": "hello@smashingmagazine.com (Nick Schäferhoff)",
+          "description": "In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.",
+          "link": "https://smashingmagazine.com/2022/10/wordpress-full-site-editing/",
+          "publishedOn": "2022-10-17T12:00:00.000Z",
+          "wordCount": 8369,
+          "title": "WordPress Full-Site Editing: A Deep Dive Into The New Feature",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
+          "author": "hello@smashingmagazine.com (Andrii Zhdan)",
+          "description": "In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.",
+          "link": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
+          "publishedOn": "2022-10-13T15:00:00.000Z",
+          "wordCount": 6066,
+          "title": "Effective Communication For Everyday Meetings",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.",
+          "link": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
+          "publishedOn": "2022-10-11T15:30:00.000Z",
+          "wordCount": 5100,
+          "title": "Sustainable Web Development Strategies Within An Organization",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "In this article, Adrian Bece will show how to create same-document page transitions for Single Page Apps using Shared Element Transitions API and check out its future implementation and potential for creating cross-document transitions in Multi-Page Apps.",
+          "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/",
+          "publishedOn": "2022-10-10T09:00:00.000Z",
+          "wordCount": 5515,
+          "title": "Delightful UI Animations With Shared Element Transitions API (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/",
+          "author": "hello@smashingmagazine.com (Devansh Bansal)",
+          "description": "Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.",
+          "link": "https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/",
+          "publishedOn": "2022-10-07T08:00:00.000Z",
+          "wordCount": 5862,
+          "title": "A Roadmap For Building A Business Chatbot",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd63d9c-b78d-4900-8a7c-3539bf497433/roadmap-building-business-chatbot.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd63d9c-b78d-4900-8a7c-3539bf497433/roadmap-building-business-chatbot.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
+          "author": "hello@smashingmagazine.com (Alexander Godwin)",
+          "description": "Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.",
+          "link": "https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
+          "publishedOn": "2022-10-07T06:00:00.000Z",
+          "wordCount": 7911,
+          "title": "Node.js Authentication With Twilio Verify",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e77a7ee4-c2ed-4b4c-a147-16df351a6b31/nodejs-authentication-twilio-verify-sharing-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e77a7ee4-c2ed-4b4c-a147-16df351a6b31/nodejs-authentication-twilio-verify-sharing-card.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "description": "We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.",
+          "link": "https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/",
+          "publishedOn": "2022-10-05T12:00:00.000Z",
+          "wordCount": 4155,
+          "title": "Easy Fluid Typography With clamp() Using Sass Functions",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/event-delegation-javascript/",
+          "author": "Dillion Megida",
+          "description": "Event Delegation is a pattern based upon the concept of Event Bubbling [/news/event-bubbling-in-javascript/]. It is an event-handling pattern that allows you to handle events at a higher level in the DOM tree other than the level where the event was first received. There's a video version of this topic [https://www.youtube.com/watch?v=aZ3JWv0ofuA]",
+          "link": "https://www.freecodecamp.org/news/event-delegation-javascript/",
+          "publishedOn": "2022-11-01T17:58:39.000Z",
+          "wordCount": 1381,
+          "title": "Event Delegation in JavaScript –Explained with an Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/2.-event-delegation-js.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/",
+          "author": "Beau Carnes",
+          "description": "Full stack development is a term used to describe the process of developing a complete website or application from start to finish. A full stack developer is a web developer who can work on all parts of a website or application, from the back-end code that powers the site to",
+          "link": "https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/",
+          "publishedOn": "2022-11-01T16:57:54.000Z",
+          "wordCount": 1246,
+          "title": "Learn Full Stack Development – HTML, CSS, JavaScript, Node.js, MongoDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/webdev.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-handle-errors-in-python/",
+          "author": "P S Mohammed Ali",
+          "description": "> “It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.” ― Steve McConnell Errors are inevitable in a programmer's life. In fact, while writing programs, errors can be really helpful in identifying the logic",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-errors-in-python/",
+          "publishedOn": "2022-11-01T14:53:34.000Z",
+          "wordCount": 1829,
+          "title": "How to Handle Errors in Python – the try, except, else, and finally Keywords Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/11.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/event-bubbling-in-javascript/",
+          "author": "Dillion Megida",
+          "description": "HTML elements receive different types of events, from click, to blur, to scroll, and so on. One behavior these events have in common is Event Bubbling. I'll explain what this behavior means in this article. I also made a video version of this article which you can watch here [https://www.youtube.com/watch?v=KaHZdW02Tg0].",
+          "link": "https://www.freecodecamp.org/news/event-bubbling-in-javascript/",
+          "publishedOn": "2022-10-31T21:04:17.000Z",
+          "wordCount": 1884,
+          "title": "Event Bubbling in JavaScript – How Event Propagation Works with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/1.-event-bubbling-js.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/",
+          "author": "Kolade Chris",
+          "description": "The Python error \"TypeError: 'int' object is not subscriptable\" occurs when you try to treat an integer like a subscriptable object. In Python, a subscriptable object is one you can “subscript” or iterate over. Why the \"TypeError: 'int' object is not subscriptable Error\" Occurs You can iterate over a string,",
+          "link": "https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/",
+          "publishedOn": "2022-10-31T17:37:23.000Z",
+          "wordCount": 1298,
+          "title": "TypeError: 'int' object is not subscriptable [Solved Python Error]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/in_not_subable.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/",
+          "author": "Kayode Adeniyi",
+          "description": "Infrastructure as code is the process of provisioning and managing your cloud resources by writing a template file that is both human-readable and machine consumable.  For AWS cloud development, the built-in choice for infrastructure as code is AWS CloudFormation. Using IaC, developers can manage a project’s infrastructure efficiently, allowing",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/",
+          "publishedOn": "2022-10-31T17:07:04.000Z",
+          "wordCount": 1999,
+          "title": "How to Implement Infrastructure as Code with AWS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/network-g381392bcb_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-proxy-object/",
+          "author": "Keyur Paralkar",
+          "description": "In this tutorial, you are going to learn what a proxy object is, along with its limitations. We will also look into some of the use cases that demonstrate how you can use proxy objects to solve various problems. Without further ado, let’s get started. Table of Contents  *",
+          "link": "https://www.freecodecamp.org/news/javascript-proxy-object/",
+          "publishedOn": "2022-10-31T14:56:30.000Z",
+          "wordCount": 2718,
+          "title": "How JavaScript's Proxy Object Works – Explained with Example Use Cases",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Image-defs.001-1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/",
+          "author": "Edeh Israel Chidera",
+          "description": "Almost every web application requires some form of authentication. This prevents unauthorized users from having access to the app's inner workings.  In this tutorial, you will learn how to authenticate your React app with the Firebase SDK. How to Authenticate with Firebase Authenticating with Firebase makes things easy for",
+          "link": "https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/",
+          "publishedOn": "2022-10-31T14:54:20.000Z",
+          "wordCount": 2360,
+          "title": "How to Use Firebase Authentication in a React App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/ferenc-almasi-tvHtIGbbjMo-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tips-to-boost-your-seo/",
+          "author": "Edan Ben-Atar",
+          "description": "SEO (Search Engine Optimization) is essential for your online marketing strategy. It's the process of optimizing your site and content to help you get as much traffic as you can from search engines. Reaching top positions in the search engine results pages (SERPs) with your website is one of the",
+          "link": "https://www.freecodecamp.org/news/tips-to-boost-your-seo/",
+          "publishedOn": "2022-10-29T00:09:34.000Z",
+          "wordCount": 2809,
+          "title": "SEO Tips for Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/10-Tips-to-Boost-Your-SEO.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/",
+          "author": "Logan Kilpatrick",
+          "description": "The Julia programming language is used for a lot of really impactful and interesting challenges like Machine Learning and Data Science.  But before you can get to the complex stuff, it is worth exploring the basics to develop a solid foundation.  In this tutorial, we will go over",
+          "link": "https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/",
+          "publishedOn": "2022-10-28T23:54:26.000Z",
+          "wordCount": 3824,
+          "title": "Learn Julia by Coding 7 Projects – Hands-On Programming Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/7-projects-1.png"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
