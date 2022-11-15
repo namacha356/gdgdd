@@ -6,6 +6,1946 @@
       "siteUrl": "https://prtimes.jp",
       "articles": [
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000035.000046547.html",
+          "author": null,
+          "description": "[AWL株式会社]\n\n出資の背景\n\n国立大学発の革新的技術の社会実装に向けて、大学発ベンチャーへの積極的な支援を推し進めるTHVP。大学系ベンチャーキャピタルとして投資先の技術優位性を最重要視するなか、新たに北海道大学発ベン...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000035.000046547.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1500,
+          "title": "エッジAIカメラソリューションのAWL（アウル）、東北大学ベンチャーパートナーズから資金調達実施のお知らせ",
+          "imageUrl": "https://prtimes.jp/common/pc_v4/og.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001160.000048095.html",
+          "author": null,
+          "description": "[株式会社マイクロマガジン社]\nマイクロマガジン社（東京都中央区）は、ボードゲーム『キャッシュフロー』『キャッシュフロー・フォー・キッズ』のリニューアル3周年を記念し、Amazonギフト券が当たる #キャッシュフロー遊んでみた キャンペー...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001160.000048095.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1547,
+          "title": "ボードゲーム『キャッシュフロー』『キャッシュフロー・フォー・キッズ』リニューアル3周年記念！ #キャッシュフロー遊んでみた キャンペーンを開催！",
+          "imageUrl": "https://prtimes.jp/i/48095/1160/ogp/d48095-1160-0a8af872f0a0136c1b01-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000005.000090606.html",
+          "author": null,
+          "description": "[スタディメーター株式会社]\n[画像1: https://prtimes.jp/i/90606/5/resize/d90606-5-4116679b518da933977b-0.png ]\n\n\nスタディメーター株式会社(東京都千代田区、代表取締役:箕輪旭)は2022年11月15日、様々な証明情報をNFTとして発行できるW...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000005.000090606.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1496,
+          "title": "Web3時代に、証明書はいらない。学習歴や社会での活躍歴を証明するNFTを簡単に発行・配布できるシステム「Q」が新登場",
+          "imageUrl": "https://prtimes.jp/i/90606/5/ogp/d90606-5-4116679b518da933977b-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000321.000040680.html",
+          "author": null,
+          "description": "[Vリーグ機構]\n[画像1: https://prtimes.jp/i/40680/321/resize/d40680-321-80b7818d63e87d4a4442-0.png ]\n\n[画像2: https://prtimes.jp/i/40680/321/resize/d40680-321-5a6daace549a51db5e5b-5.png ]\n\n\n[画像3: https://prtime...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000321.000040680.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1419,
+          "title": "[バレー/Vリーグ】V1男子・東京での月曜日ナイトゲームは東レアローズが東京グレートベアーズを制す",
+          "imageUrl": "https://prtimes.jp/i/40680/321/ogp/d40680-321-d029499dc9da5eb2fbee-4.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001545.000032456.html",
+          "author": null,
+          "description": "[株式会社Gloture]\n●LEDライト＆高画質小型カメラ搭載で、クリアで明確にチェック可能\n500万画素、1080pの映像で細部をスマホで見られる\n●使いやすく肌に優しいシリコン製イヤースプーンセット\n●セルフケアも安心、スマホのアプリで...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001545.000032456.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1635,
+          "title": "[新色ホワイト登場！]明るい照明とカメラ付きスマート耳かき「GeeSonic」をガジェットストア「MODERN g」で販売開始",
+          "imageUrl": "https://prtimes.jp/i/32456/1545/ogp/d32456-1545-7e7a12dbe508db37cd48-5.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000030.000075726.html",
+          "author": null,
+          "description": "[株式会社ハイヤールー]\n[画像1: https://prtimes.jp/i/75726/30/resize/d75726-30-e5a0c8baf1bacece8171-0.png ]\n\nエンジニア採用のミスマッチを防ぐためのコーディング試験サービス『HireRoo』は、2021年3月末よりβ版として提供を...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000030.000075726.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1485,
+          "title": "コーディング試験サービス『HireRoo』、選考数6,000突破！",
+          "imageUrl": "https://prtimes.jp/i/75726/30/ogp/d75726-30-e5a0c8baf1bacece8171-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000572.000018219.html",
+          "author": null,
+          "description": "[株式会社ＮＨＫ出版]\n[画像1: https://prtimes.jp/i/18219/572/resize/d18219-572-28cd3cf404c39d3e0439-12.png ]\n\n　新型コロナウイルス感染拡大の影響で、番組の舞台となったお寺への参詣者は減り、ご住職とともにお寺を守っていた...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000572.000018219.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1569,
+          "title": "累計15万部突破のシリーズ最新刊『やまと尼寺  精進日記 ３ ひとり生きる豊穣』が11月29日に発売。事前予約開始！",
+          "imageUrl": "https://prtimes.jp/i/18219/572/ogp/d18219-572-28cd3cf404c39d3e0439-12.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000030.000036667.html",
+          "author": null,
+          "description": "[株式会社税務研究会]\n\nインボイス制度特設サイトとは？\n\n2023年10月開始のインボイス制度のスタートまで1年を切りました。\nしかしながら、まだまだ、その制度について深く理解していない方も多く、また、企業においてはその具体的な取...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000030.000036667.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1470,
+          "title": "【インボイス制度 特設サイトをオープン！】税務研究会運営のZEIKEN PRESSにて、インボイス制度導入に向けた実務解説と、インボイス制度に対応するサービスや専門家を掲載。",
+          "imageUrl": "https://prtimes.jp/i/36667/30/ogp/d36667-30-5924720357e00a280185-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000003.000106960.html",
+          "author": null,
+          "description": "[SambaNova Systems Japan合同会社]\nSC22、テキサス州ダラス、2022年11月14日 — SambaNova Systems は、米国エネルギー省アルゴンヌ国立研究所にSambaNovaのDataScale(R)システムを納入し、大規模画像データや大規模言語モデルなど、科学のた...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000003.000106960.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1460,
+          "title": "SambaNovaがアルゴンヌ国立研究所に次世代DataScaleシステムを納品",
+          "imageUrl": "https://prtimes.jp/i/106960/3/ogp/d106960-3-ddf1a0b607d3493f6b72-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000112.000023106.html",
+          "author": null,
+          "description": "[ヴァン クリーフ＆アーペル]\n「レコール ジュエリーと宝飾芸術の学校」は、ヴァン クリーフ＆アーペルの支援のもと、2012年にパリ ヴァンドーム広場に創設されました。以来、広く一般の方々にジュエリーの世界への扉を開く世界でも類を見ない...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000112.000023106.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1601,
+          "title": "ジュエリーと宝飾芸術の学校「レコール」が2023年に再び日本に上陸",
+          "imageUrl": "https://prtimes.jp/i/23106/112/ogp/d23106-112-735733211ee052a401c2-5.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000052.000089067.html",
+          "author": null,
+          "description": "[パスメイクホールディングス株式会社]\n[画像1: https://prtimes.jp/i/89067/52/resize/d89067-52-b560e7ee61c9cf947fb9-1.jpg ]\n\n■グループ全体の拠点を意識\nパスメイクグループは、1995年のアビタス前身のU.S.エデュケーション・ネットワークによるUS...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000052.000089067.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1494,
+          "title": "アフターコロナの働き方と学び方を再定義　　パスメイクグループ新拠点誕生",
+          "imageUrl": "https://prtimes.jp/i/89067/52/ogp/d89067-52-b560e7ee61c9cf947fb9-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000478.000011115.html",
+          "author": null,
+          "description": "[日本経済新聞社]\n[画像1: https://prtimes.jp/i/11115/478/resize/d11115-478-fbaef84beec4b7369ea0-0.jpg ]\n\n\n特別講座の「英語の耳を鍛えて話そう！タニケイ式英語トレーニング講座」では、ビジネス英語の実践的なスキルを高め...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000478.000011115.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1484,
+          "title": "「VERSANT英語スピ―キング・チャレンジ2022」開催",
+          "imageUrl": "https://prtimes.jp/i/11115/478/ogp/d11115-478-fbaef84beec4b7369ea0-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000458.000002883.html",
+          "author": null,
+          "description": "[株式会社アミューズ]\n映画「ちはやふる」や「線は、僕を描く」の小泉徳宏監督（株式会社ロボット所属）が主催するシナリオ制作チーム「モノガタリラボ」とアミューズが手掛ける音声版サブスクリプションサービス「NUMA」がコラボした...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000458.000002883.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1511,
+          "title": "クールな男子高校生の恋人は新選組隊士！？豊田裕大・佐野岳W主演！『愛次郎さん！』全6話一挙配信！",
+          "imageUrl": "https://prtimes.jp/i/2883/458/ogp/d2883-458-3c8d5698927f08ead4eb-4.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000053.000089067.html",
+          "author": null,
+          "description": "[パスメイクホールディングス株式会社]\n[画像1: https://prtimes.jp/i/89067/53/resize/d89067-53-4ed21d015059fbb3d895-0.jpg ]\n\n■ライブ講義とオンライン講義の同時配信を前提とした教室も\nアビタスは1995年にUSCPA（米国公認会計士）の資格取得支援...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000053.000089067.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1503,
+          "title": "学びの「サードプレース」を実現　外光取り入れたリッチな自習室に　アビタス新宿本校がリニューアル",
+          "imageUrl": "https://prtimes.jp/i/89067/53/ogp/d89067-53-4ed21d015059fbb3d895-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001009.000026157.html",
+          "author": null,
+          "description": "[RX Japan株式会社]\n[画像1: https://prtimes.jp/i/26157/1009/resize/d26157-1009-d99cc5f9e4f557b322aa-0.png ]\n\nリアルだけでなく、オンライン上でのマッチングも支援\nこれまで私たちは、マーケティングを支援する企業と、マーケ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001009.000026157.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1571,
+          "title": "日本最大級のマーケティング見本市 Japan マーケティング Weekが新たにバーチャル空間の 「オンライン展示会」 を開催",
+          "imageUrl": "https://prtimes.jp/i/26157/1009/ogp/d26157-1009-d99cc5f9e4f557b322aa-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000309.000034990.html",
+          "author": null,
+          "description": "[シックスティーパーセント]\n韓国で誕生し、アートワークを中心にした独特なソウルらしい無機質且つデザイン性の高い商品を展開し、SNSを中心に人気を集めているアパレルブランド「eegeegee」（イジジ）が、韓国を筆頭にアジアから800以上の...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000309.000034990.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1467,
+          "title": "【日本初上陸】KPOPアイドルのkep1er（ケプラ）らが愛用することで知られる人気韓国ブランド「eegeegee」（イジジ）が、オンラインストア「60%」（シックスティーパーセント）で待望日本上陸。",
+          "imageUrl": "https://prtimes.jp/i/34990/309/ogp/d34990-309-aef82b43f157989f6635-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000111.000051151.html",
+          "author": null,
+          "description": "[株式会社free web hope]\n株式会社free web hope（本社：東京都千代田区、代表取締役：相原ゆうき）は、無料のオンラインセミナー「集客数を最大化させる\"鬼強\"コンテンツマーケティング」を11月22日(火)に開催いたします。（お...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000111.000051151.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1513,
+          "title": "11月22日（火）無料セミナー「集客数を最大化させる\"鬼強\"コンテンツマーケティング」開催",
+          "imageUrl": "https://prtimes.jp/i/51151/111/ogp/d51151-111-b0c5a944a1b3f962f57c-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000030.000088249.html",
+          "author": null,
+          "description": "[ソーシャル・エックス]\n[画像1: https://prtimes.jp/i/88249/30/resize/d88249-30-08cc3192f004069b5e64-0.png ]\n\n\n\n背景\n\n　豊田市は、デジタル強靱化戦略（令和3年2月策定）に基づき、DX（デジタルトランスフォーメーション）を推進し...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000030.000088249.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1487,
+          "title": "【ソーシャル・エックス】「DX／CX推進に関する官民共創に係る協定」を豊田市と締結しました",
+          "imageUrl": "https://prtimes.jp/i/88249/30/ogp/d88249-30-08cc3192f004069b5e64-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000062.000097825.html",
+          "author": null,
+          "description": "[シーホース三河]\n12月18日(日)琉球戦の試合前、コーポレートパートナーでもある損害保険ジャパン株式会社が展開する「SOMPOダンスプロジェクト」で生まれた「足が速くなるダンス」が体験できるキッズダンスイベントを開催します！...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000062.000097825.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1439,
+          "title": "【シーホース三河　12/18(日)琉球戦】みんなで踊ろう！キッズダンス体験のお知らせ(協力：損害保険ジャパン",
+          "imageUrl": "https://prtimes.jp/i/97825/62/ogp/d97825-62-731d81a373d39146586f-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000010.000077322.html",
+          "author": null,
+          "description": "[株式会社DOPA]\nDOPAウィンターセール 概要\nhttps://dopa.co.jp/\n開催日程: 2022年11月15日（火）～2023年1月31日（火）\n\n世界の高級ブランド家具インテリアの欧州正規品が【10～40％OFF】\nこの機会に幅広い世界最高水準の選択肢...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000010.000077322.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1848,
+          "title": "【世界の最高級ブランド家具 正規品 10～40％OFF】期間限定割引キャンペーン開催！",
+          "imageUrl": "https://prtimes.jp/i/77322/10/ogp/d77322-10-b52fead949d8e4b100f0-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000437.000054842.html",
+          "author": null,
+          "description": "[マジセミ株式会社]\n[画像: https://prtimes.jp/i/54842/437/resize/d54842-437-2745a3981056ba95125f-0.jpg ]\n\n\n（詳細及び参加申込はこちら）\nhttps://majisemi.com/e/c/nsd-20221206/M1D\n\n■標的型攻撃メールなど、“人&rdquo...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000437.000054842.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1478,
+          "title": "『なぜ、セキュリティ教育で効果が出ないのか？』というテーマのウェビナーを開催",
+          "imageUrl": "https://prtimes.jp/i/54842/437/ogp/d54842-437-2745a3981056ba95125f-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000035.000042105.html",
+          "author": null,
+          "description": "[LiLz株式会社]\n[画像1: https://prtimes.jp/i/42105/35/resize/d42105-35-69bb6bdb9932c24c9992-0.png ]\n\n■導入の背景\n温泉の施設管理業務では、施設利用者に快適に過ごしてもらうため、源泉から温泉の汲み上げ量を日常点検する...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000035.000042105.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1515,
+          "title": "施設の点検効率が40倍に。秋田のサウナ付き温泉がIoT・AI遠隔点検サービス「リルズゲージ」を導入した事例を公開！",
+          "imageUrl": "https://prtimes.jp/i/42105/35/ogp/d42105-35-69bb6bdb9932c24c9992-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000436.000054842.html",
+          "author": null,
+          "description": "[マジセミ株式会社]\n[画像: https://prtimes.jp/i/54842/436/resize/d54842-436-62d0fbfabfcfa5edf277-0.jpg ]\n\n\n（詳細及び参加申込はこちら）\nhttps://majisemi.com/e/c/minamikanto-20221201/M1D\n\n■社内や取引先からの問合せ・故...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000436.000054842.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1479,
+          "title": "『情シスが、内製化すべき仕事、アウトソースすべき仕事』というテーマのウェビナーを開催",
+          "imageUrl": "https://prtimes.jp/i/54842/436/ogp/d54842-436-62d0fbfabfcfa5edf277-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000428.000054842.html",
+          "author": null,
+          "description": "[マジセミ株式会社]\n[画像: https://prtimes.jp/i/54842/428/resize/d54842-428-690140e38fb4e0480b10-0.jpg ]\n\n\n（詳細及び参加申込はこちら）\nhttps://majisemi.com/e/c/marubeni-sys-20221125/M1D\n\n■医療機関や自動車メーカーなど...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000428.000054842.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1482,
+          "title": "『企業がランサムウェア攻撃の被害に遭ったら、何が起こるのか？』というテーマのウェビナーを開催",
+          "imageUrl": "https://prtimes.jp/i/54842/428/ogp/d54842-428-690140e38fb4e0480b10-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000046.000045281.html",
+          "author": null,
+          "description": "[SynchroArt Foundation【saf】]\n「saf ART AWARDS -浮世絵- @GINZA SIX」募集詳細はこちら↓\nhttps://prtimes.jp/main/html/rd/p/000000041.000045281.html\n審査員：坂本大地、関根益孝、佐藤伊智郎、KENTO MORI、KATSUYA OOE、植田友宏\n\n審...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000046.000045281.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1748,
+          "title": "「saf ART AWARDS -浮世絵- @GINZA SIX」審査員が決定！KENTO MORI、KATSUYA OOE、植田友宏、他",
+          "imageUrl": "https://prtimes.jp/i/45281/46/ogp/d45281-46-be13bb4d961f1b224c7d-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000309.000031612.html",
+          "author": null,
+          "description": "[テクバン株式会社]\n[画像: https://prtimes.jp/i/31612/309/resize/d31612-309-d1f6a76701f2ce120f28-0.png ]\n\n■セミナー概要\nコロナをきっかけに、あらゆる場所で業務を遂行する働き方改革への迅速な対応が企業に求められてきまし...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000309.000031612.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1489,
+          "title": "【12月/Webセミナー】今話題のMicrosoft 365活用術を大公開！！～自動化ツールでTeamsをより便利に。Power Platformを含めたさらなる利活用のすすめ！～を開催いたします",
+          "imageUrl": "https://prtimes.jp/i/31612/309/ogp/d31612-309-d1f6a76701f2ce120f28-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000308.000031612.html",
+          "author": null,
+          "description": "[テクバン株式会社]\n[画像: https://prtimes.jp/i/31612/308/resize/d31612-308-e696416cefcc03e01bac-0.png ]\n\n■セミナー概要\n本セミナーでは、Microsoft 365機能のSharePoint（ポータルサイト機能）について、さらに社内で活用が可...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000308.000031612.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1534,
+          "title": "【12月12日(月)/Webセミナー】Microsoft 365担当者へ贈る！社員が使いたくなるスタイリッシュなポータルサイト構築&０から始めるMicrosoft 365移行術を開催いたします",
+          "imageUrl": "https://prtimes.jp/i/31612/308/ogp/d31612-308-e696416cefcc03e01bac-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001033.000072793.html",
+          "author": null,
+          "description": "[国立大学法人岡山大学]\n2022（令和4）年 11月 14日\n国立大学法人岡山大学\nhttps://www.okayama-u.ac.jp/\n\n[画像1: https://prtimes.jp/i/72793/1033/resize/d72793-1033-4e1fb370a1c2ce22a0d1-0.jpg ]\n\n\n\n◆概 要\n　国立大学法人岡山大学...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001033.000072793.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1599,
+          "title": "【岡山大学】文化的安全に配慮したケア能力の向上の研修　環太平洋島嶼国における災害保健活動を中心に〔11/24木, 岡山コンベンションセンター〕",
+          "imageUrl": "https://prtimes.jp/i/72793/1033/ogp/d72793-1033-4e1fb370a1c2ce22a0d1-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000307.000031612.html",
+          "author": null,
+          "description": "[テクバン株式会社]\n[画像: https://prtimes.jp/i/31612/307/resize/d31612-307-da238d35a1b442590a9c-0.png ]\n\n■セミナー概要\nテレワーク環境でのお客様間のやり取りにWebメールは欠かせない存在になっています。\n\nしかし、誤送信対...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000307.000031612.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1481,
+          "title": "【12月/Webセミナー】今からでも遅くない！Microsoft 365環境でPPAP対策！Webメールにまつわる課題をまとめて解決しませんか？を開催いたします",
+          "imageUrl": "https://prtimes.jp/i/31612/307/ogp/d31612-307-da238d35a1b442590a9c-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000046.000070726.html",
+          "author": null,
+          "description": "[株式会社アローリンク]\n[画像1: https://prtimes.jp/i/70726/46/resize/d70726-46-cdd0076f6d91fc0ffb33-0.jpg ]\n\nお申し込みフォームはこちら(https://line-next.com/seminar/20221117)\n\n\nセミナー内容\n\n新型コロナウイルスによって採...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000046.000070726.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1504,
+          "title": "SNSやるなら〇〇を抑えておけ！SNS戦略大解剖セミナーを開催します！",
+          "imageUrl": "https://prtimes.jp/i/70726/46/ogp/d70726-46-cdd0076f6d91fc0ffb33-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000058.000016901.html",
+          "author": null,
+          "description": "[B&B Italia Tokyo]\n[画像1: https://prtimes.jp/i/16901/58/resize/d16901-58-8aadb1fa01a38d4d040a-0.jpg ]\n\n\n\n「Timeless Design on Stage - B&B Italia Past meets Future - 」\n\nB&B Italia Tokyoは、「Timeless Design on Stage...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000058.000016901.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1746,
+          "title": "B&B Italiaスペシャルエキシビション「Timeless Design on Stage - B&B Italia Past meets Future - 」をGINZA SIXにて開催",
+          "imageUrl": "https://prtimes.jp/i/16901/58/ogp/d16901-58-8aadb1fa01a38d4d040a-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000306.000031612.html",
+          "author": null,
+          "description": "[テクバン株式会社]\n[画像: https://prtimes.jp/i/31612/306/resize/d31612-306-1539c31e1e2428c84554-0.png ]\n\n■セミナー概要\n昨今、テレワークの普及により、世界的にMicrosoft Teamsの需要が急増しています。\nテレワークを推進し...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000306.000031612.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1553,
+          "title": "【12月/Webセミナー】Microsoft Teamsでペーパレス化！テレワーク環境にて業務効率を向上するMicrosoft Teamsのさらなる活用術とは！？ を開催いたします",
+          "imageUrl": "https://prtimes.jp/i/31612/306/ogp/d31612-306-1539c31e1e2428c84554-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001034.000072793.html",
+          "author": null,
+          "description": "[国立大学法人岡山大学]\n2022（令和4）年 11月 14日\n国立大学法人岡山大学\nhttps://www.okayama-u.ac.jp/\n\n[画像1: https://prtimes.jp/i/72793/1034/resize/d72793-1034-234270ea57c4341402cf-0.jpg ]\n\n\n\n◆概 要\n　国立大学法人岡山大学...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001034.000072793.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1558,
+          "title": "【岡山大学】「知って食べたい フルーツがきっともっとおいしくなる話」〔11/24木, オンライン〕",
+          "imageUrl": "https://prtimes.jp/i/72793/1034/ogp/d72793-1034-234270ea57c4341402cf-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000304.000031612.html",
+          "author": null,
+          "description": "[テクバン株式会社]\n[画像: https://prtimes.jp/i/31612/304/resize/d31612-304-d86a90473a704df63794-0.png ]\n\n■セミナー概要\n昨今テレワーク普及によって、Microsoft 365を含めたクラウドサービスの導入が急拡大し、自社セキュリテ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000304.000031612.html",
+          "publishedOn": "2022-11-15T01:40:02.000Z",
+          "wordCount": 1477,
+          "title": "シングルサインオン、メール誤送信対策、Teams管理から始める！テレワーク時代だからこそやるべきMicrosoft 365でのセキュリティ対策実現方法を大公開！を開催いたします",
+          "imageUrl": "https://prtimes.jp/i/31612/304/ogp/d31612-304-d86a90473a704df63794-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000001.000111857.html",
+          "author": null,
+          "description": "[株式会社Ophiuchus]\n■月額32,835円（税込）～のパーソナルトレーニングジム ELEMENT（エレメント）浅草・田原町店とは？ \n\n[画像1: https://prtimes.jp/i/111857/1/resize/d111857-1-0db9c9fb85150b517d17-3.jpg ]\n\nELEMENT浅草・田...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000111857.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1531,
+          "title": "浅草エリアで初となる通い放題のパーソナルトレーニングジム『ELEMENT（エレメント）浅草・田原町店』が11/1グランドオープン！月額 32,835円（税込）～",
+          "imageUrl": "https://prtimes.jp/i/111857/1/ogp/d111857-1-91cda5e9c5b99d64a4ec-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000303.000031612.html",
+          "author": null,
+          "description": "[テクバン株式会社]\n[画像: https://prtimes.jp/i/31612/303/resize/d31612-303-3487d8f389428916e574-0.png ]\n\n■セミナー概要\n2020年から流行している新型コロナウイルスの影響を受けて、各企業は事業継続のために従業員の働き方を...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000303.000031612.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1471,
+          "title": "【12月26日(月)/Webセミナー】SaaSバックアップをオンプレ版と同様に考えていませんか？クラウド上のデータの責任所在の解説と最適なバックアップサービスを大公開！！を開催いたします",
+          "imageUrl": "https://prtimes.jp/i/31612/303/ogp/d31612-303-3487d8f389428916e574-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000098.000016206.html",
+          "author": null,
+          "description": "[Authense法律事務所]\n▼ウェビナーのお申し込みはこちら\nhttps://www.authense.jp/komon/seminar/2749/\n\n[画像: https://prtimes.jp/i/16206/98/resize/d16206-98-e24b1b2bcd0f8bbbd4a5-0.png ]\n\n\n許容限度を超えた言動をとる社員に対...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000098.000016206.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1509,
+          "title": "【無料ウェビナー開催2022.11.24労務・法務担当者必見！】先延ばしにしてはいけない問題社員への対応｜Authense法律事務所",
+          "imageUrl": "https://prtimes.jp/i/16206/98/ogp/d16206-98-e24b1b2bcd0f8bbbd4a5-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000110.000051151.html",
+          "author": null,
+          "description": "[株式会社free web hope]\n株式会社free web hope（本社：東京都千代田区、代表取締役：相原ゆうき）は、無料のオンラインセミナー「売れるサイト・LPの改善方法 一挙大公開」を11月25日(金)に開催いたします。（お申し込みフォーム：https...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000110.000051151.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1521,
+          "title": "無料セミナー「売れるサイト・LPの改善方法 一挙大公開」11月25日（金）開催",
+          "imageUrl": "https://prtimes.jp/i/51151/110/ogp/d51151-110-d70825cffe6cc85952ed-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000251.000071317.html",
+          "author": null,
+          "description": "[株式会社報知新聞社]\n[画像1: https://prtimes.jp/i/71317/251/resize/d71317-251-9dd9d324a000fb847665-0.jpg ]\n\n【選考過程】　\n11球団からノミネートされた計15人を対象とした選考委員会は「これほど内容が充実し、難しかった年は...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000251.000071317.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1549,
+          "title": "第23回ゴールデンスピリット賞にオリックス・吉田正尚外野手【報知新聞社】",
+          "imageUrl": "https://prtimes.jp/i/71317/251/ogp/d71317-251-9dd9d324a000fb847665-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000302.000036601.html",
+          "author": null,
+          "description": "[株式会社LegalForce]\n[画像: https://prtimes.jp/i/36601/302/resize/d36601-302-a607abf98573be9057a0-0.jpg ]\n\n丸紅株式会社\n左）法務部 企画・開発課 課長補佐 ニューヨーク州弁護士 山本 英龍様\n右）法務部 法務第一課 弁護士 佐...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000302.000036601.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1472,
+          "title": "【LegalForce導入事例】幅広い分野で多彩な事業を展開する大手総合商社「丸紅株式会社」、AI契約審査プラットフォーム「LegalForce」を導入",
+          "imageUrl": "https://prtimes.jp/i/36601/302/ogp/d36601-302-a607abf98573be9057a0-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000166.000047572.html",
+          "author": null,
+          "description": "[株式会社中央住宅 マインドスクェア事業部]\n[画像1: https://prtimes.jp/i/47572/166/resize/d47572-166-25eb2dd2372f3063bf51-0.jpg ]\n\nhttps://www.polus-mind.jp/kodate-ms-we/hoya8/?waad=35FQaDAY\n\n\n穏やかにゆっくり暮らせる、子育てにも恵まれたロケ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000166.000047572.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1511,
+          "title": "豊富なバス便でJR中央線など5駅3路線利用可『マインドスクェア保谷 アイムス』美しい自然と安心の子育て環境、「悠々自適」な暮らしが叶う全9邸の街並み",
+          "imageUrl": "https://prtimes.jp/i/47572/166/ogp/d47572-166-25eb2dd2372f3063bf51-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000185.000014333.html",
+          "author": null,
+          "description": "[株式会社ファミワン]\nファミワンとして初のカンファレンスとなる今年は、「不妊治療と仕事の両立支援、何から始める？」をテーマに実施しました。実際に支援に取り組まれている企業事例と共に、なぜ不妊治療と仕事の両立が必要なのか...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000185.000014333.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1541,
+          "title": "不妊治療と仕事の両立支援をテーマにした「ファミワンカンファレンス2022」のアーカイブ配信を開始いたします",
+          "imageUrl": "https://prtimes.jp/i/14333/185/ogp/d14333-185-6e8bb0abd25a89d7642c-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000282.000072701.html",
+          "author": null,
+          "description": "[ジョルジオ アルマーニ ジャパン 株式会社]\n[画像1: https://prtimes.jp/i/72701/282/resize/d72701-282-a7c3339799f236a7f019-2.jpg ]\n\n\nこちらのモデルは、ムーンフェイズ、自動巻きムーブメント、丸みを帯びたスクエア型のダイアルを備えた、シックな雰...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000282.000072701.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1561,
+          "title": "【ジョルジオ アルマーニ】パルミジャーニ・フルリエとのコラボレーションによる新シリーズ「Giorgio Armani 11」を発表",
+          "imageUrl": "https://prtimes.jp/i/72701/282/ogp/d72701-282-e75dc99e0efa58f8b2ce-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000233.000075419.html",
+          "author": null,
+          "description": "[独立行政法人国立高等専門学校機構]\n[画像1: https://prtimes.jp/i/75419/233/resize/d75419-233-25e4079fcd57a4840901-0.jpg ]\n\n\nGEAR5.0 エネルギー・環境ユニットの取組概要\n　国立高専機構GEAR5.0エネルギー・環境ユニットでは、令和4年度より「...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000233.000075419.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1496,
+          "title": "【豊田高専】GEAR5.0エネルギー・環境　自治体の再生可能エネルギー施策を学ぶ勉強会を開催！",
+          "imageUrl": "https://prtimes.jp/i/75419/233/ogp/d75419-233-25e4079fcd57a4840901-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000274.000065081.html",
+          "author": null,
+          "description": "[有限会社GC]\n[画像1: https://prtimes.jp/i/65081/274/resize/d65081-274-8b8ecebfd50cd6481941-0.jpg ]\n\n11/19（土）和歌山市新内（アロチ）にNEW OPENする『鮪酒場まぐろじん』では、\nオープンを記念して、オープン初日から...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000274.000065081.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1526,
+          "title": "この豪華メニューが無料で！？　11/19（土）和歌山市新内（アロチ）にNEW OPENする『鮪酒場まぐろじん』、１週間限定の特別無料キャンペーンを実施いたします。",
+          "imageUrl": "https://prtimes.jp/i/65081/274/ogp/d65081-274-8b8ecebfd50cd6481941-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000236.000044939.html",
+          "author": null,
+          "description": "[株式会社オフィスバスターズ]\n[画像1: https://prtimes.jp/i/44939/236/resize/d44939-236-bb21267919ae4a03f817-1.jpg ]\n\n株式会社オフィスバスターズ(東京都中央区・代表取締役社長 熊谷正慶 以下当社)が今回、個人のお客様にご購入いただい...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000236.000044939.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1658,
+          "title": "1位に輝いたのは2か月連続でオカムラの大人気シリーズ！2022年10月度、個人のお客様向けオフィスチェアの売れ筋ランキングトップ5を発表！",
+          "imageUrl": "https://prtimes.jp/i/44939/236/ogp/d44939-236-bb21267919ae4a03f817-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000002.000012832.html",
+          "author": null,
+          "description": "[株式会社アンカーマン]\n株式会社アンカーマンでは、これまでに「補助金」という資金調達により、全国160蔵以上の日本酒蔵元・焼酎蔵元をはじめとした「酒造業」の新事業立ち上げや生産性の向上を通した経営サポートを行ってきました。\n[...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000002.000012832.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1487,
+          "title": "11月15日(火)～お酒メーカー＆酒屋さん限定で『補助金申請無料モニター』5社を募集開始！専門コンサルタントによる「申請サポート」のメリットを体感できるチャンス！",
+          "imageUrl": "https://prtimes.jp/i/12832/2/ogp/d12832-2-e3651875f06f91637112-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000253.000045082.html",
+          "author": null,
+          "description": "[愛知県]\nライトアップメイン会場は、岡崎城大手門と松應寺御廟所。プロジェクションマッピング・インタラクティブコンテンツを活用し、幻想的な光の空間を演出します。また、「光る和傘」のレンタル・大手門と松應寺をつ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000253.000045082.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1516,
+          "title": "徳川家康公ゆかりのスポットを舞台に夜を華やかに彩る『おかざき宵まいり』を開催します！",
+          "imageUrl": "https://prtimes.jp/i/45082/253/ogp/d45082-253-522ee4806ccfe25bc326-4.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000266.000011052.html",
+          "author": null,
+          "description": "[株式会社WACUL]\n[画像1: https://prtimes.jp/i/11052/266/resize/d11052-266-d96f2349ad3bf526d840-0.png ]\n\n◩代官山蔦屋書店にて『BtoBマーケティングの定石』出版記念トークイベントを開催\n当社代表取締役でありBtoBマーケティ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000266.000011052.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1535,
+          "title": "会場参加者30名限定。代官山蔦屋書店にて『BtoBマーケティングの定石』出版イベントの開催が決定",
+          "imageUrl": "https://prtimes.jp/i/11052/266/ogp/d11052-266-d96f2349ad3bf526d840-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000220.000055569.html",
+          "author": null,
+          "description": "[株式会社バンダイ　ファッションブランド事業部]\n※商品購入ページ：https://p-bandai.jp/fashion/c0004/c000404\n[画像1: https://prtimes.jp/i/55569/220/resize/d55569-220-da4eb595d3f2a298542e-0.jpg ]\n\n■商品特長\n本商品は、アニメ『機動戦士ガンダム00』の...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000220.000055569.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1527,
+          "title": "『機動戦士ガンダム00』の「ソレスタルビーイングマーク」を使用した革小物シリーズが登場！！",
+          "imageUrl": "https://prtimes.jp/i/55569/220/ogp/d55569-220-da4eb595d3f2a298542e-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000063.000080034.html",
+          "author": null,
+          "description": "[NOBORDERZ]\n[画像: https://prtimes.jp/i/80034/63/resize/d80034-63-064d0d00aa7b837a5642-1.png ]\n\n手越祐也は、約17年間、日本の男性トップアイドルグループ「NEWS」のメンバーとして活躍したのち、2020年6月に独立しソロ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000063.000080034.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1547,
+          "title": "手越祐也がXANAでWeb3.0メタバースに進出！NFTやイベントなどを展開予定",
+          "imageUrl": "https://prtimes.jp/i/80034/63/ogp/d80034-63-f6774e41cc65437425df-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000013.000087674.html",
+          "author": null,
+          "description": "[株式会社ゴーガ]\n[画像: https://prtimes.jp/i/87674/13/resize/d87674-13-0de94f3992c0048331ef-1.png ]\n\n\n『物流・配送業界向けウェビナー Google Maps Platform 活用による輸配送業務効率化へのアプローチ』を開催いたします。...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000013.000087674.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1515,
+          "title": "【12/8開催！物流・配送業界向けウェビナー】Google Maps Platform 活用による輸配送業務効率化へのアプローチ",
+          "imageUrl": "https://prtimes.jp/i/87674/13/ogp/d87674-13-0de94f3992c0048331ef-1.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000017.000079365.html",
+          "author": null,
+          "description": "[株式会社HYPERITHM]\n[画像: https://prtimes.jp/i/79365/17/resize/d79365-17-ff27ec9561f90000d7e1-0.png ]\n\n株式会社HYPERITHM（本社：東京都千代田区、代表取締役：ロイド・リー、以下「当社」）のCSO 阿部喜一が、2022年11月18日...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000017.000079365.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1510,
+          "title": "【11/18（金）開催】FIX委員会主催セミナー「Japanese Market Update 2022」にHyperithm CSOの阿部が登壇",
+          "imageUrl": "https://prtimes.jp/i/79365/17/ogp/d79365-17-ff27ec9561f90000d7e1-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000024.000064719.html",
+          "author": null,
+          "description": "[インクルージョン・ジャパン株式会社]\n[画像1: https://prtimes.jp/i/64719/24/resize/d64719-24-e24bccf285d74433d53f-0.png ]\n\n\n\n調査概要\n\n\n実施期間：2022年9月20日～9月30日\n調査方法：インターネットを利用したアンケート調査\n対象：日本国内の...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000024.000064719.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1488,
+          "title": "日本の上場企業の42％がカーボン・クレジット導入へ前向き",
+          "imageUrl": "https://prtimes.jp/i/64719/24/ogp/d64719-24-e24bccf285d74433d53f-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001471.000031071.html",
+          "author": null,
+          "description": "[株式会社ポニーキャニオン]\n『Burning Ice＜バーニング・アイス＞―無証之罪―』は、中国最大手配信会社・愛奇芸（IQIYI・アイチーイー）で配信再生回数5億回超え、中国のドラマ評価サイト「Douban（ドウバン）」で“8.2”という高...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001471.000031071.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1554,
+          "title": "中国の東野圭吾と呼ばれる紫金陳原作！配信再生数5億回を超えた驚異的な大ヒット推理サスペンスドラマ『Burning Ice＜バーニング・アイス＞―無証之罪―』全12話 YouTube無料公開決定！",
+          "imageUrl": "https://prtimes.jp/i/31071/1471/ogp/d31071-1471-91819cd5cf3c36b23e3b-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000077.000049716.html",
+          "author": null,
+          "description": "[株式会社秀和システム]\n20のキッシュとタルト、13のケークサレ、20のセイボリーレシピをご紹介。\n[画像1: https://prtimes.jp/i/49716/77/resize/d49716-77-573d597af2c0bd52ad7a-0.jpg ]\n\n■書籍概要\n書名 低糖質のキッシュとタルト ケ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000077.000049716.html",
+          "publishedOn": "2022-11-15T01:15:02.000Z",
+          "wordCount": 1569,
+          "title": "11月18日発売『低糖質のキッシュとタルト ケークサレ シンプルで美味しい塩味の焼き菓子(セイボリー)』 予約&早期購入キャンペーン実施中！",
+          "imageUrl": "https://prtimes.jp/i/49716/77/ogp/d49716-77-1bdabd4e1c4daa3b3f4b-2.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000118.000005367.html",
+          "author": null,
+          "description": "[株式会社プロジェクトニッポン]\nアジア最大級のオープンイノベーションの祭典「第10回イノベーションリーダーズサミット(略称：第10回ILS) 運営：株式会社プロジェクトニッポン 後援：経済産業省」は、11月29日(火)-12月2日(金)に虎ノ門ヒルズに...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000118.000005367.html",
+          "publishedOn": "2022-11-15T00:45:02.000Z",
+          "wordCount": 1559,
+          "title": "【来場無料】日欧産業協力センターが厳選するデジタル技術に特化したEU圏のスタートアップ8社がブース出展",
+          "imageUrl": "https://prtimes.jp/i/5367/118/ogp/d5367-118-28be8ebaea4314b2f95f-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000011548.000007006.html",
+          "author": null,
+          "description": "[株式会社KADOKAWA]\n[画像1: https://prtimes.jp/i/7006/11548/resize/d7006-11548-ccd83331f7b803592263-0.jpg ]\n\n\nシリーズ累計35万部を突破した『作りたい女と食べたい女』（著：ゆざきさかおみ）の最新第3巻が発売となりました。...",
+          "link": "https://prtimes.jp/main/html/rd/p/000011548.000007006.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1561,
+          "title": "【本日朝刊に全面広告】『作りたい女と食べたい女』同性婚法制化の実現を目指すチャリティプロジェクト「#物語のままで終わらせない」始動。チャリティグッズの受注販売も開始！",
+          "imageUrl": "https://prtimes.jp/i/7006/11548/ogp/d7006-11548-ccd83331f7b803592263-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000288.000093294.html",
+          "author": null,
+          "description": "[株式会社レビュー]\n\n調査概要\n\n調査対象：10代以降の男女\n調査日：2022年10月\n調査機関：自社調査\n調査方法：インターネットによる任意回答\n調査人数：100人(女性96人男性4人）\n\n＊本アンケート結果を引用する場合は「メイクアップ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000288.000093294.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1480,
+          "title": "【調査レポート】春向けのファンデーション選びで重視することは？1位になったのは「UV効果が高い」！",
+          "imageUrl": "https://prtimes.jp/i/93294/288/ogp/d93294-288-94e40f68c8f34a661162-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000003883.000016756.html",
+          "author": null,
+          "description": "[株式会社アニメイトホールディングス]\n[画像: https://prtimes.jp/i/16756/3883/resize/d16756-3883-a25bc44e6b75063d2218-0.jpg ]\n\n※実際のジャケイラストとは異なります\n\n\n百瀬あん先生の大人気BL作品『ハジメテだけどカメラの前で』コミックス1巻&2...",
+          "link": "https://prtimes.jp/main/html/rd/p/000003883.000016756.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1533,
+          "title": "百瀬あん先生の大人気BL作品『ハジメテだけどカメラの前で』が寺島惇太さん、佐藤拓也さんの出演でドラマCD化決定！",
+          "imageUrl": "https://prtimes.jp/i/16756/3883/ogp/d16756-3883-a25bc44e6b75063d2218-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001080.000022498.html",
+          "author": null,
+          "description": "[株式会社テイチクエンタテインメント]\n竹内アンナが11/12(土)、弾き語りツアー「弾き語り TOUR 2022 atELIER -アトリエ-」の追加公演を東京・淀橋教会　インマヌエル礼拝堂で開催した。\n\n[画像1: https://prtimes.jp/i/22498/1080/resize/d22498-1080-...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001080.000022498.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1569,
+          "title": "竹内アンナ、原点の“弾き語り”ツアーファイナル公演レポート！来年２月にはNEW E.Pのリリースも決定！",
+          "imageUrl": "https://prtimes.jp/i/22498/1080/ogp/d22498-1080-9194aac3c14b48230008-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000331.000012767.html",
+          "author": null,
+          "description": "[ハーマンインターナショナル株式会社]\n[画像1: https://prtimes.jp/i/12767/331/resize/d12767-331-adad06cd1487ac5dfb49-0.jpg ]\n\n　1990年代に登場したホームシアターシステムは、その誕生以来、ご家庭で映画館と同じサラウンドサウンドを楽しめるも...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000331.000012767.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1736,
+          "title": "瞬時にリビングを最高峰の立体音響空間にする7.1.4ch完全ワイヤレスサラウンドシステム「JBL BAR 1000」発売",
+          "imageUrl": "https://prtimes.jp/i/12767/331/ogp/d12767-331-adad06cd1487ac5dfb49-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000056.000026953.html",
+          "author": null,
+          "description": "[ファンコミ]\n[画像: https://prtimes.jp/i/26953/56/resize/d26953-56-4871be9d3648953b4733-0.jpg ]\n\nプロシューマー支援事業を展開する株式会社ファンコミュニケーションズ（本社：東京都渋谷区、代表取締役社長：柳澤安慶...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000056.000026953.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1499,
+          "title": "【お笑いラジオアプリ「GERA（ゲラ）」】千葉雄大さんがゲストで登場！ポッドキャスト番組『滔々あの夜咄』でニッポン放送プロデューサー石井玄と特別トーク",
+          "imageUrl": "https://prtimes.jp/i/26953/56/ogp/d26953-56-4871be9d3648953b4733-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000015.000072971.html",
+          "author": null,
+          "description": "[Flora株式会社]\n[画像1: https://prtimes.jp/i/72971/15/resize/d72971-15-73ddedd2921dc8b8b143-0.png ]\n\n\n引受先：\nSocial Entrepreneur 3投資事業有限責任組合\n（運営会社：PE&HR株式会社, 本店所在地： 東京都千代田区）\n三...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000015.000072971.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1542,
+          "title": "月経・妊活アプリの「flora」、サービス拡大を見据えブリッジファイナンスをクローズ、～累計資金調達額7,500万円に～",
+          "imageUrl": "https://prtimes.jp/i/72971/15/ogp/d72971-15-73ddedd2921dc8b8b143-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000047.000107159.html",
+          "author": null,
+          "description": "[株式会社AWA]\n株式会社AWA（https://a-w-a.co.jp/）が運営するヘアケア情報メディア「ヘアケアトーク」（https://haircare-talk.com/ ）は、日本全国の10代以上の方を対象に「痛まないコードレスヘアアイロン（ストレートアイ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000047.000107159.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1521,
+          "title": "【調査レポート】痛まないコードレスヘアアイロン（ストレートアイロン）選びで大切にしている事は？1位は「持ち運びやすいか」でした！",
+          "imageUrl": "https://prtimes.jp/i/107159/47/ogp/d107159-47-6b101179e002980864c1-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000005.000076077.html",
+          "author": null,
+          "description": "[株式会社トラベルギャラリー]\n[画像1: https://prtimes.jp/i/76077/5/resize/d76077-5-00ddb6b2876cf41648c4-0.jpg ]\n\n\nキャンピングカーのデザインは絶大な人気の「北海道」、世界遺産の「白川郷」、世界でもっとも有名な観光都市の「京都・...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000005.000076077.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1541,
+          "title": "キャンピングカーレンタル専門店AROUND JAPAN RV Rental     レンタル車両に日本の美しい風景ラッピング",
+          "imageUrl": "https://prtimes.jp/i/76077/5/ogp/d76077-5-00ddb6b2876cf41648c4-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000528.000006942.html",
+          "author": null,
+          "description": "[株式会社インターリンク]\n上級者向け（使う人のあまりいない）の特殊な（微妙な）サービスの提供やオタク川柳大賞を主催する、インターネットサービスプロバイダーの株式会社インターリンク（東京都豊島区、代表取締役:横山正）は、コロナ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000528.000006942.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1489,
+          "title": "2年2ヶ月ぶり「ドメイン島巡り」連載再開～再開1発目は“たった3時間で超弾丸調査したジャージー”のレポート",
+          "imageUrl": "https://prtimes.jp/i/6942/528/ogp/d6942-528-87ab1d32bc1a00425ebf-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000083.000043993.html",
+          "author": null,
+          "description": "[フィリップ モリス ジャパン合同会社]\nフィリップ モリス ジャパン合同会社（本社：東京都千代田区、社長：シェリー・ゴー、以下「PMJ」）は、加熱式たばこIQOS ILUMA（イルマ）専用たばこスティックのテリアから、「テリア ウォーム レギュラー」を20...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000083.000043993.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1514,
+          "title": "IQOS ILUMA（イルマ）専用たばこスティック「TEREA （テリア）」から 「テリア ウォーム レギュラー」を  2022年11月28日（月）より順次発売",
+          "imageUrl": "https://prtimes.jp/i/43993/83/ogp/d43993-83-6e5fe4eee742804173c3-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001938.000005179.html",
+          "author": null,
+          "description": "[阪急阪神ホールディングス株式会社]\n[画像1: https://prtimes.jp/i/5179/1938/resize/d5179-1938-c562d0dcaf5dec629de7-0.jpg ]\n\n\n1974年デビュー曲にしてミリオンヒットとなった「ふれあい」（主演ドラマ『われら青春！』挿入曲）をはじめ、「俺た...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001938.000005179.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1500,
+          "title": "中村雅俊シンフォニックライブ4都市ツアー、初日・名古屋のライブレポート公開 ～フルオーケストラとの感動のステージ！東京・西宮・福岡へ続く～",
+          "imageUrl": "https://prtimes.jp/i/5179/1938/ogp/d5179-1938-c562d0dcaf5dec629de7-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000004663.000001719.html",
+          "author": null,
+          "description": "[株式会社講談社]\n今号の大特集は「蕎麦」。輪郭は淡く朧げ。しかし、どこか心の原風景を刺激する郷愁感あふれる香りが心地よい。新蕎麦の時期がやってきました。今号では新店、参拝後に足を運びたいご利益蕎麦、蕎麦前が充実した...",
+          "link": "https://prtimes.jp/main/html/rd/p/000004663.000001719.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1501,
+          "title": "「新蕎麦の季節到来！ 『蕎麦』を大特集。表紙に吉田羊さんが登場！」おとなの週末12月号、本日発売♪",
+          "imageUrl": "https://prtimes.jp/i/1719/4663/ogp/d1719-4663-de13a68014e54669ca9f-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000142.000045277.html",
+          "author": null,
+          "description": "[株式会社スペースワン]\n\n免許制度スタートにあわせ、いち早く免許制度の概要や実技を体験\n\n12月からスタートするドローンの国家ライセンス制度。「以前取ったライセンスはどうなるの？」「実技や学科はどんな試験なの？」といった疑問を...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000142.000045277.html",
+          "publishedOn": "2022-11-15T00:40:02.000Z",
+          "wordCount": 1529,
+          "title": "【無料体験会】11/21（月）、12/9（金）都内でドローン免許制度の概要と実技体験ができる「勉強＆体験会」を開催！",
+          "imageUrl": "https://prtimes.jp/i/45277/142/ogp/d45277-142-5630bdd70217a12cdc20-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000044.000048644.html",
+          "author": null,
+          "description": "[株式会社KINS]\n[画像1: https://prtimes.jp/i/48644/44/resize/d48644-44-62902528c4eee01b0ba4-1.jpg ]\n\n■発表までの背景\n・皮膚常在菌が皮膚状態や皮膚関連疾患と関係している事は良く知られている。\n・中でもCutibacterium a...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000044.000048644.html",
+          "publishedOn": "2022-11-15T00:15:02.000Z",
+          "wordCount": 1588,
+          "title": "株式会社KINS、「郵送検査を用いた日本人女性の皮膚アクネ菌サブタイプ解析」について国際ヒトマイクロバイオームコンソーシアム国際会議（IHMC 2022 Kobe）にて学会発表",
+          "imageUrl": "https://prtimes.jp/i/48644/44/ogp/d48644-44-a1914b29cfe09e6773f9-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000054.000027824.html",
+          "author": null,
+          "description": "[株式会社ニューオータニ九州]\n[画像1: https://prtimes.jp/i/27824/54/resize/d27824-54-2e5a3934ac7072b83ee6-0.jpg ]\n\nホテルニューオータニ博多\n『デリシャスパーティ(ハート)プリキュア　クリスマスランチショー』\nhttps://www.kys-newota...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000054.000027824.html",
+          "publishedOn": "2022-11-15T00:15:02.000Z",
+          "wordCount": 1530,
+          "title": "【ホテルニューオータニ博多】大人気！『デリシャスパーティ(ハート)プリキュア　クリスマスランチショー』開催",
+          "imageUrl": "https://prtimes.jp/i/27824/54/ogp/d27824-54-2e5a3934ac7072b83ee6-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000003.000096761.html",
+          "author": null,
+          "description": "[株式会社 アントワーカー]\n生産者様や食肉卸業者様を応援！\n\n[画像1: https://prtimes.jp/i/96761/3/resize/d96761-3-a9729dde4628848fdfb1-0.jpg ]\n\n\n\n経済低迷の大きな要因となっている新型コロナウイルスの蔓延、食肉に関する小売、流通...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000003.000096761.html",
+          "publishedOn": "2022-11-15T00:15:02.000Z",
+          "wordCount": 1535,
+          "title": "【お肉のつぼ製作所・直売所】＜2022/11/19(土)キャンペーンスタート！＞ご自宅で美味しいお肉をリーズナブルに堪能！！～農水省 和牛肉保管在庫支援緊急対策事業を活用～",
+          "imageUrl": "https://prtimes.jp/i/96761/3/ogp/d96761-3-a9729dde4628848fdfb1-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000632.000080271.html",
+          "author": null,
+          "description": "[株式会社ナビット]\n[画像1: https://prtimes.jp/i/80271/632/resize/d80271-632-9e620787eaa5353af0c3-0.jpg ]\n\n\n\n日本の世界遺産、何個ある？\n\n日本には、現在25件の場所が世界遺産に登録されています。一番初めに登録されたのは、...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000632.000080271.html",
+          "publishedOn": "2022-11-15T00:15:02.000Z",
+          "wordCount": 1459,
+          "title": "日本の誇り！世界遺産、あなたは行ったことがある？",
+          "imageUrl": "https://prtimes.jp/i/80271/632/ogp/d80271-632-9e620787eaa5353af0c3-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000003135.000059861.html",
+          "author": null,
+          "description": "[Kenneth Research]\n調査期間: 2022年10月22日～10月29日\n\n調査業者: RNPL Inc.\n\n調査対象: あらゆる規模の 540 の市場プレーヤーに対して調査を実施しました。\n\n有効な回答数: 535\n\n調査方法: 実地調査265、インターネット調査270\n\n...",
+          "link": "https://prtimes.jp/main/html/rd/p/000003135.000059861.html",
+          "publishedOn": "2022-11-15T00:15:02.000Z",
+          "wordCount": 1523,
+          "title": "線維筋痛症治療薬に関する研究は、2022年の市場状況を理解するために実施されました。",
+          "imageUrl": "https://prtimes.jp/i/59861/3135/ogp/d59861-3135-d6feafd25fe16f1abf22-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000004.000107982.html",
+          "author": null,
+          "description": "[一般社団法人みなむすGOHAN PROJECT]\n 詳細はこちら\nhttps://oyako-aw2022.peatix.com/\n[画像1: https://prtimes.jp/i/107982/4/resize/d107982-4-6d28a6085df04aa7f42c-0.jpg ]\n\n\n\n2016年より開催している一般社団法人みなむすGOHAN PROJECT（代表理...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000004.000107982.html",
+          "publishedOn": "2022-11-15T00:10:00.000Z",
+          "wordCount": 1568,
+          "title": "【11/22申込〆切】親子で昔ながらの日本の伝統・発酵食を作ろう学ぼう！文化庁「親子で伝統食教室2022秋冬4講座」今年は全国から参加親子大募集！",
+          "imageUrl": "https://prtimes.jp/i/107982/4/ogp/d107982-4-6d28a6085df04aa7f42c-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000041.000036656.html",
+          "author": null,
+          "description": "[三菱ＵＦＪ信託銀行株式会社]\n三菱UFJ信託銀行株式会社（東京都千代田区、取締役社長：長島 巌）は、この度不動産マーケットリサーチレポートVol.216「東京オフィス市場の転換期は近いか」を発行しました。\n\n\nオフィス需給が緩和し、企業の移...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000041.000036656.html",
+          "publishedOn": "2022-11-15T00:08:23.000Z",
+          "wordCount": 1397,
+          "title": "【新レポート発行】不動産マーケットリサーチレポートVol.216「東京オフィス市場の転換期は近いか」",
+          "imageUrl": "https://prtimes.jp/i/36656/41/ogp/d36656-41-22d41f7753b93b46fc1e-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000001.000080208.html",
+          "author": null,
+          "description": "[丸安毛糸株式会社]\n[画像: https://prtimes.jp/i/80208/1/resize/d80208-1-eaebd430e5f42ae68903-0.jpg ]\n\n\n国内外で話題のNFTクリプトアーティスト16名が参加し、猫をテーマに制作したデジタルアート・イラスト・映像をNFTアートと...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000080208.html",
+          "publishedOn": "2022-11-15T00:06:03.000Z",
+          "wordCount": 1567,
+          "title": "#NFTCATTOKYO 『ネコといる暮らしVol.10』11月18日~11月27日 渋谷PARCO４階 POP UP SPACE「NFT×ニット」",
+          "imageUrl": "https://prtimes.jp/i/80208/1/ogp/d80208-1-eaebd430e5f42ae68903-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000029.000062523.html",
+          "author": null,
+          "description": "[株式会社カケハシ スカイソリューションズ]\n[画像1: https://prtimes.jp/i/62523/29/resize/d62523-29-bdb9263326824f746a6c-2.jpg ]\n\n\n■このアンケート調査でわかること\n\n●退職代行サービスを利用した理由\n・退職しようと思った理由\n\n●退職代行サービスを...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000029.000062523.html",
+          "publishedOn": "2022-11-15T00:00:00.000Z",
+          "wordCount": 1501,
+          "title": "退職代行サービスの利用者300人にアンケート調査を実施。口コミからわかった料金相場や評判を紹介します。",
+          "imageUrl": "https://prtimes.jp/i/62523/29/ogp/d62523-29-b1be3ae2fe8d3776e44e-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000021.000093374.html",
+          "author": null,
+          "description": "[地主株式会社]\n\n業績ハイライト\n\n\n連結決算概要１.　損益計算書\n売上高は29,770百万円（前年同期比9,914百万円減）、営業利益は3,685百万円（同91百万円増）、経常利益は3,707百万円（同47百万円増）、親会社株主に帰属する四半...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000021.000093374.html",
+          "publishedOn": "2022-11-14T23:45:02.000Z",
+          "wordCount": 1487,
+          "title": "地主株式会社　第３四半期連結決算を発表　利益予想を上方修正",
+          "imageUrl": "https://prtimes.jp/i/93374/21/ogp/d93374-21-ca0520fc4b6270da064c-3.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000002088.000012949.html",
+          "author": null,
+          "description": "[株式会社キョードーメディアス]\n2023年2月5日から2月14日、東京国際フォーラムホール C、2月20日から3月5日に大阪・梅田芸術劇場メインホール、その後、福岡・博多座、愛知・御園座と 4 都市にて、初の日本オリジナルキャスト版となるブロードウ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000002088.000012949.html",
+          "publishedOn": "2022-11-14T23:45:02.000Z",
+          "wordCount": 1520,
+          "title": "望海風斗主演!ブロードウェイ・ミュージカル 『ドリームガールズ』制作会見",
+          "imageUrl": "https://prtimes.jp/i/12949/2088/ogp/d12949-2088-d617cecb82f4a7d9ee1a-2.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000001.000110842.html",
+          "author": null,
+          "description": "[JKND JAPAN 株式会社]\nアメリカや日本のファッションカルチャーより影響を受けた韓国の90年代のユースカルチャーをベースに現代のトレンドをミックスすることを得意として展開。\n[画像1: https://prtimes.jp/i/110842/1/resize/d110842...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000110842.html",
+          "publishedOn": "2022-11-14T23:45:02.000Z",
+          "wordCount": 1483,
+          "title": "韓国・ソウル発ストリートブランド「thisisneverthat」海外初フラッグシップストアをオープン",
+          "imageUrl": "https://prtimes.jp/i/110842/1/ogp/d110842-1-3117a1c5771adc7c414d-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000250.000024045.html",
+          "author": null,
+          "description": "[株式会社レバレッジ]\n[画像1: https://prtimes.jp/i/24045/250/resize/d24045-250-cfe5d1cb0ee8aafdaf8e-0.jpg ]\n\n「前例のない熱狂を、しかける。」レバレッジは、2022年11月23日(水)の勤労感謝の日に、筋肉を労る日「筋労感謝の日」...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000250.000024045.html",
+          "publishedOn": "2022-11-14T23:45:02.000Z",
+          "wordCount": 1504,
+          "title": "筋労感謝の日！11月23日は筋肉を休めて喜ばせませんか？～改良湯でプロテインを飲んでととのえよう～",
+          "imageUrl": "https://prtimes.jp/i/24045/250/ogp/d24045-250-cfe5d1cb0ee8aafdaf8e-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001807.000029501.html",
+          "author": null,
+          "description": "[吉本興業株式会社]\nこのたび吉本興業所属・チョコレートプラネットが、自身のYouTubeチャンネルより生み出した、「EXTREME KETCHUP(エクストリームケチャップ)」 のワールドカップ大会を開催することが決定しました！\n\n2020年に開催...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001807.000029501.html",
+          "publishedOn": "2022-11-14T23:45:02.000Z",
+          "wordCount": 1540,
+          "title": "優勝賞金300万円！！チョコレートプラネット主催『EXTREME KETCHUP WORLD CUP』エクストリームケチャップワールドカップ 開催決定！",
+          "imageUrl": "https://prtimes.jp/i/29501/1807/ogp/d29501-1807-b45040743501f4e7017e-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000450.000017546.html",
+          "author": null,
+          "description": "[株式会社アガルート]\n[画像1: https://prtimes.jp/i/17546/450/resize/d17546-450-a4ae287651ea9e1fdaa7-0.png ]\n\n\n■令和4年（2022年）賃貸不動産経営管理士試験 解答速報\n詳細：http://bit.ly/3wU3x7Z\n\n-------------------\nアガルー...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000450.000017546.html",
+          "publishedOn": "2022-11-14T23:45:02.000Z",
+          "wordCount": 1499,
+          "title": "2022年賃貸不動産経営管理士試験【解答速報・総評動画】を試験当日に公開いたします！",
+          "imageUrl": "https://prtimes.jp/i/17546/450/ogp/d17546-450-a4ae287651ea9e1fdaa7-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000253.000020234.html",
+          "author": null,
+          "description": "[IGG]\n \n\n\n[画像1: https://prtimes.jp/i/20234/253/resize/d20234-253-0e8dbfcc146fea08bca6-0.jpg ]\n\n\n\n第16弾アートチャレンジキャンペーン 概要\n\n16回目の開催となる今回のアートチャレンジキャンペーンのテーマは...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000253.000020234.html",
+          "publishedOn": "2022-11-14T23:45:02.000Z",
+          "wordCount": 1580,
+          "title": "ロードモバイル、第16弾アートチャレンジキャンペーンを開催！入賞者には豪華賞品をプレゼント！",
+          "imageUrl": "https://prtimes.jp/i/20234/253/ogp/d20234-253-0e8dbfcc146fea08bca6-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000001.000111958.html",
+          "author": null,
+          "description": "[株式会社 エス・インターナショナル]\n[画像1: https://prtimes.jp/i/111958/1/resize/d111958-1-63d2531487c92fa24d41-0.jpg ]\n\n[画像2: https://prtimes.jp/i/111958/1/resize/d111958-1-2d1b8bbf89214cffd543-3.jpg ]\n\n「マルメ・ショコラファブリ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000111958.html",
+          "publishedOn": "2022-11-14T23:45:02.000Z",
+          "wordCount": 1688,
+          "title": "スウェーデン・マルメ発！130年以上愛されている100％オーガニックチョコレート「マルメ・ショコラファブリック」2022年11月17日（木）より日本で本格販売開始",
+          "imageUrl": "https://prtimes.jp/i/111958/1/ogp/d111958-1-63d2531487c92fa24d41-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000059.000020010.html",
+          "author": null,
+          "description": "[株式会社スマイルアカデミー]\n[画像1: https://prtimes.jp/i/20010/59/resize/d20010-59-736883b65608c130b20d-0.png ]\n\n株式会社スマイルアカデミー（福岡県福岡市）が運営する「マッチョフリー素材サイト『マッスルプラス』」と「のこのしま...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000059.000020010.html",
+          "publishedOn": "2022-11-14T22:40:00.000Z",
+          "wordCount": 1584,
+          "title": "【筋肉で地方創生】マッスルプラスがのこのしまアイランドパーク(福岡)とコラボ！新作マッチョフリー素材「コスモス畑のマッチョ」を入荷しました！",
+          "imageUrl": "https://prtimes.jp/i/20010/59/ogp/d20010-59-736883b65608c130b20d-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000002209.000072515.html",
+          "author": null,
+          "description": "[SDKI Inc.]\n調査期間：2022年10月29日―11月5日\n\n調査業者： SDKI Inc.\n\n調査対象： 当社は、あらゆる規模の 546 の市場プレーヤーに対して調査を実施しました。\n\n有効な回答の数: 540\n\n調査方法：実地調査250、インターネッ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000002209.000072515.html",
+          "publishedOn": "2022-11-14T13:20:19.000Z",
+          "wordCount": 1533,
+          "title": "2022年のランドスケープを理解するために、世界の牛乳房炎市場に関する調査が実施されました。",
+          "imageUrl": "https://prtimes.jp/i/72515/2209/ogp/d72515-2209-de930762dca2597db8a1-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001664.000005069.html",
+          "author": null,
+          "description": "[株式会社　宝島社]\n[画像1: https://prtimes.jp/i/5069/1664/resize/d5069-1664-4c5d8b4c0ff01e90fc84-0.png ]\n\n↓【数量限定 ワンコインセール開催中！】kippis perefct beauty Mask BOOK 不織布タイプ825円（税込）を499円（...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001664.000005069.html",
+          "publishedOn": "2022-11-14T12:15:02.000Z",
+          "wordCount": 1650,
+          "title": "［期間限定セール］華やかガーゼマスクとタオルがセットで832円！ 不織布防御フィルター入り ＆秋冬コーデに映えるデザイン",
+          "imageUrl": "https://prtimes.jp/i/5069/1664/ogp/d5069-1664-4c5d8b4c0ff01e90fc84-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000002.000111750.html",
+          "author": null,
+          "description": "[ハナウタカジツ]\n[画像: https://prtimes.jp/i/111750/2/resize/d111750-2-f9781529ee561c6df49f-0.jpg ]\n\n【本取り組みの背景】\n\nこのプロジェクトでは、「食べチョクに出品されている沢山の商品の中で何を買ったらいいかわから...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000002.000111750.html",
+          "publishedOn": "2022-11-14T11:57:54.000Z",
+          "wordCount": 1471,
+          "title": "食べチョクに登録している熊本県の農家が協力して試供品やチラシを同梱するプロジェクトを始動",
+          "imageUrl": "https://prtimes.jp/i/111750/2/ogp/d111750-2-f9781529ee561c6df49f-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000020.000080690.html",
+          "author": null,
+          "description": "[株式会社シルバーバックス・プリンシパル]\n[画像1: https://prtimes.jp/i/80690/20/resize/d80690-20-35a3e9141e41e55f9826-0.jpg ]\n\n神戸港でレストランクルーズ船を運営する株式会社神戸クルーザー（株式会社シルバーバックス・プリンシパルグループ）で...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000020.000080690.html",
+          "publishedOn": "2022-11-14T11:50:09.000Z",
+          "wordCount": 1535,
+          "title": "【THE KOBE CRUISE＜ルミナス神戸2＞】大阪万博や統合型リゾート構想（IR）を見据え「大阪航路」実現へ向けたモニタークルーズを実施",
+          "imageUrl": "https://prtimes.jp/i/80690/20/ogp/d80690-20-35a3e9141e41e55f9826-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000022.000110398.html",
+          "author": null,
+          "description": "[xiangxiangweilai guangzhou maoyi youxiangongsi]\n[画像1: https://prtimes.jp/i/110398/22/resize/d110398-22-88ed5bbecbf4fd211b09-0.jpg ]\n\n\nBMAX MaxPad I10 Proは10.1インチFHDディスプレイを搭載したタブレットです。UNISOC T310 SoCを搭載し、4GBのRAM、64...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000022.000110398.html",
+          "publishedOn": "2022-11-14T11:50:00.000Z",
+          "wordCount": 1634,
+          "title": "iPad Airより軽い1万円台LTEタブ 「BMAX I10 Pro」わずか14,900円!!",
+          "imageUrl": "https://prtimes.jp/i/110398/22/ogp/d110398-22-88ed5bbecbf4fd211b09-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000158.000051381.html",
+          "author": null,
+          "description": "[株式会社ジーアイビー]\nコインランドリーを全国に202店舗(11月14日現在)展開している株式会社ジーアイビー（本社：名古屋市中区、代表取締役社長：鈴木衛）は、全国29か所目となる災害協定「災害時における防災資機材の提供に関する協定...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000158.000051381.html",
+          "publishedOn": "2022-11-14T11:40:02.000Z",
+          "wordCount": 1562,
+          "title": "【全国29か所目の災害協定】株式会社ジーアイビー　大阪府貝塚市と「災害時における防災資機材の提供に関する協定」を締結",
+          "imageUrl": "https://prtimes.jp/i/51381/158/ogp/d51381-158-030c4d8323fa2916508e-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001032.000072793.html",
+          "author": null,
+          "description": "[国立大学法人岡山大学]\n2022（令和4）年 11月 14日\n国立大学法人岡山大学\nhttps://www.okayama-u.ac.jp/\n\n[画像1: https://prtimes.jp/i/72793/1032/resize/d72793-1032-2c9cc1035c1dd9ec4890-0.jpg ]\n\n\n\n◆概 要\n国吉祭は、「国吉康雄」...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001032.000072793.html",
+          "publishedOn": "2022-11-14T11:32:23.000Z",
+          "wordCount": 1659,
+          "title": "【岡山大学】国吉祭 2022 CARAVAN in 和気町〔11/19土, ENTER WAKE〕",
+          "imageUrl": "https://prtimes.jp/i/72793/1032/ogp/d72793-1032-2c9cc1035c1dd9ec4890-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000070.000098199.html",
+          "author": null,
+          "description": "[川西市]\n[画像: https://prtimes.jp/i/98199/70/resize/d98199-70-02597f37cc4aa9512890-0.jpg ]\n\n【詳細】\n　コロナ禍で新たな生活様式が普及し、働き方が大きく変わるとともに、会社での勤務にとらわれない働き方への理...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000070.000098199.html",
+          "publishedOn": "2022-11-14T10:15:02.000Z",
+          "wordCount": 1418,
+          "title": "【川西市】それぞれの生活スタイルやスキルに応じた多様な働き方の実現を応援するセミナーなどを開催。",
+          "imageUrl": "https://prtimes.jp/i/98199/70/ogp/d98199-70-02597f37cc4aa9512890-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000263.000057042.html",
+          "author": null,
+          "description": "[楽天ペイメント株式会社]\n[画像1: https://prtimes.jp/i/57042/263/resize/d57042-263-201022eed7a78685b63f-0.jpg ]\n\n\n　コモディイイダと楽天ペイメント、楽天Ｅｄｙは、共通ポイントサービス「楽天ポイントカード」と電子マネー「楽天...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000263.000057042.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1460,
+          "title": "コモディイイダで「楽天ポイントカード」と「楽天Ｅｄｙ」が利用可能に",
+          "imageUrl": "https://prtimes.jp/i/57042/263/ogp/d57042-263-201022eed7a78685b63f-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000350.000034350.html",
+          "author": null,
+          "description": "[株式会社ヨウジヤマモト]\n[画像1: https://prtimes.jp/i/34350/350/resize/d34350-350-37b1495923bf7eb88af7-0.jpg ]\n\nYohji Yamamoto POUR HOMMEは、11月16日(水)～11月29日(火)の期間、伊勢丹メンズ館 2FプロモーションスペースにてPOP-...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000350.000034350.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1602,
+          "title": "Yohji Yamamoto POUR HOMME 伊勢丹新宿店メンズ館2階 ポップアップストアを開催11/16(水)～11月29日(火)",
+          "imageUrl": "https://prtimes.jp/i/34350/350/ogp/d34350-350-37b1495923bf7eb88af7-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000636.000005593.html",
+          "author": null,
+          "description": "[株式会社Cygames]\n\n第7話『獣抗争史！秋葉外生命体血戦!!』あらすじ・先行カット・WEB予告公開！\n\n\n\n[画像1: https://prtimes.jp/i/5593/636/resize/d5593-636-ce4449980558613a696e-17.jpg ]\n\n[画像2: https://prtimes.jp/i/5593/...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000636.000005593.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1794,
+          "title": "【11月17日(木)24:00～ 第7話放送！】オリジナルTVアニメ「アキバ冥途戦争」あらすじ・先行カット公開！",
+          "imageUrl": "https://prtimes.jp/i/5593/636/ogp/d5593-636-ce4449980558613a696e-17.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000167.000085975.html",
+          "author": null,
+          "description": "[株式会社Kyogoku]\n以前より「Kyogoku ファミリー」 というサービスがございますが、お客様のご要望によりさらに入会いただきやすく進化したサービスが開始いたしました。\n\n\n「Kyogoku ファミリー ライト」\n\n\n\n[画像1: https://prti...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000167.000085975.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1459,
+          "title": "株式会社kyogokuが展開する美容ブランド「KYOGOKU PROFESSIONAL」に新サービス「Kyogoku ファミリー ライト」が導入されました！",
+          "imageUrl": "https://prtimes.jp/i/85975/167/ogp/d85975-167-34ddbc7947dda9119049-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000050.000031678.html",
+          "author": null,
+          "description": "[株式会社アスリーエイチ]\n株式会社アスリーエイチ（本社：東京都港区、代表取締役 李 熙燮）は、ウィッチズポーチ パフュームハンドクリームを発売します。\n12月15日全国のドラックストア、バラエティショップ、ウィッチズポーチ公式サイ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000050.000031678.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1481,
+          "title": "Witch's Pouch（ウィッチズポーチ）を展開するアスリーエイチからウィッチズポーチ パフュームハンドクリーム発売",
+          "imageUrl": "https://prtimes.jp/i/31678/50/ogp/d31678-50-17657cd3f40f1fb83fd7-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000018.000088630.html",
+          "author": null,
+          "description": "[メディアテックジャパン株式会社]\n2022年11月10日 — MediaTek（本社：台湾・新竹市、以下 MediaTek）は本日、4K 120Hzディスプレイ向けに設計された最新のフラッグシップスマートTVシステムオンチップ（SoC）「Pentonic 1000」を発表しまし...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000018.000088630.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1557,
+          "title": "MediaTek、フラッグシップ4K 120HzTVをアップグレードする新たなチップセット「Pentonic 1000」を発表",
+          "imageUrl": "https://prtimes.jp/i/88630/18/ogp/d88630-18-f43d943338b5553ad74c-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000206.000047490.html",
+          "author": null,
+          "description": "[HeaR株式会社]\n[画像1: https://prtimes.jp/i/47490/206/resize/d47490-206-ea713e920f9ac25a15ab-0.png ]\n\n\n\n\nHeaR採用業務代行(RPO)サービスとは　 https://bit.ly/hear-rpo-pr\n\nHeaRの「採用業務代行(RPO)」は、求職者から選...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000206.000047490.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1534,
+          "title": "採用支援のHeaR、プロと壁打ちもできる新しい採用業務代行サービス（RPO）を開始",
+          "imageUrl": "https://prtimes.jp/i/47490/206/ogp/d47490-206-ea713e920f9ac25a15ab-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000132.000004901.html",
+          "author": null,
+          "description": "[HCNET]\n[画像1: https://prtimes.jp/i/4901/132/resize/d4901-132-e945c275a38293509d6f-0.png ]\n\n大学ＩＣＴ推進協議会は、高等教育・学術研究機関における情報通信技術を利用した教育・研究・経営の高度化を図り、日本...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000132.000004901.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1531,
+          "title": "HCNETがArubaと 「AXIES 2022」に共同出展",
+          "imageUrl": "https://prtimes.jp/i/4901/132/ogp/d4901-132-e945c275a38293509d6f-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000112.000004491.html",
+          "author": null,
+          "description": "[アディーレ法律事務所]\n[画像1: https://prtimes.jp/i/4491/112/resize/d4491-112-3081581b3851999a539d-2.jpg ]\n\n\n\n出展内容\n\n\n弁護士や法律を身近に感じていただくため、アディーレの出展ブースは「あそびばアディーレ！」と題し、弁...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000112.000004491.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1555,
+          "title": "大阪「よみうりコドモ万博」　アディーレ法律事務所が出展【11/19（土）・20（日）】",
+          "imageUrl": "https://prtimes.jp/i/4491/112/ogp/d4491-112-3081581b3851999a539d-2.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000432.000053012.html",
+          "author": null,
+          "description": "[株式会社ベストホスピタリティーネットワーク]\n[画像1: https://prtimes.jp/i/53012/432/resize/d53012-432-1d2cda4c410aa49dcace-0.jpg ]\n\n　「りんごとアールグレイのスフレパンケーキ」はアールグレイの茶葉ごと生地に練り込み、紅茶の上品な香りとふわふわ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000432.000053012.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1518,
+          "title": "りんごとアールグレイのスフレパンケーキ",
+          "imageUrl": "https://prtimes.jp/i/53012/432/ogp/d53012-432-1d2cda4c410aa49dcace-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000032.000103079.html",
+          "author": null,
+          "description": "[木内酒造株式会社]\n\n店舗概要\n\n　JR常磐線・水郡線のターミナル駅であるJR水戸駅に直結したエクセルみなみ3階の入り口すぐの立地に、木内酒造の直営店「木内酒造1823」がオープンします。\n\n[画像: https://prtimes.jp/i/103079/32/r...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000032.000103079.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1482,
+          "title": "木内酒造の直営店「木内酒造1823」JR水戸駅ビルに11月21日新規オープン",
+          "imageUrl": "https://prtimes.jp/i/103079/32/ogp/d103079-32-673255dfe15b17006ce1-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000344.000035774.html",
+          "author": null,
+          "description": "[株式会社小田急百貨店]\n[画像: https://prtimes.jp/i/35774/344/resize/d35774-344-0345fd745e2a0f89318c-0.jpg ]\n\n　\n　スイーツやお茶、生鮮食品などの食料品から、化粧品、服飾雑貨、リビング用品まで７０ブランド以上のお得な福袋を...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000344.000035774.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1408,
+          "title": "WEBで予約、店頭受け取りも！「2023年 小田急の福袋」11月16日（水）からECサイトにて予約受付をスタート",
+          "imageUrl": "https://prtimes.jp/i/35774/344/ogp/d35774-344-0345fd745e2a0f89318c-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000001.000111859.html",
+          "author": null,
+          "description": "[有限会社あんじ]\n＜ミセスリンダのフライドチキン＞\n京都錦市場の西側に2022年1月にオープンした「ミセスリンダのフライドチキン」。ビブグルマン5年連続獲得したセクションドール永松シェフ監修のもと20数種のオリジナルブレンド...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000111859.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1508,
+          "title": "京都発のフライドチキン専門店「ミセスリンダのフライドチキン」が、京都東山で三姉妹が経営する小さな町のパン屋さんとコラボ「しばタルバーガー」を新発売！",
+          "imageUrl": "https://prtimes.jp/i/111859/1/ogp/d111859-1-2b84ec942015e5572431-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000069.000098199.html",
+          "author": null,
+          "description": "[川西市]\n[画像: https://prtimes.jp/i/98199/69/resize/d98199-69-d44c8a50e76c3ef8c864-0.jpg ]\n\n　例年、この季節に開催している「郷土館まつり」。多くの人に訪れてもらうことで、郷土館に親しみを持ってほしいという...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000069.000098199.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1395,
+          "title": "【川西市】国登録有形文化財に親しむ「郷土館まつり」を開催",
+          "imageUrl": "https://prtimes.jp/i/98199/69/ogp/d98199-69-d44c8a50e76c3ef8c864-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000040.000045698.html",
+          "author": null,
+          "description": "[NextDrive株式会社]\n[画像1: https://prtimes.jp/i/45698/40/resize/d45698-40-8c45901754b23e54586c-0.png ]\n\n「EdgeTech+ 2022」の会期2日目となる2022年11月17日（木）の16:15より、展示会場内センターステージAにおいて授賞式が...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000040.000045698.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1579,
+          "title": "NextDriveが総販売代理店を務めるK-Best Technology社 「EdgeTech+ AWARD 2022」受賞のお知らせ",
+          "imageUrl": "https://prtimes.jp/i/45698/40/ogp/d45698-40-8c45901754b23e54586c-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000002.000111905.html",
+          "author": null,
+          "description": "[サンコー株式会社]\n2022年11月14日\n\n[画像1: https://prtimes.jp/i/111905/2/resize/d111905-2-4227f8060d831650be1d-7.jpg ]\n\n　News Release\n\n\n3段階の挽きたての美味しいコーヒーが家で味わえる全自動コーヒーメーカー\n『全自動...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000002.000111905.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1547,
+          "title": "『全自動３段ミル付きコーヒーメーカー「本格派バリスタ」』を発売",
+          "imageUrl": "https://prtimes.jp/i/111905/2/ogp/d111905-2-729c14b5eb7fdc7aebd1-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000009.000022489.html",
+          "author": null,
+          "description": "[株式会社BUS]\n[画像1: https://prtimes.jp/i/22489/9/resize/d22489-9-18cbeead60b8fda45a15-0.jpg ]\n\n\n\n【応募要項】\n●募集期間：2022年11月14日から12月31日（土）まで\n●選考：事業内容資料を基に厳正なる選考により10事業者...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000009.000022489.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1501,
+          "title": "＜日本文化の魅力を世界へ＞エシカル消費を担う応援購入アプリ「ことみえ」を運営する「BUS」、動画コンテンツ検証先 生産事業者を募集開始！",
+          "imageUrl": "https://prtimes.jp/i/22489/9/ogp/d22489-9-18cbeead60b8fda45a15-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000578.000060591.html",
+          "author": null,
+          "description": "[ルイ・ヴィトン ジャパン株式会社]\nルイ・ヴィトンより、メゾンを代表するモノグラム・エクリプス キャンバスに\nグラフィティを思わせるアレンジを加えた新作バッグとレザーグッズが登場します。\n\nスプレー状の色彩で施されたモノグラム・モチーフ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000578.000060591.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1449,
+          "title": "【ルイ・ヴィトン】 グラフィティを思わせるアレンジを加えた新作バッグとレザーグッズが登場",
+          "imageUrl": "https://prtimes.jp/i/60591/578/ogp/d60591-578-10c8ac04ecb82db08e41-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000151.000037968.html",
+          "author": null,
+          "description": "[住信SBIネット銀行株式会社]\n[画像1: https://prtimes.jp/i/37968/151/resize/d37968-151-530d7f632f05d722514c-0.png ]\n\n\n■提携の背景・目的\n住信SBIネット銀行は「金融業における近未来領域の開拓と革新的な事業モデルの追求」を経営理念の...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000151.000037968.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1411,
+          "title": "住信SBIネット銀行、三井住友カードのクレジットカード申込紹介を開始",
+          "imageUrl": "https://prtimes.jp/i/37968/151/ogp/d37968-151-530d7f632f05d722514c-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000003827.000011495.html",
+          "author": null,
+          "description": "[サンワサプライ株式会社]\n[画像1: https://prtimes.jp/i/11495/3827/resize/d11495-3827-9491c1b147a71ef443bc-0.jpg ]\n\n【掲載ページ】\n取っ手付きPCインナーケース\n品番：IN-GH11BK-RE/IN-GH13BK-RE/IN-GH15BK-RE\n標準価格：2,640円（税...",
+          "link": "https://prtimes.jp/main/html/rd/p/000003827.000011495.html",
+          "publishedOn": "2022-11-14T09:15:02.000Z",
+          "wordCount": 1508,
+          "title": "リサイクルポリエステルを使った環境にやさしいインナーケースを発売",
+          "imageUrl": "https://prtimes.jp/i/11495/3827/ogp/d11495-3827-9491c1b147a71ef443bc-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001301.000077920.html",
+          "author": null,
+          "description": "[海と日本プロジェクト広報事務局]\n[画像1: https://prtimes.jp/i/77920/1301/resize/d77920-1301-155389e4d1257d319275-0.png ]\n\n事前予約は不要で、参加費無料のイベントです。このイベントは、次世代へ豊かで美しい海を引き継ぐために、海を介し...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001301.000077920.html",
+          "publishedOn": "2022-11-14T08:40:02.000Z",
+          "wordCount": 1610,
+          "title": "日本各地の海の中をバーチャルキャラクターと海中散歩　Virtual Ocean Project 企画「海中の大冒険！ \"海\"を学ぶ探検ツアー」開催",
+          "imageUrl": "https://prtimes.jp/i/77920/1301/ogp/d77920-1301-155389e4d1257d319275-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001198.000031998.html",
+          "author": null,
+          "description": "[株式会社 U-NEXT]\n[画像1: https://prtimes.jp/i/31998/1198/resize/d31998-1198-119a278f187314f42b19-0.jpg ]\n\nHBO Maxオリジナル『プリティ・リトル・ライアーズ ORIGINAL SIN』は、大人気シリーズ『プリティ・リトル・ライアー...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001198.000031998.html",
+          "publishedOn": "2022-11-14T08:40:02.000Z",
+          "wordCount": 1577,
+          "title": "あの大ヒットドラマがリブート！Z世代の女子高校生が新たな“A”の襲撃に立ち向かう『プリティ・リトル・ライアーズ ORIGINAL SIN』U-NEXT見放題独占配信決定！予告編＆OP映像も解禁",
+          "imageUrl": "https://prtimes.jp/i/31998/1198/ogp/d31998-1198-119a278f187314f42b19-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001004.000026157.html",
+          "author": null,
+          "description": "[RX Japan株式会社]\n[画像1: https://prtimes.jp/i/26157/1004/resize/d26157-1004-2db7bcc2e229e66e4ec2-18.png ]\n\n本展では、飲食店向けの配膳・サービスロボット、POSシステム、モバイルオーダー、外食DX、集客支援ソリューション...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001004.000026157.html",
+          "publishedOn": "2022-11-14T08:40:02.000Z",
+          "wordCount": 1567,
+          "title": "12月、ついに初開催！飲食店の自動化・DXを実現できる展示会「スマートレストラン EXPO」【12/7(水)～9(金) 幕張メッセ】",
+          "imageUrl": "https://prtimes.jp/i/26157/1004/ogp/d26157-1004-2db7bcc2e229e66e4ec2-18.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000918.000003392.html",
+          "author": null,
+          "description": "[株式会社ＴＢＳラジオ]\n[画像1: https://prtimes.jp/i/3392/918/resize/d3392-918-332b11e2dc61aac3f418-0.jpg ]\n\n『井上芳雄 by MYSELF』（毎週日曜夜10時～10時30分）は、井上芳雄がパーソナリティを務めるラジオ番組。毎回スタジオで...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000918.000003392.html",
+          "publishedOn": "2022-11-14T08:40:02.000Z",
+          "wordCount": 1423,
+          "title": "11月20日（日）『井上芳雄 by MYSELF』のゲストは、藤澤ノリマサさん！",
+          "imageUrl": "https://prtimes.jp/i/3392/918/ogp/d3392-918-332b11e2dc61aac3f418-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000828.000000640.html",
+          "author": null,
+          "description": "[日本エイサー株式会社]\n日本エイサー株式会社（本社：東京都新宿区、代表取締役社長：ボブ・セン）は、同社のパソコン、モニター、プロジェクター、ガジェット、空調家電の各種製品を取り扱うAcer 公式オンラインストアにて、本日2022年...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000828.000000640.html",
+          "publishedOn": "2022-11-14T08:40:02.000Z",
+          "wordCount": 1656,
+          "title": "Acer公式オンラインストア、eスポーツ大会 Predator League 2022ありがとう感謝祭をスタート！11月14日～21日の一週間限定開催！",
+          "imageUrl": "https://prtimes.jp/i/640/828/ogp/d640-828-c378d3ba4c0dacd2cc99-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000724.000001375.html",
+          "author": null,
+          "description": "[キヤノンITソリューションズ株式会社]\n[画像: https://prtimes.jp/i/1375/724/resize/d1375-724-dc086efd75f13b54c70f-0.png ]\n\n小売業・サービス業では、労働力不足や人件費の高騰、多様化する消費者ニーズなどへの対応策として、店舗オペレーション...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000724.000001375.html",
+          "publishedOn": "2022-11-14T08:40:02.000Z",
+          "wordCount": 1491,
+          "title": "【無料オンラインセミナー】「AI映像技術で実現する小売DX推進セミナー」 を2022年11月29日（火）に開催",
+          "imageUrl": "https://prtimes.jp/i/1375/724/ogp/d1375-724-dc086efd75f13b54c70f-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000676.000014511.html",
+          "author": null,
+          "description": "[株式会社バロックジャパンリミテッド]\n[画像1: https://prtimes.jp/i/14511/676/resize/d14511-676-709c0a6dd1a06d7ee8ca-0.jpg ]\n\n\n\n\nYAGI EXHIBITION（ヤギ エキシビジョン）とは\n\n　OKAMOTO’Sのドラマー、オカモトレイジがキュレーションを手...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000676.000014511.html",
+          "publishedOn": "2022-11-14T08:40:02.000Z",
+          "wordCount": 1656,
+          "title": "MOUSSY（マウジー）とYAGI EXHIBITION（ヤギ エキシビジョン）のカプセルコレクション「MOUSSYAGI（マウジーヤギ）」が誕生！",
+          "imageUrl": "https://prtimes.jp/i/14511/676/ogp/d14511-676-709c0a6dd1a06d7ee8ca-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000662.000014510.html",
+          "author": null,
+          "description": "[株式会社Globridge]\n[画像1: https://prtimes.jp/i/14510/662/resize/d14510-662-8041f1e90ae1a48731e2-2.png ]\n\n\n業務提携の背景・目的\nグロブリッジは、都内を中心に飲食直営店の多店舗展開の他、デリバリー専用ブランドプラットフ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000662.000014510.html",
+          "publishedOn": "2022-11-14T08:40:02.000Z",
+          "wordCount": 1511,
+          "title": "デリバリー大手グロブリッジと急成長展開をみせるホルモンたけ田が、アフターコロナの飲食店新モデル構築にむけ業務提携",
+          "imageUrl": "https://prtimes.jp/i/14510/662/ogp/d14510-662-8041f1e90ae1a48731e2-2.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000571.000003467.html",
+          "author": null,
+          "description": "[チロルチョコ株式会社]\n複数フレーバー入りのアソートタイプ！家族・友人・職場の同僚のみんなで食べても、自分用としてでも楽しめる、バレンタインシーズン限定の2品が登場します。 \n\n[画像1: https://prtimes.jp/i/3467/571/resize/d3...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000571.000003467.html",
+          "publishedOn": "2022-11-14T08:40:02.000Z",
+          "wordCount": 1483,
+          "title": "バレンタインにおすすめ！チロルチョコ新商品「スイートチロルカップ」「ビッグチロル＜ゴールド＞」を全国で期間限定発売",
+          "imageUrl": "https://prtimes.jp/i/3467/571/ogp/d3467-571-421ea75ea3299bd5f571-9.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000569.000003467.html",
+          "author": null,
+          "description": "[チロルチョコ株式会社]\n[画像1: https://prtimes.jp/i/3467/569/resize/d3467-569-1d8628f5414057918be5-9.jpg ]\n\n■商品名\n「どら焼き〈袋〉」\n[画像2: https://prtimes.jp/i/3467/569/resize/d3467-569-d22ed8c08fa050a880dc-0.png ]\n\n...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000569.000003467.html",
+          "publishedOn": "2022-11-14T08:40:02.000Z",
+          "wordCount": 1474,
+          "title": "人気商品の“どら焼き“をチロルで再現！新商品「どら焼き〈袋〉」をヤオコーで発売♪",
+          "imageUrl": "https://prtimes.jp/i/3467/569/ogp/d3467-569-d22ed8c08fa050a880dc-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000538.000073077.html",
+          "author": null,
+          "description": "[キリンホールディングス株式会社]\n　キリンは、JFAと共創価値を通じた社会課題解決を目指すとともに、持続可能な社会に向け、キリンのCSVパーパスの一つである「コミュニティ」に取り組んでいきます。キリンはこれまで、キリンチャレンジカップな...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000538.000073077.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1534,
+          "title": "JFA×KIRIN共催「キリンファミリーチャレンジカップ」始動",
+          "imageUrl": "https://prtimes.jp/i/73077/538/ogp/d73077-538-4453a7cc266b12ed807c-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000403.000059164.html",
+          "author": null,
+          "description": "[第一法規株式会社]\n[画像1: https://prtimes.jp/i/59164/403/resize/d59164-403-f72a46eee2fdff341b31-2.jpg ]\n\n\n詳細・試し読み・購入はこちら\nhttps://www.daiichihoki.co.jp/store/products/detail/104553.html?utm_source=prtim...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000403.000059164.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1557,
+          "title": "【新刊】『用字用語　新表記辞典　新訂五版』発刊！",
+          "imageUrl": "https://prtimes.jp/i/59164/403/ogp/d59164-403-8e60fd13a43c578197ef-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000388.000002922.html",
+          "author": null,
+          "description": "[マーク ジェイコブス ジャパン株式会社]\n[画像1: https://prtimes.jp/i/2922/388/resize/d2922-388-fe6ca79224da933a4ef9-0.png ]\n\nザ  モノグラム フォンケース ￥10,450　※iPhone 14 Pro\n\nこの度、「マーク ジェイコブス (MARC JACOBS)」は、ブランド...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000388.000002922.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1543,
+          "title": "MARC JACOBS、アイコニックな「THE MONOGRAM」コレクションからフォンケースが初登場！全3色で展開。",
+          "imageUrl": "https://prtimes.jp/i/2922/388/ogp/d2922-388-fe6ca79224da933a4ef9-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000371.000015355.html",
+          "author": null,
+          "description": "[ゴディバ ジャパン株式会社]\nここでしか味わえない特別なゴディバに出会える「ATELIER de GODIVA」では、アトリエならではの幸せな体験や驚きを感じていただける限定スイーツを提供いたします。\n\n\n[画像1: https://prtimes.jp/i/15355/371/re...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000371.000015355.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1741,
+          "title": "ATELIER de GODIVAより、きらびやかな季節を華やかに彩る「アトリエ ドゥ ゴディバ ホリデー ＆ ニューイヤー」7種類登場",
+          "imageUrl": "https://prtimes.jp/i/15355/371/ogp/d15355-371-87dbdcc051c4de640279-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000321.000059072.html",
+          "author": null,
+          "description": "[中外鉱業株式会社]\n[画像1: https://prtimes.jp/i/59072/321/resize/d59072-321-d9616dd01a84d9add471-0.jpg ]\n\n『「夢職人と忘れじの黒い妖精」POP UP SHOP in OIOI』で販売されたグッズの一般販売が決定！\n2022年11月14日(月)より...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000321.000059072.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1588,
+          "title": "『「夢職人と忘れじの黒い妖精」POP UP SHOP in OIOI』で販売された「トレーディング箔押しプラブロマイド」「ギルドエンブレムステッカー」などのグッズ13点が一般発売決定！",
+          "imageUrl": "https://prtimes.jp/i/59072/321/ogp/d59072-321-d9616dd01a84d9add471-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000268.000011791.html",
+          "author": null,
+          "description": "[ニューワールド株式会社]\n[画像1: https://prtimes.jp/i/11791/268/resize/d11791-268-0bf3d29639652a1ce999-0.png ]\n\n\n\n三条市発！マクアケプロジェクトを公開\n\n\n[画像2: https://prtimes.jp/i/11791/268/resize/d11791-268-f5030cfc2bf2...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000268.000011791.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1509,
+          "title": "【第二弾】ニューワールド、新潟県三条市との「販路開拓支援事業」にて三条市内企業が開発した新商品のMakuakeプロジェクトページを制作",
+          "imageUrl": "https://prtimes.jp/i/11791/268/ogp/d11791-268-0bf3d29639652a1ce999-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000255.000007963.html",
+          "author": null,
+          "description": "[アニヴェルセル株式会社]\n　全国でゲストハウスウエディングを中心に、様々な記念日プロデュース事業を展開しているアニヴェルセル(株)は、累計40万ダウンロード突破！【アニヴェルセルオリジナル婚姻届】に新デザインを5種類追加いたしま...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000255.000007963.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1563,
+          "title": "いい夫婦の日（11月22日）いい夫妻の日（11月23日）に入籍する方にもぴったり(ハート) 【アニヴェルセルオリジナル婚姻届】5種のデザインが新登場！",
+          "imageUrl": "https://prtimes.jp/i/7963/255/ogp/d7963-255-cec300009c40ebbe73d9-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000250.000071317.html",
+          "author": null,
+          "description": "[株式会社報知新聞社]\n報知ジャイアンツカレンダー2023\n\n[画像1: https://prtimes.jp/i/71317/250/resize/d71317-250-7a683e97970f3c678622-1.jpg ]\n\n定 価：1,900円（税込）\n体 裁：A2判（594mm×420mm）14枚綴（表紙・年暦含）\n...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000250.000071317.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1498,
+          "title": "2023年「報知ジャイアンツカレンダー」11月14日より発売",
+          "imageUrl": "https://prtimes.jp/i/71317/250/ogp/d71317-250-7a683e97970f3c678622-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000226.000075419.html",
+          "author": null,
+          "description": "[独立行政法人国立高等専門学校機構]\n[画像1: https://prtimes.jp/i/75419/226/resize/d75419-226-baf0afb1ddcb43befb2e-1.jpg ]\n\n\n\n＜目的＞\n\n[画像2: https://prtimes.jp/i/75419/226/resize/d75419-226-78ec9779a55e2191c9f1-2.jpg ]\n\n　本活動は...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000226.000075419.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1448,
+          "title": "鹿児島高専生によるオンライン出前授業",
+          "imageUrl": "https://prtimes.jp/i/75419/226/ogp/d75419-226-baf0afb1ddcb43befb2e-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000201.000055920.html",
+          "author": null,
+          "description": "[株式会社DouYu Japan]\nライブ配信サービス「Mildom（ミルダム）」を運営する株式会社DouYu Japan（ドウユウジャパン）は、Vtuber支援プログラム『Mildom Vtuber Project』（以下、MVP）を11月より開始いたしました。本プログラムを通じ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000201.000055920.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1521,
+          "title": "ライブ配信サービス「Mildom」は、Vtuber支援プログラム『Mildom Vtuber Project』を11月より提供開始",
+          "imageUrl": "https://prtimes.jp/i/55920/201/ogp/d55920-201-6660bab98a34f23b3ca9-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000165.000027493.html",
+          "author": null,
+          "description": "[株式会社FIREBUG]\n[画像1: https://prtimes.jp/i/27493/165/resize/d27493-165-7ce1190778b3f98161e0-0.jpg ]\n\n株式会社宣伝会議主催の 「宣伝会議サミット 2022」 に、当社代表取締役 CEO 佐藤詳悟の登壇が決定いたしました。\n\n11...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000165.000027493.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1584,
+          "title": "【登壇情報】 11月18日(金) 「宣伝会議サミット2022」に 当社代表取締役 CEO 佐藤詳悟が登壇いたします",
+          "imageUrl": "https://prtimes.jp/i/27493/165/ogp/d27493-165-7ce1190778b3f98161e0-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000161.000054281.html",
+          "author": null,
+          "description": "[信和グループ]\n[画像1: https://prtimes.jp/i/54281/161/resize/d54281-161-f7d08b4a457315ab3074-2.jpg ]\n\n\n\n\n「スマイリーネプチューン」\n\n港町、神戸のハーバービューを満喫できるホテル最上階のメインダイニングです。眺望...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000161.000054281.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1590,
+          "title": "「ホテルプラザ神戸」最上階レストランスマイリーネプチューン＆鉄板焼 潮路のクリスマスディナー",
+          "imageUrl": "https://prtimes.jp/i/54281/161/ogp/d54281-161-7e84cc7ed5a7b64f37bf-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000145.000021008.html",
+          "author": null,
+          "description": "[株式会社CAM]\n[画像1: https://prtimes.jp/i/21008/145/resize/d21008-145-ba6743e0d5e5a521f50b-0.png ]\n\n\n株式会社CAM（本社：東京都渋谷区、代表取締役社長：須田瞬海、以下CAM）は、運営する「星ひとみの天星術姓名判断（h...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000145.000021008.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1520,
+          "title": "星ひとみが占う2023年の恋愛運とは？総合運・出会い運・片思い運が一挙にわかる特設ページをオープン！",
+          "imageUrl": "https://prtimes.jp/i/21008/145/ogp/d21008-145-ba6743e0d5e5a521f50b-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000142.000039815.html",
+          "author": null,
+          "description": "[一般社団法人日本フレスコボール協会]\n今回取り扱いが始まったのは、シバタ工業株式会社のビーチシューズ「HAMATABY（ハマタビー）」。ビーチスポーツ選手の履くビーチシューズでありがちな『砂が入ってしまう』という悩みに対応したハイカット仕様で...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000142.000039815.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1521,
+          "title": "日本フレスコボール協会（JFBA）、11月14日より、JFBA公式オンラインストアにてシバタ工業株式会社のビーチシューズ「HAMATABY」の取り扱いをスタート。",
+          "imageUrl": "https://prtimes.jp/i/39815/142/ogp/d39815-142-01e96d10443a0e4f1eb2-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000112.000053200.html",
+          "author": null,
+          "description": "[株式会社玄光社]\n[画像1: https://prtimes.jp/i/53200/112/resize/d53200-112-8f641ba928824438bed5-0.jpg ]\n\nダークナイトの象徴ともいえるバットモービル。\nバットマンの操るビークルのなかでもとりわけ印象深い美しいマシンの...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000112.000053200.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1576,
+          "title": "『ディテクティブ・コミックス』から『THE BATMAN ーザ・バッドマンー』まで、歴代バットモービルを徹底解説！",
+          "imageUrl": "https://prtimes.jp/i/53200/112/ogp/d53200-112-8f641ba928824438bed5-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000099.000054657.html",
+          "author": null,
+          "description": "[Priv Tech株式会社]\n[画像: https://prtimes.jp/i/54657/99/resize/d54657-99-38e6d856594397565b6d-0.png ]\n\n本イベントは、ダイワボウ情報システム（DIS）が主催する、国内外の有力ITベンダーが一同に集結する地域最大級のICTの総...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000099.000054657.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1617,
+          "title": "2022年11月16日（水）- 11月17日（木）開催「DISわぁるど in 越後にいがた with Digital Days」にPriv Techが出展いたします",
+          "imageUrl": "https://prtimes.jp/i/54657/99/ogp/d54657-99-38e6d856594397565b6d-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000079.000027102.html",
+          "author": null,
+          "description": "[株式会社Rehab for JAPAN]\n[画像: https://prtimes.jp/i/27102/79/resize/d27102-79-e33efe94d207657feaa5-0.png ]\n\n\n\n\n業界背景\n\n全国に約44,000事業所、要介護者200万人が利用するデイサービスでは、約90%の事業所において、リハビリテー...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000079.000027102.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1506,
+          "title": "介護リハビリテックのRehab、池田泉州銀行と業務提携契約(顧客紹介)を締結",
+          "imageUrl": "https://prtimes.jp/i/27102/79/ogp/d27102-79-e33efe94d207657feaa5-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000077.000041195.html",
+          "author": null,
+          "description": "[学校法人滋慶学園 東京スクールオブミュージック＆ダンス専門学校]\n[画像1: https://prtimes.jp/i/41195/77/resize/d41195-77-8d8a4547ee2029bb1607-8.jpg ]\n\nBIGBANG、WINNER、iKON、BLACKPINKなど、ワールドワイドに活躍する有名アーティストが在籍している「YG ENTERTAINMENT」...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000077.000041195.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1638,
+          "title": "2022 YG NEW BOY GROUP AUDITION in JAPAN 開催",
+          "imageUrl": "https://prtimes.jp/i/41195/77/ogp/d41195-77-8d8a4547ee2029bb1607-8.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000076.000089515.html",
+          "author": null,
+          "description": "[株式会社榮太樓總本鋪]\n[画像1: https://prtimes.jp/i/89515/76/resize/d89515-76-fff7693ff7636a11bfd1-0.jpg ]\n\n株式会社榮太樓總本鋪(本社：東京都中央区日本橋、代表取締役社長：細田 眞)のセカンドブランド「あめやえいたろう」は...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000076.000089515.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1508,
+          "title": "Ameya Eitaroのクリスマス限定新商品「組あめ 星降る夜」11月15日より新発売",
+          "imageUrl": "https://prtimes.jp/i/89515/76/ogp/d89515-76-fff7693ff7636a11bfd1-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000070.000020799.html",
+          "author": null,
+          "description": "[株式会社N.D.Promotion]\n[画像1: https://prtimes.jp/i/20799/70/resize/d20799-70-64a9e5b13d698b1e9f8d-0.jpg ]\n\n＜調査概要＞\n定量調査\n【 調査地域 】全国\n【対象者条件】男女15~26歳\n【 調査手法 】インターネット調査\n【 実査期間 ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000070.000020799.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1582,
+          "title": "〈Z総研×インヴァランス 共同調査〉Z世代の8割以上が投資に興味あり！その半数が何を選べばいいかわからないという結果に？4割以上が実践したいと回答した「ミドルリスク・ミドルリターン」タイプの投資とは？",
+          "imageUrl": "https://prtimes.jp/i/20799/70/ogp/d20799-70-64a9e5b13d698b1e9f8d-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000057.000048516.html",
+          "author": null,
+          "description": "[株式会社UPC]\n■3年分のシナリオストーリーの中から一番人気のあるシナリオを決める「恋-1グランプリ」が開幕！！\n[画像1: https://prtimes.jp/i/48516/57/resize/d48516-57-7ad635d2ca6cbe33fe18-4.png ]\n\n2022年11月15日(火)1...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000057.000048516.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1498,
+          "title": "『恋下統一～戦国ホスト～』「恋-1グランプリ」をテーマにシナリオストーリー対決イベントが開幕！その他イベントが配信開始",
+          "imageUrl": "https://prtimes.jp/i/48516/57/ogp/d48516-57-7ad635d2ca6cbe33fe18-4.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000057.000050227.html",
+          "author": null,
+          "description": "[株式会社マークスインターナショナル]\n[画像1: https://prtimes.jp/i/50227/57/resize/d50227-57-4be57fdea5bdee2efa03-0.jpg ]\n\n\n『BON TON TOYS』は、子どもたちに「しあわせをもたらすこと」を使命に、オランダで1933年に設立された歴史あるぬいぐ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000057.000050227.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1678,
+          "title": "ホリデーシーズンをミッフィーと一緒に楽しもう！ミッフィーアイテムで有名な海外ブランドBON TON TOYSとMr Mariaのフォトコンテストを開催！",
+          "imageUrl": "https://prtimes.jp/i/50227/57/ogp/d50227-57-4be57fdea5bdee2efa03-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000048.000069921.html",
+          "author": null,
+          "description": "[株式会社スマッシュコアエンターテインメント]\n[画像1: https://prtimes.jp/i/69921/48/resize/d69921-48-75df1c638f0dc13d391a-0.jpg ]\n\n\n【商品の特長】\n本シリーズは、声優個人をフィーチャーした珍しい完全受注生産のオリジナルパソコンで、特長は次の通り...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000048.000069921.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1662,
+          "title": "声優オリジナルパソコンに小林親弘さんが登場！【Type:YOU -タイプユー-】第89弾は11月14日よりスマッシュコアで受注開始！",
+          "imageUrl": "https://prtimes.jp/i/69921/48/ogp/d69921-48-75df1c638f0dc13d391a-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000042.000086964.html",
+          "author": null,
+          "description": "[株式会社エルティーアール]\n　株式会社CLホールディングス（東京都港区、代表取締役社長：内川 淳一郎）の子会社である株式会社エルティーアール（東京都港区、代表取締役社長：谷 丈太朗）は、株式会社フジテレビジョン（本社：東京都港区...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000042.000086964.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1675,
+          "title": "TVアニメ『うる星やつら』の放送を記念して、東京・大阪・愛知・宮城、全国4か所でテーマカフェが開催決定！「うる星やつらカフェ」期間限定オープン！！",
+          "imageUrl": "https://prtimes.jp/i/86964/42/ogp/d86964-42-b17525ef2b3aadd7afb4-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000039.000056601.html",
+          "author": null,
+          "description": "[株式会社e-CHANNEL]\n[画像1: https://prtimes.jp/i/56601/39/resize/d56601-39-def905b89218f6f9f410-0.jpg ]\n\n\n\nりんごの木・柴田愛子先生の特別セミナー\n\n◆セミナーテーマ\n『子どもの心に添う保育って？』\n\n“子どもの心によ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000039.000056601.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1536,
+          "title": "保育施設限定の無料Webセミナーを11月14日から配信。第1回は柴田愛子先生が登壇",
+          "imageUrl": "https://prtimes.jp/i/56601/39/ogp/d56601-39-def905b89218f6f9f410-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000030.000014223.html",
+          "author": null,
+          "description": "[株式会社インヴァランス]\n[画像1: https://prtimes.jp/i/14223/30/resize/d14223-30-0b8359e84fee3c6b0291-0.jpg ]\n\n\n＜調査概要＞\n定量調査\n【 調査地域 】全国\n【対象者条件】男女15~26歳\n【 調査手法 】インターネット調査\n【 実査期間...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000030.000014223.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1510,
+          "title": "〈インヴァランス×Z総研 共同調査〉Z世代の8割以上が投資に興味があると回答！その半数が何を選べばいいかわからいないという結果に！？",
+          "imageUrl": "https://prtimes.jp/i/14223/30/ogp/d14223-30-0b8359e84fee3c6b0291-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000029.000060864.html",
+          "author": null,
+          "description": "[dotD]\n[画像1: https://prtimes.jp/i/60864/29/resize/d60864-29-aa64cf6ffd1babbe68e0-23.png ]\n\n\n\n背景\n\nわたし達は、2018年12月より運営してきた、愛犬のおさんぽ・健康記録アプリ「onedog」を通じて多くの愛犬家の...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000029.000060864.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1551,
+          "title": "【クラウドファンディング】累計5万DLの愛犬のおさんぽと健康管理アプリonedogが、愛犬のための国産フローズンフード「onedog Deli」の先行予約販売を開始！",
+          "imageUrl": "https://prtimes.jp/i/60864/29/ogp/d60864-29-aa64cf6ffd1babbe68e0-23.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000013.000055723.html",
+          "author": null,
+          "description": "[ダイワ通信株式会社]\n2022年4月施行の道路交通法の改正により、安全運転管理者のアルコールチェック業務が、白ナンバー事業者（※）においても義務化されました。今までもタクシーやトラックなどの緑ナンバー車両では義務化していまし...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000013.000055723.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1517,
+          "title": "アルコールチェックにかかる業務負担を軽減・自動記録管理 Face Four Checkerをリリース",
+          "imageUrl": "https://prtimes.jp/i/55723/13/ogp/d55723-13-57e183c72a5dad7c66e1-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000010.000089964.html",
+          "author": null,
+          "description": "[一般社団法人伝統文化継承推進協会]\n[画像1: https://prtimes.jp/i/89964/10/resize/d89964-10-bc8944d0722f09952e65-0.jpg ]\n\n[画像2: https://prtimes.jp/i/89964/10/resize/d89964-10-a4297015e68e5b6a418d-1.jpg ]\n\n　\n\n\n「FUJI MOTORSPORTS FOR...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000010.000089964.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1732,
+          "title": "10,000発の花火とスーパーカーが共演した「FUJI MOTORSPORTS FOREST Fireworks by 富士山花火」約6,000人の観客を魅了！",
+          "imageUrl": "https://prtimes.jp/i/89964/10/ogp/d89964-10-bc8944d0722f09952e65-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000008.000088101.html",
+          "author": null,
+          "description": "[株式会社アトノイ]\n[画像1: https://prtimes.jp/i/88101/8/resize/d88101-8-7d2013c7d7179fbfaf4c-0.png ]\n\nSMTサービス（http://smt.atonoy.co）自体の利用は無料！（※発行には別途Solanaへ支払う手数料のSOLが必要になります。）\n...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000008.000088101.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1445,
+          "title": "誰でも簡単！スピーディーにSolana（ソラナ）でNFTを発行できるサービスを開始",
+          "imageUrl": "https://prtimes.jp/i/88101/8/ogp/d88101-8-7d2013c7d7179fbfaf4c-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000006.000088234.html",
+          "author": null,
+          "description": "[CTIS]\n[画像1: https://prtimes.jp/i/88234/6/resize/d88234-6-8525385efb4ddfb7b58f-0.jpg ]\n\n2022年4月に小学部を開設、2023年4月には中学部も開設してG1(小学1年生)からG7(中学1年生)の入学、編入学を募集している南...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000006.000088234.html",
+          "publishedOn": "2022-11-14T08:15:02.000Z",
+          "wordCount": 1588,
+          "title": "南麻布のインターナショナルスクールCTISが小学1年生から6年生を対象にウィンタースクールを開催",
+          "imageUrl": "https://prtimes.jp/i/88234/6/ogp/d88234-6-8525385efb4ddfb7b58f-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000026.000055615.html",
+          "author": null,
+          "description": "[株式会社オクトーバー]\n[画像1: https://prtimes.jp/i/55615/26/resize/d55615-26-388735de2acdadcab98b-1.png ]\n\nこの度、バーチャルメイド喫茶『ますかれーど』では、一緒に働く新しいキャストを公募させて頂きます！\n募集に関する詳...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000026.000055615.html",
+          "publishedOn": "2022-11-14T07:45:02.000Z",
+          "wordCount": 1542,
+          "title": "VTuberグループ「バーチャルメイド喫茶『ますかれーど』」が新規キャストのオーディション開催決定！",
+          "imageUrl": "https://prtimes.jp/i/55615/26/ogp/d55615-26-388735de2acdadcab98b-1.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000024.000030013.html",
+          "author": null,
+          "description": "[株式会社クリアックス]\n歌広場のキャラクターである「ニコちゃん」から語呂合わせをして11月25日(イイニコの日)に実施される本キャンペーンは、昨年の10月と11月に実施をし、多くのお客様から「カラオケって楽しい」「久しぶりにカラオ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000024.000030013.html",
+          "publishedOn": "2022-11-14T07:45:02.000Z",
+          "wordCount": 1500,
+          "title": "【カラオケルーム歌広場】今年もやります！やっぱり歌うのって楽しい！「ウタヒロ本当にタダ！」キャンペーンを実施！",
+          "imageUrl": "https://prtimes.jp/i/30013/24/ogp/d30013-24-3516777abfff1d3b69a9-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000024.000091783.html",
+          "author": null,
+          "description": "[株式会社ハシートップイン / Hashy]\n[画像1: https://prtimes.jp/i/91783/24/resize/d91783-24-389ac7782821ccbeb322-3.jpg ]\n\n\n\n株式会社ハシートップイン（本社所在地：東京都墨田区、代表取締役：橋本貴裕）では、2022年11月14日より、「歯みがき...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000024.000091783.html",
+          "publishedOn": "2022-11-14T07:45:02.000Z",
+          "wordCount": 1489,
+          "title": "柔らかシリコン製＆マグネット付でお風呂にぴったり！ミッフィーの「歯みがきバスコップ」が新登場！",
+          "imageUrl": "https://prtimes.jp/i/91783/24/ogp/d91783-24-389ac7782821ccbeb322-3.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000023.000091783.html",
+          "author": null,
+          "description": "[株式会社ハシートップイン / Hashy]\n株式会社ハシートップイン（本社所在地：東京都墨田区、代表取締役：橋本貴裕）では、2022年11月14日より、お風呂の知育おもちゃ「おふろパズル」を新発売します。\n[画像1: https://prtimes.jp/i/91783/23/resize...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000023.000091783.html",
+          "publishedOn": "2022-11-14T07:45:02.000Z",
+          "wordCount": 1490,
+          "title": "お風呂で楽しく遊べる＆型抜きできる、やわらかパズルとあひるの「おふろパズル」が新登場！",
+          "imageUrl": "https://prtimes.jp/i/91783/23/ogp/d91783-23-f8b1a91db9962f421516-2.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000023.000034699.html",
+          "author": null,
+          "description": "[株式会社トータルヘルスコンサルティング]\n[画像1: https://prtimes.jp/i/34699/23/resize/d34699-23-b05d3a337b5bd65675e4-0.png ]\n\n[画像2: https://prtimes.jp/i/34699/23/resize/d34699-23-f3b41ce7a5ea9dc52cdd-1.png ]\n\n「SWEDENTIS オーラルブルー(...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000023.000034699.html",
+          "publishedOn": "2022-11-14T07:45:02.000Z",
+          "wordCount": 1471,
+          "title": "オーラルケア先進国スウェーデン式。薬用マウスウォッシュ「SWEDENTIS オーラルブルー(R)」先行販売開始",
+          "imageUrl": "https://prtimes.jp/i/34699/23/ogp/d34699-23-b05d3a337b5bd65675e4-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000022.000091783.html",
+          "author": null,
+          "description": "[株式会社ハシートップイン / Hashy]\n[画像1: https://prtimes.jp/i/91783/22/resize/d91783-22-91e8e3e64ca1b61660bd-0.jpg ]\n\n\n\n株式会社ハシートップイン（本社所在地：東京都墨田区、代表取締役：橋本貴裕）では、2022年11月14日より、「にゃんこ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000022.000091783.html",
+          "publishedOn": "2022-11-14T07:40:02.000Z",
+          "wordCount": 1494,
+          "title": "かわいい猫が、お部屋の快適度をおしゃべりと光でお知らせ！Hashy人気の温湿度計「にゃんこ計」がパッケージも新たにリニューアル！キジトラverも新登場。",
+          "imageUrl": "https://prtimes.jp/i/91783/22/ogp/d91783-22-91e8e3e64ca1b61660bd-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000021.000091783.html",
+          "author": null,
+          "description": "[株式会社ハシートップイン / Hashy]\n[画像1: https://prtimes.jp/i/91783/21/resize/d91783-21-43a11fd2b8be284957ac-0.jpg ]\n\n\n\n株式会社ハシートップイン（本社所在地：東京都墨田区、代表取締役：橋本貴裕）では、2022年11月14日より、Qi対応のワ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000021.000091783.html",
+          "publishedOn": "2022-11-14T07:40:02.000Z",
+          "wordCount": 1492,
+          "title": "柔らかふわふわシリコン製のムーミンが、ワイヤレス充電対応ミニライトになって優しく光って癒されます...Hashy人気商品「チャージアンド」シリーズで新登場！",
+          "imageUrl": "https://prtimes.jp/i/91783/21/ogp/d91783-21-43a11fd2b8be284957ac-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000018.000091783.html",
+          "author": null,
+          "description": "[株式会社ハシートップイン / Hashy]\n株式会社ハシートップイン（本社所在地：東京都墨田区、代表取締役：橋本貴裕）では、2022年11月14日より、歯みがきバスコップ「PEANUTS / スヌーピー＆チャーリー・ブラウン」を発売します。\n[画像1: https://pr...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000018.000091783.html",
+          "publishedOn": "2022-11-14T07:40:02.000Z",
+          "wordCount": 1530,
+          "title": "歯みがきバスコップが、PEANUTS（スヌーピー / チャーリー・ブラウン）で仲間入り！柔らかシリコン製でお風呂にぴったり！",
+          "imageUrl": "https://prtimes.jp/i/91783/18/ogp/d91783-18-3915574ddd92e2669a93-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000017.000054979.html",
+          "author": null,
+          "description": "[株式会社トリプルアイズ]\n[画像: https://prtimes.jp/i/54979/17/resize/d54979-17-eadb481ffd2345cd5926-0.png ]\n\n\n■キャリア形成イベント会場の送迎バスで顔認証AIを活用\n\n「大しごとーく&オープン・カンパニー in信州2022」は、学生が...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000017.000054979.html",
+          "publishedOn": "2022-11-14T07:40:02.000Z",
+          "wordCount": 1437,
+          "title": "顔認証AIを用いた乗降データ取得の実証実験　トリプルアイズが丸紅、信州大学と共同で",
+          "imageUrl": "https://prtimes.jp/i/54979/17/ogp/d54979-17-eadb481ffd2345cd5926-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000017.000034853.html",
+          "author": null,
+          "description": "[株式会社bridge]\n[画像1: https://prtimes.jp/i/34853/17/resize/d34853-17-258426853d37c40ccecc-0.png ]\n\n従業員規模300名以上の組織の新規事業開発担当者300名に調査をしたところ、約7割の企業が「新規事業開発の成功を実感で...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000017.000034853.html",
+          "publishedOn": "2022-11-14T07:40:02.000Z",
+          "wordCount": 1528,
+          "title": "新規事業開発の「成功を実感できていない企業」は7割～成功を実感している企業の５つの特徴とは～",
+          "imageUrl": "https://prtimes.jp/i/34853/17/ogp/d34853-17-258426853d37c40ccecc-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000013.000076843.html",
+          "author": null,
+          "description": "[CJ FOODS JAPAN株式会社]\n[画像1: https://prtimes.jp/i/76843/13/resize/d76843-13-d9f39a44374d54b5b936-0.png ]\n\n\n\n\nキャンペーン概要\n\nキャンペーン応募期間：\nA賞　2022年11月14日（月）～ 2022年12月15日（木）23:59\nB,C,D賞　2022...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000013.000076843.html",
+          "publishedOn": "2022-11-14T07:40:02.000Z",
+          "wordCount": 1537,
+          "title": "パク・ソジュンさん 5年ぶりの来日イベントが当たる！ 「食べて会おう！パク・ソジュンといっしょ！bibigo パーティー」",
+          "imageUrl": "https://prtimes.jp/i/76843/13/ogp/d76843-13-d9f39a44374d54b5b936-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000538.000048998.html",
+          "author": null,
+          "description": "[コクヨ株式会社]\n[画像1: https://prtimes.jp/i/48998/538/resize/d48998-538-4438c8c4132bde27c8e4-0.jpg ]\n\n「マークタス」シリーズは、ノートがすっきりまとまる色の組み合わせにこだわったカラーマーカーで、色でまとめる「2...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000538.000048998.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1444,
+          "title": "ノートがすっきりまとまる「カラーマーカー＜マークタス＞」から新色5色を発売",
+          "imageUrl": "https://prtimes.jp/i/48998/538/ogp/d48998-538-4438c8c4132bde27c8e4-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000219.000026884.html",
+          "author": null,
+          "description": "[株式会社ナビタイムジャパン]\n[画像: https://prtimes.jp/i/26884/219/resize/d26884-219-41cbc9e08b60a47f2db4-0.png ]\n\n\n　交通費計算において、企業によっては、例えば「徒歩距離が2km以上の場合は、バスを利用可能」など、最寄り駅までの...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000219.000026884.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1512,
+          "title": "『NAVITIME API』 『NAVITIME Tools』企業の交通費規定に合わせた交通費計算が可能に",
+          "imageUrl": "https://prtimes.jp/i/26884/219/ogp/d26884-219-41cbc9e08b60a47f2db4-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000188.000028890.html",
+          "author": null,
+          "description": "[三菱鉛筆株式会社]\n[画像1: https://prtimes.jp/i/28890/188/resize/d28890-188-968a0561a6276c0c51f4-0.jpg ]\n\n\n　「ジェットストリーム」ご愛用者の多くは、リフィルを交換しながらお使いいただいている背景から、より環境に配慮...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000188.000028890.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1496,
+          "title": "「ジェットストリーム」シリーズから、紙製パッケージ採用・インク10%増量など大幅リニューアルして新発売『ジェットストリーム 多色多機能用リフィル』11月28日（月）一部数量限定発売",
+          "imageUrl": "https://prtimes.jp/i/28890/188/ogp/d28890-188-968a0561a6276c0c51f4-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000147.000042284.html",
+          "author": null,
+          "description": "[株式会社ANDART]\n日本初、アートの小口投資プラットフォーム「ANDART」を運営する株式会社ANDART（本社：東京都港区、代表取締役CEO：松園詩織）は、アップカミングアーティストの取り扱い強化と、それに伴いUPCOMINGタブ・デイリ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000147.000042284.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1552,
+          "title": "ANDARTが新進気鋭のアップカミングアーティストの取り扱いを強化。作品選びの分かりづらさをサポートする新機能も3点追加。",
+          "imageUrl": "https://prtimes.jp/i/42284/147/ogp/d42284-147-ec7785cb52102e818953-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000131.000011455.html",
+          "author": null,
+          "description": "[株式会社バリューデザイン]\n報道関係者各位\n2022年11月14日\n株式会社バリューデザイン\n\n店舗・通販やオンラインサービスで繰り返し利用できる\nチャージ式電子マネー「アニメイトペイ」がスタート\n-バリューデザインの独自Payを活用し、お客...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000131.000011455.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1513,
+          "title": "店舗・通販やオンラインサービスで繰り返し利用できるチャージ式電子マネー「アニメイトペイ」がスタート",
+          "imageUrl": "https://prtimes.jp/i/11455/131/ogp/d11455-131-e083d1404b9b713956c4-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000028.000078806.html",
+          "author": null,
+          "description": "[株式会社ソルクシーズ]\n[画像: https://prtimes.jp/i/78806/28/resize/d78806-28-f88d51cdc51f906ce605-0.png ]\n\n\n【落札案件について】\n　お茶の水女子大が推進する大学改革推進等補助金プログラム「ゲームチェンジにより『クリエイテ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000028.000078806.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1467,
+          "title": "ソルクシーズグループ　イー・アイ・ソルお茶の水女子大学案件の落札に関するお知らせ",
+          "imageUrl": "https://prtimes.jp/i/78806/28/ogp/d78806-28-f88d51cdc51f906ce605-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000018.000054314.html",
+          "author": null,
+          "description": "[株式会社Mer]\n営業活動におけるデータ・基盤・仕組みをプロダクトを通じて提供する株式会社Mer(本社 : 東京都渋谷区、代表取締役 : 澤口 友彰 、 以下「Mer」)　が提供するセールスインテリジェンスソフトウェア「LeadPool」は...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000018.000054314.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1502,
+          "title": "セールスインテリジェンスソフトウェアLeadPoolがついにSalesforce連携を開始！更に収録済みキーパーソンデータが250万人を突破！",
+          "imageUrl": "https://prtimes.jp/i/54314/18/ogp/d54314-18-3f901f0c26416a1afcbd-1.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000017.000043276.html",
+          "author": null,
+          "description": "[Local Local株式会社]\n[画像1: https://prtimes.jp/i/43276/17/resize/d43276-17-4a708eaa23ae76739fed-0.png ]\n\n\n■実施背景\nRemoonは、頭も身体も日々フル活用して働いているビジネスパーソンに向けたCBD配合の焼酎リキュールです。\n...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000017.000043276.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1529,
+          "title": "【期間限定】CBD入り焼酎リキュール「Remoon」をコワーキングスペースINBOUND LEAGUE新宿にてフリードリンク提供",
+          "imageUrl": "https://prtimes.jp/i/43276/17/ogp/d43276-17-4a708eaa23ae76739fed-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000010.000041346.html",
+          "author": null,
+          "description": "[俺の株式会社]\n[画像1: https://prtimes.jp/i/41346/10/resize/d41346-10-14628f370f165505f0ea-1.jpg ]\n\n\n■俺のイタリアンのコスパ抜群のお料理は健在\n俺のイタリアンを代表するお料理もそのままに！「トリュフとポルチーニ茸...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000010.000041346.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1510,
+          "title": "いよいよ本日オープン！「俺のイタリアン」史上初！銀座を飛び出し吉祥寺へ！「俺のイタリアン吉祥寺」",
+          "imageUrl": "https://prtimes.jp/i/41346/10/ogp/d41346-10-14628f370f165505f0ea-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000012.000105515.html",
+          "author": null,
+          "description": "[株式会社丸紅フットウェア]\n[画像1: https://prtimes.jp/i/105515/12/resize/d105515-12-69d6a73e9ef90904eee1-0.jpg ]\n\n\n\n「妥協しない履き心地とスタイル」 を提案。日本最大の商品展開数を備えた旗艦店。\n\n毎日を快適に過ごすことができ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000012.000105515.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1607,
+          "title": "米国レザーシューズブランド【ROCKPORT/ロックポート】日本最大規模・アイテム最多の直営店「ROCKPORTららぽーと横浜店」2022年11月19日(土)　グランドオープン！",
+          "imageUrl": "https://prtimes.jp/i/105515/12/ogp/d105515-12-69d6a73e9ef90904eee1-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000073.000042554.html",
+          "author": null,
+          "description": "[株式会社ワサビ]\n[画像: https://prtimes.jp/i/42554/73/resize/d42554-73-ae909ff9c51f5f8e60bf-0.png ]\n\n\n\nセミナー概要\n\n\nリユース事業者は必見です！「メルカリShops」とリユース商品が相性がよい理由についてや、「メルカリS...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000073.000042554.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1474,
+          "title": "【リユース事業者必見！】11月18日（金）16:30より「メルカリShops」開設・売上アップ 共同セミナーをオフライン＆オンラインで同時開催！",
+          "imageUrl": "https://prtimes.jp/i/42554/73/ogp/d42554-73-ae909ff9c51f5f8e60bf-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000185.000004442.html",
+          "author": null,
+          "description": "[株式会社クレディセゾン]\n[画像1: https://prtimes.jp/i/4442/185/resize/d4442-185-66d795cd81ce297a2f11-0.png ]\n\n\n\n\nこれまでのCSDX戦略における取り組みについて\n\n\n2021年に掲げたCSDX VISION 「デジタル技術を活用することで、ビジネ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000185.000004442.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1502,
+          "title": "期待を超える感動体験の提供目指し、デジタルトランスフォーメーション戦略「CSDX戦略」をアップデート",
+          "imageUrl": "https://prtimes.jp/i/4442/185/ogp/d4442-185-66d795cd81ce297a2f11-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000068.000007720.html",
+          "author": null,
+          "description": "[JAC Recruitment]\n\nセミナー概要\n\n名称：IT業界　海外就職・転職希望者のための無料オンラインセミナー\n開催日時：2022年10月19日（水）\n主催：株式会社ジェイ エイ シー リクルートメント（東南アジア5ヵ国、英国、日本の計7拠点...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000068.000007720.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1477,
+          "title": "IT業界　海外就職・転職希望者向けオンラインセミナー【レポート】",
+          "imageUrl": "https://prtimes.jp/i/7720/68/ogp/d7720-68-7c7c7c0f1197e8e30056-11.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000008.000016224.html",
+          "author": null,
+          "description": "[株式会社ＣＲＯＳＳＡＳＩＡ]\n[画像1: https://prtimes.jp/i/16224/8/resize/d16224-8-56c76c694ff3ac39d698-10.jpg ]\n\n◆関西圏初の「fuacha」ポップアップストア\n「fuacha」はJR元町駅、阪神元町駅、地下鉄海岸線 旧居留地・大丸前駅からすぐ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000008.000016224.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1513,
+          "title": "関西初上陸！期間限定ショップ【大丸神戸店】五感で楽しむ花と果実のお茶～fuacha",
+          "imageUrl": "https://prtimes.jp/i/16224/8/ogp/d16224-8-f805155484ae18092d21-14.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000127.000019564.html",
+          "author": null,
+          "description": "[株式会社FTG Company]\n[画像1: https://prtimes.jp/i/19564/127/resize/d19564-127-52b22d21c5656a03d20a-0.jpg ]\n\n「大阪焼肉・ホルモン ふたご」は、大阪出身である“ふたご”の代表・副代表が2010年、親孝行をきっかけに...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000127.000019564.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1479,
+          "title": "“名物!!黒毛和牛のはみ出るカルビ”で話題の「大阪焼肉・ホルモン ふたご」、東北初上陸！11月15日（火）グランドオープン！",
+          "imageUrl": "https://prtimes.jp/i/19564/127/ogp/d19564-127-52b22d21c5656a03d20a-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001072.000005631.html",
+          "author": null,
+          "description": "[ブルガリ ジャパン株式会社]\n[画像: https://prtimes.jp/i/5631/1072/resize/d5631-1072-5d26b28b985a6f1d8cc5-0.jpg ]\n\nイル・チョコラートでは、昨年のチョコレート・ジェムズ・フォー・サスティナビリティに続き、ブルガリが掲げるCSR（企...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001072.000005631.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1507,
+          "title": "ブルガリ イル・チョコラート \"Biscotti for Sustainability\" （ビスコッティ・フォー・サスティナビリティ）11月17日（木）発売",
+          "imageUrl": "https://prtimes.jp/i/5631/1072/ogp/d5631-1072-5d26b28b985a6f1d8cc5-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000080.000087220.html",
+          "author": null,
+          "description": "[株式会社エンパワー]\n[画像1: https://prtimes.jp/i/87220/80/resize/d87220-80-c2b18656320e67c9c574-0.jpg ]\n\n株式会社エンパワー（本社：東京都新宿区、代表取締役社長：増井 俊介、以下、エンパワー）が運営する、全国に約500店舗...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000080.000087220.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1484,
+          "title": "あなたの身近な場所で出張買取査定！全国約500店舗展開の「買取大吉」、「大買取フェア」を全国各地で開催！",
+          "imageUrl": "https://prtimes.jp/i/87220/80/ogp/d87220-80-c2b18656320e67c9c574-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000007.000060786.html",
+          "author": null,
+          "description": "[ジャングルX株式会社]\n[画像1: https://prtimes.jp/i/60786/7/resize/d60786-7-47c19295c42a8fa4e240-2.png ]\n\n■ スポーツ業界が抱える問題点\n現在のスポーツ業界は、中央集権的な構造となっていることで一部の権力者に富や権力が不適...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000007.000060786.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1563,
+          "title": "「ジャングル」とSBIホールディングス、web3事業推進に向けたJV設立の基本合意",
+          "imageUrl": "https://prtimes.jp/i/60786/7/ogp/d60786-7-5122dcc2ffc9bd34d559-1.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000042.000054174.html",
+          "author": null,
+          "description": "[株式会社DROBE]\n[画像1: https://prtimes.jp/i/54174/42/resize/d54174-42-ea29fbb9782aafef45e2-1.png ]\n\n　　　　　　　　　特設サイトURL：https://campaign.drobe.jp/3rd-anniv/campaign\n\nクローゼットの整理をしてサステナ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000042.000054174.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1532,
+          "title": "パーソナルスタイリングサービスのDROBE　サービス開始3周年を記念した、特別企画第3弾　洋服回収キャンペーンを11月14日(火)より開始",
+          "imageUrl": "https://prtimes.jp/i/54174/42/ogp/d54174-42-ea29fbb9782aafef45e2-1.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000026.000091727.html",
+          "author": null,
+          "description": "[日鉄エンジニアリング株式会社]\n日鉄エンジニアリングは、これまで培ってきたエンジニアリング（EPC）技術、オペレーション&メンテナンス（O&M）技術、プロセス制御技術にAI技術を組み合わせて、プラントが最適な状態で自立的に操業を継続するこ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000026.000091727.html",
+          "publishedOn": "2022-11-14T07:15:02.000Z",
+          "wordCount": 1481,
+          "title": "日鉄エンジニアリングとブライセンがAI領域で協業を開始",
+          "imageUrl": "https://prtimes.jp/i/91727/26/ogp/d91727-26-ee5163614be3e6d2a00a-6.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000006.000085411.html",
+          "author": null,
+          "description": "[The ARCADIA Inc.]\nコンセプトは『記念日をお祝いするレストラン』\n\n感謝や祝福が交わされ笑顔と幸せをもたらしてくれる“お祝い事”は、結婚式に限らずどれも素晴らしく、心豊かに生きていくために無くてはならないもの...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000006.000085411.html",
+          "publishedOn": "2022-11-14T06:40:02.000Z",
+          "wordCount": 1794,
+          "title": "結婚式場から生まれた記念日をお祝いするレストラン、GRAND HOURS 久留米店が2022年11月22日“良いふうふの日”にNEWオープン！",
+          "imageUrl": "https://prtimes.jp/i/85411/6/ogp/d85411-6-d4598da58e19308d870c-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000091.000052517.html",
+          "author": null,
+          "description": "[特定非営利活動法人 開発メディア]\n[画像: https://prtimes.jp/i/52517/91/resize/d52517-91-55e15af7565d974ed854-0.png ]\n\n「インドではカーストが高いと損をする。『カーストの逆差別』を受けたから、僕はインドを出た。そして日本にやってきた...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000091.000052517.html",
+          "publishedOn": "2022-11-14T06:40:02.000Z",
+          "wordCount": 1541,
+          "title": "【12/2講演会】インド人から見たカースト、「逆差別」にあったから僕は日本へやってきた",
+          "imageUrl": "https://prtimes.jp/i/52517/91/ogp/d52517-91-55e15af7565d974ed854-0.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000057.000060550.html",
+          "author": null,
+          "description": "[株式会社IGNITE]\n[画像1: https://prtimes.jp/i/60550/57/resize/d60550-57-293d0a35431732d2360a-1.png ]\n\n　IGNITE YOGA（イグナイトヨガ）はエドワーズ壽里が2017年より主宰するヨガプログラムです。ヨガをより効率よく現代的...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000057.000060550.html",
+          "publishedOn": "2022-11-14T06:40:02.000Z",
+          "wordCount": 1592,
+          "title": "人気ヨガスタジオIGNITE YOGAが曜日をテーマにした30分のヨガプログラム『7DAYS OF IGNITE YOGA』の配信をスタート！",
+          "imageUrl": "https://prtimes.jp/i/60550/57/ogp/d60550-57-293d0a35431732d2360a-1.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000278.000043111.html",
+          "author": null,
+          "description": "[株式会社アトム]\n肉質が柔らかくうまみが溢れる赤身肉「塊ごろっとロース」と自慢のボリュームと食べ応えの「豪快カルビステーキ」。特に「豪快カルビステーキ」は普段は至福コース以上の食べ放題コースでしかご利用できませんで...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000278.000043111.html",
+          "publishedOn": "2022-11-14T06:40:02.000Z",
+          "wordCount": 1452,
+          "title": "～「カルビ大将」・「味のがんこ炎」～肉は塊が美味い！“塊肉フェア”スタート",
+          "imageUrl": "https://prtimes.jp/i/43111/278/ogp/d43111-278-470fe6dfc7b90ca83cdd-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000057.000039886.html",
+          "author": null,
+          "description": "[キャディ株式会社]\n全文は下記リンクよりPDFをご覧ください\nhttps://caddi.my.salesforce.com/sfc/p/6F000001oC1j/a/2s000000VtA2/UXlfCOJo5MAWwLflKNMFiZ08nt1iOhh8zDDc44aaQEc\n\n【調査トピックス】\n\n\n自社の調達に中長期的に影響...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000057.000039886.html",
+          "publishedOn": "2022-11-14T04:45:03.000Z",
+          "wordCount": 1544,
+          "title": "-　キャディ、製造業のサプライチェーン影響調査 第２弾　-2022年以降、約半数が調達先の地域を見直している状況",
+          "imageUrl": "https://prtimes.jp/i/39886/57/ogp/d39886-57-c94d06dd0bc1ef3068eb-1.png"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000000003.000084024.html",
           "author": null,
           "description": "[株式会社　高橋商店]\n[画像1: https://prtimes.jp/i/84024/3/resize/d84024-3-4d7a1126e11d5ad16f8d-0.jpg ]\n\n\n\n\nゆずすこグリーンカレー\n\n\n[画像2: https://prtimes.jp/i/84024/3/resize/d84024-3-90e95baefcdf8bc4af5a-5.png ]\n\n\n■...",
@@ -3876,6 +5816,26 @@
           "imageUrl": "https://prtimes.jp/i/104385/5/ogp/d104385-5-145336a40468710b6b10-0.jpg"
         },
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000018.000064450.html",
+          "author": null,
+          "description": "[株式会社トランザクション・メディア・ネットワークス]\n[画像1: https://prtimes.jp/i/64450/18/resize/d64450-18-52e98239f4760287bd90-1.jpg ]\n\n\n【ICOCAおよび交通系ICカードと、地域オリジナルポイントを1台の端末で対応】\n　TMNのモバイル型マルチ決済端末「UT-P1...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000018.000064450.html",
+          "publishedOn": "2022-11-11T09:40:02.000Z",
+          "wordCount": 1493,
+          "title": "JR西日本のICOCAを活用した岡山県新見市の地域活性化プロジェクトでTMN決済サービスの提供開始",
+          "imageUrl": "https://prtimes.jp/i/64450/18/ogp/d64450-18-52e98239f4760287bd90-1.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000074.000028866.html",
+          "author": null,
+          "description": "[伊藤超短波株式会社]\n物理療法機器のパイオニア、伊藤超短波株式会社（本店：東京都文京区、本社：埼玉県川口市 代表取締役社長：倉橋 司、以下 伊藤超短波）が監修するエステティックサロン「ITO PHYSIOBEAUTY SALON（イトー フィジ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000074.000028866.html",
+          "publishedOn": "2022-11-11T09:40:02.000Z",
+          "wordCount": 1628,
+          "title": "伊藤超短波が監修を行うエステティックサロン「ITO PHYSIOBEAUTY SALON」ベトナム ホーチミンにオープン",
+          "imageUrl": "https://prtimes.jp/i/28866/74/ogp/d28866-74-81c6735c7bdaa8f02ef8-24.jpg"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000000007.000099303.html",
           "author": null,
           "description": "[株式会社secret place]\n日本でもすでに浸透している、年末前の大セールのブラックフライデー。今年のブラックフライデーは、11月25日です。Amazonや楽天市場、イオンなどは、ブラックフライデーの前後に数日間大型セールを実施します。\n...",
@@ -7694,6 +9654,16 @@
           "wordCount": 1497,
           "title": "長時間着用しても疲れない！メガネ着用のまま大迫力の画面を楽しめる「3Dポータブルヘッドマウントディスプレイ」のクラウドファンディング開始",
           "imageUrl": "https://prtimes.jp/i/16803/616/ogp/d16803-616-681741310fa532c3e7a4-0.jpg"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000007.000102245.html",
+          "author": null,
+          "description": "[広島元氣いっぱいプロジェクト]\n[画像1: https://prtimes.jp/i/102245/7/resize/d102245-7-ddef3aa7bbab237b1d78-0.png ]\n\n\n\n「remoteオフィトレ(R)」は、運動に対して積極的でない方や、身体を動かす機会が少なく健康を害してしまう方へ、&ldqu...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000007.000102245.html",
+          "publishedOn": "2022-11-10T12:40:02.000Z",
+          "wordCount": 1621,
+          "title": "【見学会・開催】リモートで！健康経営に直結！オフィス・ストレッチ「remoteオフィトレ(R)」オンライン見学会を開催",
+          "imageUrl": "https://prtimes.jp/i/102245/7/ogp/d102245-7-ddef3aa7bbab237b1d78-0.png"
         },
         {
           "id": "https://prtimes.jp/main/html/rd/p/000000027.000041333.html",
@@ -23643,6 +25613,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375019",
+          "author": "Saleh Mubashar",
+          "description": "In this article we will be diving into the world of scrollbars. I know, it doesn’t sound too glamorous, but trust me, a well-designed page goes hand-in-hand with a matching scrollbar. The old-fashioned chrome scrollbar just doesn’t fit in as …\nClassy and Cool Custom CSS Scrollbars: A Showcase originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/classy-and-cool-custom-css-scrollbars-a-showcase/",
+          "publishedOn": "2022-11-14T13:54:26.000Z",
+          "wordCount": 1355,
+          "title": "Classy and Cool Custom CSS Scrollbars: A Showcase",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375019"
+        },
+        {
           "id": "https://css-tricks.com/?p=374826",
           "author": "Temani Afif",
           "description": "After Part 1 and Part 2, I am back with a third article to explore more fancy shapes. Like the previous articles, we are going to combine CSS Grid with clipping and masking to create fancy layouts for image …\nCSS Grid and Custom Shapes, Part 3 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -23829,6 +25809,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
+          "author": "hello@smashingmagazine.com (Cristian Díaz)",
+          "description": "In this article, Cristian Diaz covers how to use HTML and CSS to create an accessible experience for keyboard users while mentioning what WCAG criteria we should keep into consideration.",
+          "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
+          "publishedOn": "2022-11-14T14:00:00.000Z",
+          "wordCount": 8427,
+          "title": "A Guide To Keyboard Accessibility: HTML And CSS (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/search-developer-job-abroad/",
           "author": "hello@smashingmagazine.com (Andrew Stetsenko)",
@@ -24076,6 +26071,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-declare-an-array-in-javascript-creating-an-array-in-js/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript, an array is one of the most commonly used data types. It stores multiple values and elements in one variable. These values can be of any data type — meaning you can store a string, number, boolean, and other data types in one variable. There are two standard",
+          "link": "https://www.freecodecamp.org/news/how-to-declare-an-array-in-javascript-creating-an-array-in-js/",
+          "publishedOn": "2022-11-14T21:38:37.000Z",
+          "wordCount": 1239,
+          "title": "How to Declare an Array in JavaScript – Creating an Array in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover-template--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/recursion-in-javascript/",
+          "author": "Benjamin Semah",
+          "description": "Recursion is a problem-solving technique in programming. In this article, you will learn how to use recursive functions in JavaScript. What is a Recursive Function? A recursive function is a function that calls itself somewhere within the body of the function. Below is a basic example of a recursive function.",
+          "link": "https://www.freecodecamp.org/news/recursion-in-javascript/",
+          "publishedOn": "2022-11-14T18:44:18.000Z",
+          "wordCount": 1556,
+          "title": "What is Recursion in JavaScript?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/benjamin-semah-freecodecamp-recursion.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/",
+          "author": "David Fagbuyiro",
+          "description": "YouTube is a well-known internet video streaming service. There are millions of videos in categories such as education, entertainment, and travel.  You can quickly watch videos with a few mouse clicks, but downloading videos is difficult. But in a recent upgrade, YouTube now allows you to save videos in",
+          "link": "https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/",
+          "publishedOn": "2022-11-14T15:56:27.000Z",
+          "wordCount": 1280,
+          "title": "How to Build a Python Program to Download YouTube Videos",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-christina-morillo-1181671.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/bash-if-statement-linux-shell-if-else-syntax-example/",
+          "author": "Zaira Hira",
+          "description": "When coding, you might need to make decisions based on certain conditions. Conditions are expressions that evaluate to a boolean expression (true or false ). Statements that help to execute different code branches based on certain conditions are known as conditional statements. if...else is one of the most commonly used",
+          "link": "https://www.freecodecamp.org/news/bash-if-statement-linux-shell-if-else-syntax-example/",
+          "publishedOn": "2022-11-14T15:37:54.000Z",
+          "wordCount": 1230,
+          "title": "Bash If Statement – Linux Shell If-Else Syntax Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Copy-of-Copy-of-read-write-files-python--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/postgresql-in-python/",
+          "author": "Shittu Olumide",
+          "description": "There are many different types of databases in use today. We have centralized databases, commercial databases, cloud databases, distributed databases, end-user databases, NoSQL databases, relational databases, and lots more. This article will focus on an example of a relational database (PostgreSQL) and how to query data from it. Other examples",
+          "link": "https://www.freecodecamp.org/news/postgresql-in-python/",
+          "publishedOn": "2022-11-14T15:16:10.000Z",
+          "wordCount": 1874,
+          "title": "How to Use PostgreSQL in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/postgresql-in-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/practical-skills-for-open-source-maintainers/",
+          "author": "Njong Emy",
+          "description": "Open source software is used by organizations large and small around the world. And it's become very popular in the tech industry.  Many people want to be involved in this open side of tech, and luckily there are many different ways to contribute.  Still, open source can be",
+          "link": "https://www.freecodecamp.org/news/practical-skills-for-open-source-maintainers/",
+          "publishedOn": "2022-11-14T14:51:31.000Z",
+          "wordCount": 2151,
+          "title": "Practical Skills for Open Source Maintainers – How to Effectively Maintain OSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Purple-Minimal-We-Are-Hiring-Twitter-Post--9-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/hacktoberfest-2022-contributors/",
           "author": "Naomi Carrigan",
