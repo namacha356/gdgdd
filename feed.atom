@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://namacha356.github.io/gdgdd/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T01:21:21.502Z</updated>
+    <updated>2023-01-03T01:21:10.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://namacha356.github.io/gdgdd/index.html"/>
     <link rel="self" href="https://namacha356.github.io/gdgdd/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The State Of Usability In 2023 🎊]]></title>
+        <id>https://smashingmagazine.com/2023/01/usability-2023/</id>
+        <link href="https://smashingmagazine.com/2023/01/usability-2023/"/>
+        <updated>2023-01-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ラザール ダイヤモンド ブティック 公式Instagramキャンペーン『LAZARE DIAMOND フォトコンテスト』の受賞者を発表]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000068.000054693.html</id>
@@ -8606,6 +8616,17 @@ IVR（電話自動音声応答システム）とEPARK日時指定順番受付機
 　　　　　　　　公式WEBサイト：https://belluna.jp/02/010101/shop/ranan/index
 
 　今回のタイアップでは、STORYモ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本酒とご当地グルメを会場内で堪能！「冬のアンテナショップ＆ご当地グルメフェア」]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000309.000021989.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000309.000021989.html"/>
+        <updated>2022-12-28T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ジェイアール西日本伊勢丹]
+ジェイアール京都伊勢丹では、2023年1月4日（水）から1月15日（日）の期間、「冬のアンテナショップ＆ご当地グルメフェア」を開催します。日本各地のアンテナショップより定番土産や冬の味覚を約1,200種類取り揃...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -69792,361 +69813,6 @@ https://www.joysound.com/web/s/karaoke/contents/annual_ran...]]></summary>
 
 
 現在、国内で年間2,000人～2,500人の子どもが小児がんと診断されています。小児がんは、子どもだけではなく、それを見...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧米で人気電子タバコ（WHATSVAPE）が日本に初登場！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000002.000112535.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000002.000112535.html"/>
-        <updated>2022-12-04T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[NONNICO LIMITED]
-[画像1: https://prtimes.jp/i/112535/2/resize/d112535-2-76e1df80404b470f9ced-0.jpg ]
-
-
-
-ブランド価値
-
-WHATSVAPEの使命は、成人喫煙者にポジティブな変化と喜びをもたらすこと。
-電子タバコのリキッドは、世...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[管清工業、東ティモールを視察訪問し、今後の事業活動の報告会を実施]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000011.000105097.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000011.000105097.html"/>
-        <updated>2022-12-04T11:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[管清工業株式会社]
-管清工業は、CWPG設立後の2022年9月に最初の支援国となる東ティモールで視察を行うため渡航しました。
-現地での水環境調査を実施、また東ティモール政府機関へ訪れ大統領府や外務省らの関係者と”現在の水巡...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GETTRがCPAC Japanとのアジア初の大型イベント開催を発表]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000003.000109012.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000003.000109012.html"/>
-        <updated>2022-12-04T08:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[GETTR JP合同会社]
-[画像: https://prtimes.jp/i/109012/3/resize/d109012-3-dde0cf0f5371f48eb920-0.jpg ]
-
-ミラーは、来日中にメディアインタビューを実施し、スポーツ、エンターテインメント、政界のパートナー候補となる人々と...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[桂吉弥×芦沢誠アナ　４日間に渡り特別対談放送！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000271.000040629.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000271.000040629.html"/>
-        <updated>2022-12-04T07:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[朝日放送ラジオ株式会社]
-１２月５日（月）から１１日（日）までの１週間、ABCラジオはスペシャルウィーク！
-テーマは「交流戦　冬の陣」！
-
-普段なかなか聴けない！？番組の垣根を超えてパーソナリティ同士がコラボ祭り！
-
-交流戦冬の陣...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年管理業務主任者試験【解答速報】を最速で公開開始しました！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000474.000017546.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000474.000017546.html"/>
-        <updated>2022-12-04T07:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社アガルート]
-[画像1: https://prtimes.jp/i/17546/474/resize/d17546-474-3d0ab1c20c0f0f40a643-0.png ]
-
-■令和4年（2022年）管理業務主任者試験 解答速報
-詳細：https://tinyurl.com/dje39em5
-
--------------------
-アガルー...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【話題の新作が飲める★】公式Twitterにてキャンペーン開始！｜Wondershare]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000720.000020603.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000720.000020603.html"/>
-        <updated>2022-12-04T07:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ワンダーシェアーソフトウェア]
-
-フォロー&リツイートで参加できちゃう『ワンダーシェアー大感謝祭』スタート！
-
-
-[画像1: https://prtimes.jp/i/20603/720/resize/d20603-720-9238318ead8e189befda-0.png ]
-
-
-(ハート)・・*・・(ハート)・・*・...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【東京 神楽坂３丁目】鯛とワインのお店「瀬戸神楽~SETO KAGURA~」が登場]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000002.000073813.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000002.000073813.html"/>
-        <updated>2022-12-04T02:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ハレプロ]
-[画像1: https://prtimes.jp/i/73813/2/resize/d73813-2-86f93cd5a5f173086ac3-0.jpg ]
-
-
-
-愛媛の鯛にこだわる理由
-
-
-愛媛県は鯛の生産量日本一を誇っており、愛媛県を代表する魚として「県の魚」にも指定されて...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[四柱推命【無料算出】木下レオンが占う、あなたの本質と運命。公式占いサイトにて一般公開中]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000262.000074768.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000262.000074768.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社レンサ]
-[画像1: https://prtimes.jp/i/74768/262/resize/d74768-262-df105904b29b282b6edc-0.png ]
-
-■概要
-木下レオンの公式占いサイト「木下レオンの占い」では、この度、「木下レオンの四柱推命」の特集ページを一般向...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【物流担当＆採用担当必見】オンラインセミナー『2024年問題・年末繁忙期を乗り越える！持続可能な物流構造を築く2つのポイント』]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000243.000004558.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000243.000004558.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ツナググループ・ホールディングス]
-[画像: https://prtimes.jp/i/4558/243/resize/d4558-243-917612b57c07552aceba-0.jpg ]
-
-
-■背景
-2024年問題、宅配クライシスなど、昨今の物流業界を取り巻く環境は大きく変化しております。中でも人手不足や配送...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小野薬品工業株式会社、エンジニア採用にコーディング試験サービス『HireRoo』を導入]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000032.000075726.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000032.000075726.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ハイヤールー]
-[画像1: https://prtimes.jp/i/75726/32/resize/d75726-32-802b3cd5da185bcdc73a-1.png ]
-
-
-
-
-小野薬品様がHireRoo導入に至った背景
-
-■BX推進部 プロダクト開発担当 鈴木様コメント
-当社は、「病気と苦痛に対する...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北海道ガス株式会社がクラウド型デマンドレスポンス支援サービス「BridgeLAB DR」を採用し、今冬の節電プログラムで運用]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000023.000012366.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000023.000012366.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[インフォメティス株式会社]
-[画像: https://prtimes.jp/i/12366/23/resize/d12366-23-14a31ba4e11eecef06c9-0.png ]
-
-
-
-採用の背景
-
-2022年3月に東京電力・東北電力管内において電力需給ひっ迫警報が発令され、2022年6月には東京電力管内に...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クラウド型デマンドレスポンス支援サービス「BridgeLAB DR」を四国電力株式会社が導入し、今冬の節電プログラムより本格運用開始]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000022.000012366.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000022.000012366.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[インフォメティス株式会社]
-[画像: https://prtimes.jp/i/12366/22/resize/d12366-22-9ed0ea8304727b68f185-0.jpg ]
-
-
-
-導入の背景
-
-2022年3月に東京電力・東北電力管内において電力需給ひっ迫警報が発令され、2022年6月には東京電力管内に...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レンタル出荷50万点突破記念！総額1,000,000円分が当たるスペシャルキャンペーンを実施！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000019.000109668.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000019.000109668.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社PANDASTUDIO.TV]
-[画像1: https://prtimes.jp/i/109668/19/resize/d109668-19-7e6959fc7dc735e5d0cf-6.png ]
-
-このキャンペーンは、2022年12月1日(木)から12月31日(土)までの期間に、Amazon Pay決済で5,500円（税込）以上レンタル...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タニウムがアジア太平洋地域における新体制を発表]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000015.000089232.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000015.000089232.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[タニウム合同会社]
-業界唯一のコンバージド・エンドポイント管理（XEM）プロバイダであるTanium Inc.（本社：米国ワシントン州、CEO：オリオン・ヒンダウィ）の日本法人であるタニウム合同会社（東京都千代田区、代表執行役社長：古...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POS分析、購買者属性分析で広告効果を可視化。FamilyMartVision活用で期待できる4つの効果とは。]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000015.000097469.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000015.000097469.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ゲート・ワン]
-ゲート・ワンは、ゲート・ワンが運営するFamilyMartVisionのこれまでの活用事例をPOS、購買者属性の観点から分析、FamilyMartVisionには以下4つの効果が期待できることが明らかになったことをお知らせいたします...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タイムトラッキングツール「TimeCrowd」を運営するタイムクラウド株式会社が「開発PM勉強会」のサービス提供パートナーとして採択。TimeCrowdを１年間無償提供。]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000012.000077582.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000012.000077582.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[タイムクラウド株式会社]
-[画像1: https://prtimes.jp/i/77582/12/resize/d77582-12-3933eefc04fa3d5163c1-0.png ]
-
-■「TimeCrowd」とは
-TimeCrowdは、タイムトラッキングツールです。「誰が」「どの業務を」「どのくらい」行っているかを...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【不動産業界に特化したVR】空間データ活用のShare-CSE型新ツール『HOME360』の無料オンラインセミナーを開催！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000009.000066148.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000009.000066148.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[リノベスト]
-
-[画像: https://prtimes.jp/i/66148/9/resize/d66148-9-6aeba8379cd7cab2ef42-0.jpg ]
-
-
-
-こんな方におすすめ
-
-こんなお悩みや不安がある方はぜひご参加ください。
-■VRは導入コストが高そう・・・
-■既に他社を導...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フジマックが米国に現地法人を設立]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000007.000077770.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000007.000077770.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社フジマック]
-１．現地法人設立の理由・目的
-
-フジマックは、世界主要市場の一つである北米地域の販売強化を目的とし、米国に現地法人を設立いたしました。
-北米地域に初めての現地法人設立となります。当社の強みである製品力...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaGate合同会社の【Instagram運用支援×補助金・助成金申請】ばずスタの正規販売代理店募集のお知らせ]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000007.000106410.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000007.000106410.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[MetaGate]
-[画像1: https://prtimes.jp/i/106410/7/resize/d106410-7-499661f8d16e449099c9-1.png ]
-
-
-MetaGate合同会社では現在正規販売代理店の募集を行なっております。対象としましては個人法人問わず募集しており、独...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[触ってうれしい宝石珊瑚のコレクション「JUGON」を発表]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000006.000073048.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000006.000073048.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社KAWAMURA]
-[画像1: https://prtimes.jp/i/73048/6/resize/d73048-6-960b063fbf95da55413f-0.jpg ]
-
-株式会社KAWAMURA(代表 川村裕夫/高知県高知市)は、触ってうれしい宝石珊瑚のリング JUGON(ジュゴン)コレクションを2022年...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博多織最古の織元である西村織物が、最高級絹⽷の良さを生かしたシルクニット製品を開発]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000005.000103805.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000005.000103805.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[西村織物株式会社]
-西村織物は、1587年に生糸商として創始して以来435年、絹糸とともに歩んできました。そして、博多織最古の織元として、日々帯を織り続けております。そんななか、「製造の過程においてどうしても発生する計算外の...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宮崎県民御用達のチャイルドシート「クルマリオ」販売代理店募集開始！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000002.000111942.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000002.000111942.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社南郷包装]
-[画像1: https://prtimes.jp/i/111942/2/resize/d111942-2-b0a558698c7bc275393a-1.jpg ]
-
-
-
-
-販売代理店募集の経緯
-
-　2022年5月より販売を開始した「クルマリオ」は、SAGARIOに来店されるママパパの声を反映し...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jinny Street Gallery | 渋谷の街角に新しいギャラリーが誕生。]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000001.000112905.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000001.000112905.html"/>
-        <updated>2022-12-03T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[Jinny Street Gallery Project]
-Jinny Street Galleryは、神宮前2丁目の中心部に位置する屋外アートギャラリーで、渋谷区内にありつつも喧騒を逃れた落ち着いた商店街「商和会」に佇んでいます。42個の小さな街灯路ケースが作品の展示スペースと...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈イベントレポート〉「第11回 健康寿命をのばそう！アワード」表彰式を開催]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000005.000102585.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000005.000102585.html"/>
-        <updated>2022-12-03T19:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[スマート・ライフ・プロジェクト 事務局]
-　今般、「第11回 健康寿命をのばそう！アワード」を、2022年11月28日（月）にニッショーホール（東京都港区）で開催しました。本表彰式は、生活習慣を改善し健康寿命をのばすために厚生労働省が行っている国民運...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
