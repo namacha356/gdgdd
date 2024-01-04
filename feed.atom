@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://namacha356.github.io/gdgdd/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T01:09:28.204Z</updated>
+    <updated>2024-01-04T01:09:54.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://namacha356.github.io/gdgdd/index.html"/>
     <link rel="self" href="https://namacha356.github.io/gdgdd/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『PSYCHO-PASS サイコパス』より、デバイス風ウォッチが受注生産商品で登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000005008.000016756.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000005008.000016756.html"/>
+        <updated>2024-01-04T00:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社アニメイトホールディングス]
+　2012年に放送が開始されたオリジナルTVアニメ『PSYCHO-PASS サイコパス』。シビュラシステムと呼ばれる人間の心理状態や傾向を数値化して管理する近未来を舞台に、公安局刑事課に所属する監視官と執行官たちの...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年、スペイン旅行は「美しい田舎 ウエスカ」へ！ピレネー山脈、美しい村、グルメ、ロマネスク建築など、見どころ満載！クリアファイルが当たるプレゼントキャンペーンをInstagramにて開催中！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000001.000121539.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000001.000121539.html"/>
+        <updated>2024-01-04T00:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[ウエスカ県　観光プロモーション]
+[画像1: https://prtimes.jp/i/121539/1/resize/d121539-1-a2931b5ca8bae3420b66-0.jpg ]
+
+
+▼「スペインの美しい田舎 ウエスカ」webサイト ▼
+https://huesca-spain.jp/
+
+
+[表1: https://prtimes.jp/data/corp/121...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Android 14】Teclast新品登場！小型8インチタブレット「P85T」をアップグレード、最新システムAndroid 14を搭載されました！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000450.000080488.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000450.000080488.html"/>
+        <updated>2024-01-04T00:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[Teclast]
+[画像1: https://prcdn.freetls.fastly.net/release_image/80488/450/80488-450-ab060d7f1eb1f0ed04df8380edd846ae-1920x1027.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Cloud Computing? Introduction to the Cloud for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-cloud-computing/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-cloud-computing/"/>
+        <updated>2024-01-03T21:40:31.000Z</updated>
+        <summary type="html"><![CDATA[As the digital landscape continues to evolve and technology marches forward, cloud computing has remained an important topic for developers to learn. You've probably encountered cloud requirements in job listings, heard people talk about it in conversations, or seen ads by companies offering cloud services – and now you're interested]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Git Cherry Pick and Avoid Duplicate Commits]]></title>
+        <id>https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/</id>
+        <link href="https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/"/>
+        <updated>2024-01-03T21:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a beautiful cherry tree full of sweet, red, round fruit hanging on lush, glistening branches. But imagine if those cherries grew so quickly that the branches started bending, overlapping, and breaking...sounds chaotic right?  This is what can happen if you don't use Git's cherry-pick command properly in open]]></summary>
+        <author>
+            <name>CHRISTINE T. BELZIE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat Enterprise Linux – Essential RHEL Concepts and Commands to Know]]></title>
+        <id>https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/</id>
+        <link href="https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/"/>
+        <updated>2024-01-03T15:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the fundamental world of Red Hat Enterprise Linux (RHEL)! In order to be an effective Linux user, you'll need to learn and truly understand some essential concepts and commands. Let's dive into the core aspects of RHEL administration to help you understand these key topics that form the]]></summary>
+        <author>
+            <name>Kedar Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comprehensive Full Stack React with Appwrite – Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/comprehensive-full-stack-react-with-appwrite-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/comprehensive-full-stack-react-with-appwrite-tutorial/"/>
+        <updated>2024-01-03T14:19:27.000Z</updated>
+        <summary type="html"><![CDATA[React and Appwrite make a great combination for creating full stack apps.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use React and Appwrite to create full stack applications. This course is designed and delivered by Hitesh Choudhary, a excellent instructor]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyGame Tutorial – How to Build an Alien Abduction game]]></title>
+        <id>https://www.freecodecamp.org/news/pygame-tutorial-alien-abduction-game/</id>
+        <link href="https://www.freecodecamp.org/news/pygame-tutorial-alien-abduction-game/"/>
+        <updated>2024-01-02T23:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Ever since I was a kid, I've been hooked on video games. My first experience with coding involved kind of a wild project – a Tron races simulator in Quick Basic on an ancient IBM computer (I was like 6 years old, so I didn't really understand what I was]]></summary>
+        <author>
+            <name>Juan P. Romano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android Proto DataStore – Should You Use It?]]></title>
         <id>https://www.freecodecamp.org/news/android-proto-datastore-should-you-use-it/</id>
@@ -1148,6 +1238,17 @@ MTJ株式会社（本社：東京都港区、代表取締役:山重柾人）は�
         <updated>2023-12-29T09:15:02.000Z</updated>
         <summary type="html"><![CDATA[[株式会社スヴェンソン]
 [画像: https://prcdn.freetls.fastly.net/release_image/15908/183/15908-183-f544684812d51725abcb58a6103ec323-900x506.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ『ぼっち・ざ・ろっく！』より、寝袋が受注生産商品で登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000005014.000016756.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000005014.000016756.html"/>
+        <updated>2023-12-29T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社アニメイトホールディングス]
+　はまじあきによる日本の4コマ漫画。『まんがタイムきららMAX』（芳文社）にて、2018年2月号から4月号までゲスト連載後、同年5月号から連載中。2022年10月から12月までアニメ放送。2023年8月には舞台化。2024年...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -3529,6 +3630,17 @@ https://rpahack.com/ebook/bp-visualization
 [画像2: https://prtimes.jp/i/74768/579/resize/d74768-579-d6b3cadf6529378ee548-5.png ]
 
 TV番...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国産オーガニックを拡げるチャレンジ！国産有機原料を使った「自然派Style国産有機純米酢」「自然派Style有機生みそ」が新たに登場しました。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000012.000121079.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000012.000121079.html"/>
+        <updated>2023-12-28T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[[コープ自然派事業連合]
+コープ自然派事業連合（本部：兵庫県神戸市）では2023年11月20日(月)から、国産有機米で作った「自然派Style有機純米酢」の注文受付を開始。さらに、12月25日(月)より国産有機大豆で作った「自然派Style有機生み...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -63612,456 +63724,6 @@ TV番組『突然ですが占ってもいいですか？』出演で話題の占
 「LINE Pay」は、カードショッピングの利用時にLINEポイントが貯まる便利でお得なクレジットカード・LINEクレカを提...]]></summary>
         <author>
             <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OIST研究者と婦人科医が創業のスタートアップ『ハーライフラボ』更年期オンライン診療サービス「ビバエル」を提供開始]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000001.000133842.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000001.000133842.html"/>
-        <updated>2023-12-05T10:45:02.000Z</updated>
-        <summary type="html"><![CDATA[[HerLifeLab株式会社]
-[画像1: https://prtimes.jp/i/133842/1/resize/d133842-1-350e7e2ba3a129c08c96-7.jpg ]
-
-更年期オンライン診療サービス 「女性のためのマイドクター ビバエル」について
-
-
-「更年期＝我慢するもの」と考え、誰...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「KIDS DREAM DAY（キッズドリームデー）2.7」開催のお知らせ]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000006.000125609.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000006.000125609.html"/>
-        <updated>2023-12-05T10:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社NAGANO SPIRIT]
-このたび、信州ブレイブウォリアーズ（以下、ウォリアーズ）は、来年2月7日（水）のホームゲームにおいて、「KIDS DREAM DAY（キッズドリームデー）2.7」（以下、本イベント）を開催することになりましたので、お...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年のクリスマス、一番選ばれている枕ギフトはコレ！「安眠クリスマスギフト人気ランキング」速報を発表。まくら(株)直営「枕と眠りのおやすみショップ！楽天市場店」調べ]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000345.000010285.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000345.000010285.html"/>
-        <updated>2023-12-05T10:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[まくら株式会社]
-[画像1: https://prtimes.jp/i/10285/345/resize/d10285-345-6dd99a68bb1102e575ec-10.jpg ]
-
-
-近年、睡眠の質が日々の生活に大きく影響することが明らかになり、睡眠への関心が高まっています。その影響もあり、...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「各企業・民間団体に対する人権デュー・ディリジェンス（HRDD）の義務付けを行う法律等HRDDの実践を前進させる法律の制定に関するアンケート調査結果報告」記者会見のお知らせ]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000024.000089764.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000024.000089764.html"/>
-        <updated>2023-12-05T10:36:10.000Z</updated>
-        <summary type="html"><![CDATA[[HRN]
-記者会見のご案内
-「各企業・民間団体に対する
-人権デュー・ディリジェンス（HRDD）の義務付けを行う法律等
-HRDDの実践を前進させる法律の制定に関するアンケート調査結果報告」
-
-報道機関各位
-
-　東京に本拠を置...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[山田進太郎D&I財団、昭和女子大学附属中学校のSTEM分野の職業を探究するキャリア教育プログラムに協力。]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000031.000083893.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000031.000083893.html"/>
-        <updated>2023-12-05T10:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[公益財団法人　山田進太郎D&I財団]
-[画像: https://prtimes.jp/i/83893/31/resize/d83893-31-c8e1e94264699fb4e466-1.png ]
-
-■背景
-　山田進太郎D&I財団は、STEM(理系)分野における女子学生の大学進学率を2035年までにOECD諸国の平均と同等の28％に...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[画像キャラクターを動かせるAnimate Anyoneの技術を、AIタレントエージェンシーに組み込みます]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000043.000121749.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000043.000121749.html"/>
-        <updated>2023-12-05T10:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社Emposy]
-[画像1: https://prtimes.jp/i/121749/43/resize/d121749-43-3839372d2f3d13cd92bc-0.png ]
-
-引用: Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation（https://gi...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年間1万8,000件以上を販売する「お財布専門店ジージー」では本年も ≪ 2023年クリスマスギフト特集 ≫ ＆ ≪ 楽天スーパーセール大特価祭 ≫ で人気商品の充実ラインナップを展開！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000006.000060665.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000006.000060665.html"/>
-        <updated>2023-12-05T09:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[有限会社グリット]
-[画像1: https://prtimes.jp/i/60665/6/resize/d60665-6-524a9ca4987da3428d74-1.jpg ]
-
-
-お財布専門店ジージーでは、
-楽天市場ランキングの「メンズ財布部門」「レディース財布部門」「月間優良ショップ受賞」を...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【FOEX】健康で毎日ハッピー！『博士が教える最強の健康メソッド』『薬剤師による「健康」語り』『身近な電磁波の影響』オンラインEXPO(R)「健康のミライEXPO」特別講演 12/10 開催のお知らせ]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000209.000084907.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000209.000084907.html"/>
-        <updated>2023-12-05T07:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[合同会社スマートルーチェ]
-[画像1: https://prtimes.jp/i/84907/209/resize/d84907-209-9a5a0fddd7987c67ed87-0.jpg ]
-
-
-FOEX(R)「健康のミライEXPO」
-＜特別講演＞
-【場　所】健康のミライEXPO  内
-【日　時】2023年12月10日（日）
-［１］...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電通ランウェイ 2024年度役員体制のお知らせ]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000008.000078648.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000008.000078648.html"/>
-        <updated>2023-12-05T07:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社電通ランウェイ]
-株式会社電通ランウェイ（本社：東京都港区、代表取締役社長執行役員 河勝 重之）は、取締役会において、2024年度の役員体制につき内定いたしましたので、以下の通りお知らせいたします。今後とも更なるご愛顧を...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「日経GX500 2023年版」（脱炭素経営ランキング）「情報開示」と「排出量の管理や削減実績」の分野別でいちごが１位を獲得！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000183.000036834.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000183.000036834.html"/>
-        <updated>2023-12-05T07:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[いちご]
-当社は、長期 VISION「いちご 2030」のとおり、従来の心築（しんちく）を軸とした事業モデルをさらに進化させ、「100年不動産」へチャレンジするとともに、地域および地球に優しいクリーンエネルギー事業を積極的...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二次元コスパがおくる『ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!』1年間通したTシャツ企画【3月】のメンバーを発表！【株式会社コスパ】]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000622.000099047.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000622.000099047.html"/>
-        <updated>2023-12-05T07:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[コスパグループ株式会社]
-[画像1: https://prtimes.jp/i/99047/622/resize/d99047-622-d5416f9b8cee33753123-0.jpg ]
-
-二次元コスパから、『ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!』で活躍するメンバーたちのTシャツ...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法人カード「UPSIDER」、証憑回収業務を応援する複数の機能をリリース]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000106.000076272.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000106.000076272.html"/>
-        <updated>2023-12-05T07:15:03.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社UPSIDER]
-UPSIDERの付帯サービスとして提供するAIチャット型業務ツール「UPSIDER Coworker」とSlackの連携により、領収書などの証憑が未提出の際、Slackに自動リマインドする機能など、証憑の回収に関する業務を自動化・サ...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブライン仕様のチラーユニットに低GWP冷媒R32を採用]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000054.000020546.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000054.000020546.html"/>
-        <updated>2023-12-05T06:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[日立ジョンソンコントロールズ空調株式会社]
-[画像1: https://prtimes.jp/i/20546/54/resize/d20546-54-b2b9b8fb045cdf524145-0.jpg ]
-
-
-日立ジョンソンコントロールズ空調株式会社（本社：東京都港区）は、チラーユニット ブライン仕様（低温用）に冷媒R32...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「投資書籍プレゼントキャンペーン」実施！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000521.000052387.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000521.000052387.html"/>
-        <updated>2023-12-05T06:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社外為どっとコム]
-[画像: https://prtimes.jp/i/52387/521/resize/d52387-521-11fc5f789d131944de5d-0.jpg ]
-
-※画像はイメージであり、実際の商品とは異なる場合がございます。
-
-■キャンペーン概要
-『外貨ネクストネオ』口座をお持...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アクト、サイバーセキュリティをテーマとしたオンラインイベントに協賛]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000030.000076503.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000030.000076503.html"/>
-        <updated>2023-12-05T06:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社アクト]
-[画像1: https://prtimes.jp/i/76503/30/resize/d76503-30-7873aa57808f6ff880b5-0.jpg ]
-
-Cyber Initiative Tokyo 2023
-
-
-「持続可能で復元力のあるデジタル社会へ　サイバーリスクへの備えとトラストの構築」
-...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GBP株式会社、CVTケーブルの供給不足の解決を目指し、CVTとCVケーブルの提供開始]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000043.000110590.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000043.000110590.html"/>
-        <updated>2023-12-05T06:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[GBP株式会社]
-電力ケーブルの不足について
-
-
- 昨今、国内では、大規模インフラ施設の建設が進む一方で、電力ケーブル不足が課題になっています。2023年11月には、主要ケーブルメーカーでも、対応の長納期化や新規受注停止の連...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[先天的なシミのできにくさに着目し新たなターゲットを発見]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000055.000092303.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000055.000092303.html"/>
-        <updated>2023-12-05T06:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[ポーラ・オルビスHD]
-シミのできやすさに関与する遺伝子を新たに突き止めた
-
-
-　これまでの研究で、紫外線などの生活環境がシミの発生に大きく影響することが明らかにされてきました。一方で、年齢を重ねる過程で紫外線の影響を多く受...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジンコソーラー、COP28に出席、気候変動への関心を説く]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000018.000125384.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000018.000125384.html"/>
-        <updated>2023-12-05T05:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[ジンコソーラージャパン株式会社]
-近日、太陽光発電（PV）産業および蓄電池（ESS）産業の世界大手かつ革新的企業ジンコソーラーは、2023年11月30日から12月12日にかけてアラブ首長国連邦（以下、「UAE」）・ドバイで開催される「国連気候変動枠組...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パナソニック株式会社の社会コミュニケーション活動がグッドライフアワードの「実行委員会特別賞」を受賞]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000005473.000003442.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000005473.000003442.html"/>
-        <updated>2023-12-05T05:15:03.000Z</updated>
-        <summary type="html"><![CDATA[[パナソニックグループ]
-[画像: https://prtimes.jp/i/3442/5473/resize/d3442-5473-dca9d8f27edeeb19b800-0.jpg ]
-
-パナソニック株式会社は、環境省が主催する第11回グッドライフアワードで、「実行委員会特別賞 地球と人への想いやり賞...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「オクチィ」×「日本交通」 日本初！タクシー乗務員「おくちの体操」実験を開始]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000090.000053767.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000090.000053767.html"/>
-        <updated>2023-12-05T04:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[日本交通株式会社]
-[画像1: https://prtimes.jp/i/53767/90/resize/d53767-90-b16c87b259835f1f9f33-0.jpg ]
-
-[画像2: https://prtimes.jp/i/53767/90/resize/d53767-90-42a7fb9dee4372a1dd93-0.jpg ]
-
-今般取り組まれる実験は、口...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[株式会社日本中央住販、畿央大学と共同プロジェクト開始を発表]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000048.000120059.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000048.000120059.html"/>
-        <updated>2023-12-05T03:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社日本中央住販]
-株式会社日本中央住販は、畿央大学健康科学部人間環境デザイン学科の林田ゼミと共同プロジェクトの開始を発表しました。このプロジェクトは、日本中央住販のオリジナルブランドの始動に伴い、内装パターンをパッ...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビュージックスジャパン社とのスマートグラスを活用したSDGsの取り組み]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000002.000133619.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000002.000133619.html"/>
-        <updated>2023-12-05T01:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[岡山シーガルズ]
-岡山シーガルズは2023年11月にビュージックスジャパン株式会社（東京都港区赤坂・代表取締役 藤井慶一郎）と広告スポンサーや今後SDGsへ取り組んでいくことで合意にいたり、契約を締結いたしましたのでお知らせ致...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使い捨てモバイルWIFI　日本初！？　100GB付き　激安ルーター9,980円で販売！中古品活用で実現！【リチャージWiFi】]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000011.000109431.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000011.000109431.html"/>
-        <updated>2023-12-05T00:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社カウスメディア]
-[画像1: https://prtimes.jp/i/109431/11/resize/d109431-11-0e94867a1a6480cb6f9c-1.png ]
-
-
-
-今回、リチャージWiFiでは新たな取り組みとして、昭和に流行った使い捨てのインスタントカメラのイメージで最高に簡...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学生の新たな視点とテクニカルスキルを活かして、地域の課題を解決する「地域共創プログラム」の実施について]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000628.000011137.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000628.000011137.html"/>
-        <updated>2023-12-04T23:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[学校法人 日本教育財団]
-[画像1: https://prtimes.jp/i/11137/628/resize/d11137-628-97b402b31d40b943c9b4-3.jpg ]
-
-
-１．地域共創デザイン実習の概要
-（１）  目的
- IPUTの学生（以下、学生）が、新潟県上越市の掲げる「大勢の来訪者が...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keeping Time in C++: How to use the std::chrono API]]></title>
-        <id>https://www.freecodecamp.org/news/cpp-std-chrono-api/</id>
-        <link href="https://www.freecodecamp.org/news/cpp-std-chrono-api/"/>
-        <updated>2023-12-04T23:38:45.000Z</updated>
-        <summary type="html"><![CDATA[Keeping track of time is a very important aspect of computer programs. Some common use cases are:  * Measure/profile the performance of certain parts of code.  * Do work at certain periods of time, from within a program.   * Detect whether threads are in a deadlock]]></summary>
-        <author>
-            <name>Jayant Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電気自動車・蓄電池などの脱炭素モビリティに専門特化した採用支援チームを「Beluga Career」にて発足]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000003.000077597.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000003.000077597.html"/>
-        <updated>2023-12-04T22:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[Leaf Ring株式会社]
-[画像1: https://prtimes.jp/i/77597/3/resize/d77597-3-72da8cdd2701903cf0bc-5.png ]
-
-
-■事業背景
-　政府は、2050年までに温室効果ガスの排出量を実質ゼロとする「カーボンニュートラル」の実現を目標に掲げて...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ライフネット生命保険 コンタクトセンターとウェブサイトが「HDI格付けベンチマーク」で業界最多11回目の三つ星をダブル獲得]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000076.000069919.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000076.000069919.html"/>
-        <updated>2023-12-04T22:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[ライフネット生命保険株式会社]
-　当社は、今回の獲得で、公開格付け調査における両部門での三つ星獲得回数が11回目となり、これは生命保険業界での最多記録*1となります。また、「Webサポート格付け（ウェブサイト）」では、生命保険業界初*2と...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[食品企業は、動物福祉を促す取り組みを強化している　ー　　　　　　　　　　　　　シンネジア・アニマルの最新レポートが明らかに]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000004.000122371.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000004.000122371.html"/>
-        <updated>2023-12-04T22:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[Sinergia Animal ]
-[画像1: https://prtimes.jp/i/122371/4/resize/d122371-4-e6e921c889c5233f7e28-0.png ]
-
-「ここ数年、アジアで事業を展開する数十社の食品会社が、最も残酷な動物飼育の形態のひとつであるバタリーケージで生産...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JTOWER、NTTドコモからの通信鉄塔最大1,552基の追加カーブアウトに関するファイナンス関連契約の締結を決定]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000093.000020999.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000093.000020999.html"/>
-        <updated>2023-12-04T21:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社JTOWER]
-株式会社JTOWER（本社：東京都港区、代表取締役社長：田中 敦史、以下 JTOWER）は、株式会社NTTドコモ（本社：東京都千代田区、代表取締役社長：井伊 基之、以下 ドコモ）からの通信鉄塔最大1,552基の追加カーブ...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[問合せ電話窓口からメール・チャットサポートへの切り替えを支援する「メール・チャットサポートサービス」提供開始のお知らせ]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000401.000003149.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000401.000003149.html"/>
-        <updated>2023-12-04T21:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ネオマーケティング]
-「メール・チャットサポートサービス」では、当社コンタクトセンターのプロフェッショナルが10年以上にわたって培ったカスタマーサポート、カスタマーサクセスの経験を基に、コンタクトセンターでの対応を、電話...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマイルワークス、オリコが提供する請求書代行サービスにシステム提供で提携]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000004.000132358.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000004.000132358.html"/>
-        <updated>2023-12-04T21:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社スマイルワークス]
-[画像1: https://prtimes.jp/i/132358/4/resize/d132358-4-f7c6753c6cf238cc558f-1.png ]
-
-OBSプラスとは
-～請求書代行サービス「Orico Business payment for SME PLUS（※）」～
-
-
-「OBSプラス」は、中小規模事業...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React Hooks – useEffect, useState, and useContext Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/</id>
-        <link href="https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/"/>
-        <updated>2023-12-04T18:38:16.000Z</updated>
-        <summary type="html"><![CDATA[React is a powerful JavaScript library for building user interfaces. And it has undergone significant changes over the years.  One of the most noteworthy additions is the introduction of hooks, which revolutionized the way developers manage state and side effects in functional components.  In this guide, we'll explore]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLOps Course – Learn to Build Machine Learning Production Grade Projects]]></title>
-        <id>https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/</id>
-        <link href="https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/"/>
-        <updated>2023-12-04T17:50:08.000Z</updated>
-        <summary type="html"><![CDATA[MLOps, short for Machine Learning Operations, refers to the practice of applying DevOps principles to machine learning. Understanding MLOps can help you build production grade machine learning projects. We just posted an MLOps course the freeCodeCamp.org YouTube channel. MLOps is a cutting-edge field at the intersection of machine learning, data]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Marketing Changed OOP In JavaScript]]></title>
-        <id>https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/</id>
-        <link href="https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/"/>
-        <updated>2023-12-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discussing the decisions surrounding JavaScript prototypes, the article by Juan Diego Rodriguez scrutinizes their origin, examines missteps in the design, and explores how these factors have affected the way we write JavaScript today.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
         </author>
     </entry>
 </feed>
