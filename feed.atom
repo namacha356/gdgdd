@@ -2,10 +2,2315 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://namacha356.github.io/gdgdd/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-26T01:19:53.774Z</updated>
+    <updated>2024-08-27T01:20:27.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://namacha356.github.io/gdgdd/index.html"/>
     <link rel="self" href="https://namacha356.github.io/gdgdd/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フリマアプリでの最新トレカトラブル事例を公開！安心フリマアプリ「スニダン」人気トレカが当たるプレゼントキャンペーンを開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000077.000043703.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000077.000043703.html"/>
+        <updated>2024-08-27T00:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[SODA inc.]
+[画像1: https://prcdn.freetls.fastly.net/release_image/43703/77/43703-77-83760d3bc563249dae5be3882b902266-1200x790.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Gutenberg Blocks, Patterns, and Templates]]></title>
+        <id>https://css-tricks.com/?p=380047</id>
+        <link href="https://css-tricks.com/understanding-gutenberg-blocks-patterns-and-templates/"/>
+        <updated>2024-08-26T17:27:16.000Z</updated>
+        <summary type="html"><![CDATA[Developers suffer in the great multitudes whom their sacred block-based websites cannot reach.
+Johannes Gutenberg (probably)
+
+Long time WordPresser, first time Gutenberger here. I’m a fan even though I’m still anchored to a classic/block hybrid setup. I believe Johanes himself …
+Understanding Gutenberg Blocks, Patterns, and Templates originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #13]]></title>
+        <id>https://css-tricks.com/?p=380087</id>
+        <link href="https://css-tricks.com/quick-hit-13/"/>
+        <updated>2024-08-26T15:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Happy birthday, Chris Coyier — and thank you for CSS-Tricks as well as everything you do at CodePen, ShopTalk, Boost, and even your personal blog!…
+Quick Hit #13 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating Unique Random Numbers In JavaScript Using Sets]]></title>
+        <id>https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/</id>
+        <link href="https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/"/>
+        <updated>2024-08-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[株式会社INREVO、初エントリーでGreat Place to Work Institute Japanによる「働きがいのある会社」認定のお知らせ]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000005.000137149.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000005.000137149.html"/>
+        <updated>2024-08-26T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社INREVO]
+[画像1: https://prcdn.freetls.fastly.net/release_image/137149/5/137149-5-0b855fdfbf242fbf48fcda018f3bf2e6-595x415.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女性に寄り添った「AI占いちゃん」β版リリース！AIがあなただけの占い師となり的確な鑑定をお届けします]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000004.000127990.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000004.000127990.html"/>
+        <updated>2024-08-26T12:15:10.000Z</updated>
+        <summary type="html"><![CDATA[[クルージュ株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/127990/4/127990-4-91127c12e7cdb290a73544e2a4bd5908-2854x1560.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エイジング*1の新領域へ*2。待望のプレミアム化粧水誕生]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000135.000010935.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000135.000010935.html"/>
+        <updated>2024-08-26T12:11:29.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ニールズヤード レメディーズ]
+[画像: https://prtimes.jp/i/10935/135/resize/d10935-135-fa9c1ddf79727de77d25-0.jpg ]
+
+日本人のために開発された「フランキンセンス インテンス ハイドレイティングエッセンス」は、クチナシ幹細胞エキス*3...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【岡山大学】岡山大学病院 医療系オープンイノベーション・プログラム「第13回BIZEN活動発信会」の内容動画を期間限定で公開]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002450.000072793.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002450.000072793.html"/>
+        <updated>2024-08-26T12:07:28.000Z</updated>
+        <summary type="html"><![CDATA[[国立大学法人岡山大学]
+2024（令和6）年 8月 26日
+国立大学法人岡山大学
+https://www.okayama-u.ac.jp/
+
+[画像1: https://prtimes.jp/i/72793/2450/resize/d72793-2450-b88e6c2037254d0e3b89-0.jpg ]
+
+
+
+◆概 要
+　国立大学法人岡山大学...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パフォーマンスユニット「MAItoINK（マイトインク）」を結成。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000069.000083564.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000069.000083564.html"/>
+        <updated>2024-08-26T12:00:10.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社七色]
+[動画: https://www.youtube.com/watch?v=oY8HMYOw_W4 ]
+芸能事務所なないろ（株式会社七色 代表取締役：佐々木 綾香）に所属するタレントのやっくんもっくんが、新ユニット「MAItoINK（マイトインク）」を結成し...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「もしあなたの目の前で人が倒れたら、どうしますか？」・・・「救急の日」ポスター並びに「大切ないのちを救う心肺蘇生法ＣＡＢ＋Ｄ」（CABDカード）を日本医師会ホームページで公開(2024年度版)]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000090.000128707.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000090.000128707.html"/>
+        <updated>2024-08-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[公益社団法人日本医師会]
+救急車の平均到着時間は10.3分(令和5年版 救急救助の現況より)、心停止から1分ごとに救命率は7～10％下がっていくと言われていますが、その間に、皆さんにもできることがあります。
+
+日本医師会では、毎年、救急...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【岡山大学】岡山大学病院薬剤部監修「病棟薬剤管理ノート」が発行されました！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002449.000072793.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002449.000072793.html"/>
+        <updated>2024-08-26T11:30:50.000Z</updated>
+        <summary type="html"><![CDATA[[国立大学法人岡山大学]
+2024（令和6）年 8月 26日
+国立大学法人岡山大学
+https://www.okayama-u.ac.jp/
+
+[画像1: https://prtimes.jp/i/72793/2449/resize/d72793-2449-225be2216cb758f04075-0.jpg ]
+
+
+
+◆概 要
+　国立大学法人岡山大学...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホテルグランバッハ東京銀座 | 2024年秋メニューのご紹介]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000039.000074239.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000039.000074239.html"/>
+        <updated>2024-08-26T11:30:04.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社グリーンホスピタリティーマネジメント]
+[画像1: https://prcdn.freetls.fastly.net/release_image/74239/39/74239-39-cbbc4360636dd4cf0599ff8505bff1dc-3300x1815.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本のドラッグ・ロス解消に向けて、治験のデジタル化を加速するエコシステムを構築]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000322.000093942.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000322.000093942.html"/>
+        <updated>2024-08-26T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[[富士通株式会社]
+当社は、世界最先端の治験プラットフォームを提供する米国スタートアップ企業であるParadigm Health, Inc.（注1）（以下、Paradigm）と2024年7月に戦略的パートナーシップ契約を締結しました。Paradigmの治験プラ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[関西国際空港 開港30周年記念第18回KIX国際交流ドラゴンボート大会を開催！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000269.000045236.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000269.000045236.html"/>
+        <updated>2024-08-26T11:10:39.000Z</updated>
+        <summary type="html"><![CDATA[[関西エアポート株式会社]
+　関西エアポート株式会社は、KIXドラゴンボート大会実行委員会（一般社団法人日本ドラゴンボート協会、和歌山県ドラゴンボート協会、関西エアポート株式会社）による、「第18回KIX国際交流ドラゴンボート大会」...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[関西国際空港　開港30周年記念イベントを実施！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000268.000045236.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000268.000045236.html"/>
+        <updated>2024-08-26T11:03:26.000Z</updated>
+        <summary type="html"><![CDATA[[関西エアポート株式会社]
+　関西エアポート株式会社は、2024年９月４日（水）に関西国際空港が開港30周年を迎えるにあたり、これまでご利用いただいたお客さまや空港関係者の皆さまへの感謝の気持ちを込めた記念イベントを実施することを...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LE SEL D’ISSEY「ル セルドゥ イッセイ」2024年8月28日(水)イッセイ ミヤケ直営店先行発売2024年9月4日(水)全国発売のお知らせ]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000678.000034058.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000678.000034058.html"/>
+        <updated>2024-08-26T11:00:12.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社 資生堂]
+[画像1: https://prcdn.freetls.fastly.net/release_image/34058/678/34058-678-43406d29c91021c18117e7a14cd7fb01-637x850.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAGE初の海外オフラインイベント「RAGE WORLD CHALLENGE in Bangkok」にてタイ・バンコクが大熱狂！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000312.000059480.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000312.000059480.html"/>
+        <updated>2024-08-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[RAGE]
+[動画: https://www.youtube.com/watch?v=YkoTnj7LNlc ]
+
+[画像1: https://prtimes.jp/i/59480/312/resize/d59480-312-d1cddee01c0386f68210-0.png ]
+
+
+本イベントのプログラムは、「hololive production Stage」...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“磨き上げた匠の技で婦人科がんの患者を救え！パッションを胸に走り続ける命の守護者”金尾祐之氏を特集　DOCTOR'S MAGAZINE ドクターズマガジン９月号発刊]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000003640.000003670.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000003640.000003670.html"/>
+        <updated>2024-08-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[クリーク・アンド・リバー社]
+[画像: https://prcdn.freetls.fastly.net/release_image/3670/3640/3670-3640-7e6c86a7345c9f8216877aaf282881ce-2046x2658.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[株式会社TIMEWELL、埼玉県横瀬町とともに地域創生に向けた在宅ワーカー育成プログラムを開始＆第１弾のセミナー募集開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000031.000119271.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000031.000119271.html"/>
+        <updated>2024-08-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社TIMEWELL]
+株式会社TIMEWELL（本社：神奈川県横浜市、代表取締役：濱本隆太、以下TIMEWELL）は、埼玉県横瀬町（町長：富田 能成）が実施する官民連携プラットフォーム「よこらぼ」に採択いただいたことをお知らせいたします...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あの熱狂再び！伝説のトークライブ「古舘伊知郎トーキングブルース」が、渾身の東京3daysで開催決定！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000234.000030888.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000234.000030888.html"/>
+        <updated>2024-08-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社テレビ朝日]
+[画像: https://prcdn.freetls.fastly.net/release_image/30888/234/30888-234-f7af9168cc9964334aa9c83371f09055-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バブルンが川崎フロンターレ試合前イベントにゲスト出演！9/13「KAWASAKI GAME SHOW 2024」にタイトーブースを出展！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000407.000041970.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000407.000041970.html"/>
+        <updated>2024-08-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社タイトー]
+　株式会社タイトー（本社：東京都新宿区、以下タイトー）は、J1リーグ所属のプロサッカーチーム川崎フロンターレ（所在地：神奈川県川崎市）のホームゲームである9/13（金）に行われる試合前イベント「KAWASAKI ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本唯一の炭火焼きスーパー・綿半フレッシュマーケット　じっっっっっくり炭火焼！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000227.000047889.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000227.000047889.html"/>
+        <updated>2024-08-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[綿半ホールディングス株式会社]
+　綿半フレッシュマーケット（本社：愛知県一宮市　代表取締役社長 永岡幸春）は、綿半フレッシュマーケットを「日本唯一の炭火焼のスーパー」を目指して、炭火で焼いた様々な総菜を開発・発売いたします。
+[画像...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『リテール史上初※１』今話題の「エクソソーム＊１」「NMN＊２」をリポソーム化　ハチミツ再生科学※２シャンプー『DR.HONEY (DRハニー )』誕生～1滴に100億個の再生リポソーム※３配合 ～]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000030.000076779.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000030.000076779.html"/>
+        <updated>2024-08-26T10:58:20.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社 H2O]
+[画像1: https://prcdn.freetls.fastly.net/release_image/76779/30/76779-30-ca2f393cc6f1e7c9d4e82fca053cfa96-974x693.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カスタムジャパン、ホンダ、カワサキ、ドゥカティに純正装着されたSkyrichリチウム鉄リン酸塩（LiFePO₄）バッテリーの正規取扱を開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000049.000070755.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000049.000070755.html"/>
+        <updated>2024-08-26T10:50:27.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社カスタムジャパン]
+[画像1: https://prtimes.jp/i/70755/49/resize/d70755-49-812bd6819e0df7371926-0.jpg ]
+
+Skyrichリチウムイオンバッテリーの特長
+
+
+Skyrich製リチウムイオンバッテリーは、その革新的な技術と性能で、世界中の...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[関西国際空港　T1リノベーション新商業エリアの新規出店店舗が決定！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000267.000045236.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000267.000045236.html"/>
+        <updated>2024-08-26T10:41:54.000Z</updated>
+        <summary type="html"><![CDATA[[関西エアポート株式会社]
+　関西エアポート株式会社は、現在進めております関西国際空港T1リノベーション工事Phase３の新商業エリアに新規出店する店舗が決定したことをお知らせいたします。
+　新しい商業エリアは、4階国際線出発エリア、...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小柄女性向けブランド「COHINA」、 8/28より大阪・名古屋にてポップアップストアを順次オープン]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000177.000032762.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000177.000032762.html"/>
+        <updated>2024-08-26T10:40:34.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社newn]
+[画像1: https://prcdn.freetls.fastly.net/release_image/32762/177/32762-177-1611d5be11365635fc93c7b1060df733-3840x2010.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『エリオスライジングヒーローズ』より、ディスプレイにもぴったりな応援広告風のイラストカード「Cheerカードコレクション」が登場。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002205.000025615.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002205.000025615.html"/>
+        <updated>2024-08-26T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[[大網株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/25615/2205/25615-2205-49a5e1541d568720d5cbf1cc259b4a60-1722x1400.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[関西国際空港 T1リノベーション ４階国際線保安検査場先行オープン]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000266.000045236.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000266.000045236.html"/>
+        <updated>2024-08-26T10:31:42.000Z</updated>
+        <summary type="html"><![CDATA[[関西エアポート株式会社]
+　関西エアポート株式会社は、現在リノベーション工事中の関西国際空港第１ターミナルビルの４階国際線保安検査場の一部を、2024年9月3日（火）に先行オープンすることをお知らせいたします。
+　新しい国際線保安...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『Benir Celebrates 55th Anniversary Event』開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000001.000145606.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000001.000145606.html"/>
+        <updated>2024-08-26T10:31:11.000Z</updated>
+        <summary type="html"><![CDATA[[有限会社錦屋衣裳店]
+[画像1: https://prcdn.freetls.fastly.net/release_image/145606/1/145606-1-8e088ee329e079ce9cd6d455bea3880e-3000x1999.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[著作権、理解できていますか？90日間見放題で最新の著作権情報を押さえる！eラーニング「著作権講座（全4回）」販売スタート!!]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000003641.000003670.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000003641.000003670.html"/>
+        <updated>2024-08-26T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[[クリーク・アンド・リバー社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/3670/3641/3670-3641-9ba4e108ec6c32ffd16682d760fcd214-698x392.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[管清工業、「ツール・ド・三陸2024」大会への協賛とブース出展のお知らせ]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000062.000105097.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000062.000105097.html"/>
+        <updated>2024-08-26T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[[管清工業株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/105097/62/105097-62-d0a08f0cf3ed6365fb841f00327fe996-3419x591.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オフィス移転のお知らせ]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000007.000148559.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000007.000148559.html"/>
+        <updated>2024-08-26T10:23:51.000Z</updated>
+        <summary type="html"><![CDATA[[Vogaro株式会社]
+[画像: https://prcdn.freetls.fastly.net/release_image/148559/7/148559-7-652a192c702b94b8ee4e6e440a10c051-1500x1000.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[９月１日(日)より、「東武アーバンパークライン御縁(ごえん)線巡り(せんめぐり)」を実施します！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000344.000064591.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000344.000064591.html"/>
+        <updated>2024-08-26T10:23:35.000Z</updated>
+        <summary type="html"><![CDATA[[東武鉄道株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/64591/344/64591-344-7fbc5ed85f1c763a55a1b24d72e93ef4-1096x334.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【8月29日開催】0から始めるFIT非化石証書 エレビスタ株式会社]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000039.000057960.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000039.000057960.html"/>
+        <updated>2024-08-26T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[[エレビスタ株式会社]
+[画像: https://prcdn.freetls.fastly.net/release_image/57960/39/57960-39-d63a064ee60a256f1d5b5b1574271029-920x450.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&b...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVアニメ『菜なれ花なれ』より、「HAWK WINGS」のグッズが一斉に「あみあみ」から登場。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002204.000025615.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002204.000025615.html"/>
+        <updated>2024-08-26T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[[大網株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/25615/2204/25615-2204-48968505e32960e031322276970d9e0c-1722x1158.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[気象予報士の木原実さんが注意を呼びかける『灰仭巫覡  』CM公開！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000006458.000001719.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000006458.000001719.html"/>
+        <updated>2024-08-26T10:15:10.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社講談社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/1719/6458/1719-6458-24ff8fb3b8c6fcd06b654923374e4e2c-1500x839.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[―飛騨高山の地で創業130 余年― 「角一」オンラインストアから、伝統豊かな味噌と醤油を贅沢に使用した「ドレッシング」2 品が新発売]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000001.000148409.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000001.000148409.html"/>
+        <updated>2024-08-26T10:14:16.000Z</updated>
+        <summary type="html"><![CDATA[[日下部味噌醤油醸造株式会社]
+　日下部味噌醤油醸造株式会社（本社：岐⾩県高山市、代表取締役社長：後藤 哲侍、屋号：角一）は、2024 年8 月26 日(月)より同社オンラインストアにて「ゆず味噌ドレッシング 150ml」と「たまねぎ醤油ドレッシン...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAMORIO、映画 『ラストマイル』とのタイアップを実施！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000230.000022173.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000230.000022173.html"/>
+        <updated>2024-08-26T10:12:34.000Z</updated>
+        <summary type="html"><![CDATA[[MAMORIO株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/22173/230/22173-230-e1fbe971484f57692b0ce9a8190d46b8-2000x1125.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『アズールレーン』より、「カリブディス」が着せ替え「輝かしの麗裳」の姿でフィギュア化。あみあみにて予約受付中。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002202.000025615.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002202.000025615.html"/>
+        <updated>2024-08-26T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[[大網株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/25615/2202/25615-2202-e467a645b2c98bc7199de074ce157d5c-800x534.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『崩壊：スターレイル』より、「トパーズ＆カブ ちびキャラゆらゆらスタンド」が登場。あみあみにて予約受付中。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002203.000025615.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002203.000025615.html"/>
+        <updated>2024-08-26T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[[大網株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/25615/2203/25615-2203-a101ed7d5e5f7a8b6e86bc1c8b3caa80-800x534.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国コスメブランドAMUSE(アミューズ)からアイコニックなオブジェハンドクリームが登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000004.000140231.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000004.000140231.html"/>
+        <updated>2024-08-26T10:04:18.000Z</updated>
+        <summary type="html"><![CDATA[[AMUSE CORPORATION]
+「クリーン&ヴィーガンビューティー」をコンセプトにした韓国コスメブランドのAMUSE(アミューズ)は、「アミューズまめハンドクリーム」4種を2024年8月31日(金)よりロフトコスフェスを皮切りに、全国のロフト...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポケモン×初音ミクのコラボで生まれた21曲が集結！　「ポケミク」CD、2024年11月13日（水）発売に向けて予約受付中！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000383.000052709.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000383.000052709.html"/>
+        <updated>2024-08-26T10:04:00.000Z</updated>
+        <summary type="html"><![CDATA[[クリプトン・フューチャー・メディア株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/52709/383/52709-383-4959a355edf343bbeaf3e3fc4c851632-1200x628.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誕生から3周年を迎えたフェリシモ f winery[エフワイナリー]が、新作「猫部」とのコラボ商品「船員猫さんワイン」や、スタッフのおすすめ厳選ワインが毎月届く「豊かな時を彩るワインの会」を発表]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000003614.000012759.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000003614.000012759.html"/>
+        <updated>2024-08-26T10:01:36.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社フェリシモ]
+フェリシモが展開する、2021年6月に醸造を開始し3周年を迎える、ユニークなワインを研究する都市型小規模ワイナリー「f winery[エフワイナリー]」は、新しいワインの定期便コースを発表し、8月3日よりウェブ販売...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第57回愛知ブロック大会「稲沢大会」開催告知]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000002.000146858.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000002.000146858.html"/>
+        <updated>2024-08-26T10:00:09.000Z</updated>
+        <summary type="html"><![CDATA[[公益社団法人日本青年会議所東海地区愛知ブロック協議会２０２４年度共感広報ブランディング委員会]
+[画像1: https://prcdn.freetls.fastly.net/release_image/146858/2/146858-2-be4d2b9a0597792cf014eba8e7640c4c-1070x1528.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニジゲンノモリ開園7周年特別企画 第2弾夏の限定チケット「ニジゲンノモリ キッズフリーパス」が、さらにパワーアップ！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000234.000128966.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000234.000128966.html"/>
+        <updated>2024-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ニジゲンノモリ]
+[画像1: https://prcdn.freetls.fastly.net/release_image/128966/234/128966-234-e5ec278398b4190e73ac2fdcfe05afd8-2880x1921.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京タワースペシャルライトアップ点灯！ACG WORLDS共同主催「Web3.0× IP」イベント「Web3 Vision VC×IP Summit」8月28日に開催！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000004.000115947.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000004.000115947.html"/>
+        <updated>2024-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[ACGWORLDS株式会社]
+ACGWORLDS株式会社（本社：東京都渋谷区、代表：青木 一世）が運営するWeb3.0サービスACG WORLDSは、Gate Ventures（Gate.ioベンチャーキャピタル部門）と、2024年8月28日（水）14:00から東京タワーの「RED Sky S...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8月29日は「焼き肉の日」紀ノ国屋バイヤー厳選！西日本、東日本の美味しい銘柄肉をご紹介します。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000245.000055282.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000245.000055282.html"/>
+        <updated>2024-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社紀ノ國屋]
+紀ノ国屋では、8月31日（土） まで焼き「肉の日」フェアを一部店舗で開催中です。
+８月29日（木）には、紀ノ国屋プライベートブランドの調味料「スパイスミックス（マーガオ）」のご紹介と、黒毛和牛の試食イベン...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埼玉県川越市からJリーグを目指す「COEDO KAWAGOE F.C」、みずほフィナンシャルグループにて証券業務を担うみずほ証券株式会社 プラネットブース川越とクラブパートナー契約を締結]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000521.000069683.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000521.000069683.html"/>
+        <updated>2024-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[COEDO KAWAGOE F.C株式会社]
+[画像: https://prcdn.freetls.fastly.net/release_image/69683/521/69683-521-a9ddeb9e1b80e82673ec2e1492b0b0b4-2498x1623.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[株式会社00AI（ダブルオーエーアイ）、株式会社ライトアップ（証券コード6580）と業務提携。人材開発支援助成金を活用した生成AI研修の提供開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000007.000124450.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000007.000124450.html"/>
+        <updated>2024-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社00AI]
+[画像1: https://prcdn.freetls.fastly.net/release_image/124450/7/124450-7-cd665c539137a84e84c976c42020ddc4-1174x248.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈milktouch〉TWICE ジヒョが纏うブランド史上最高の輝き。パールツヤ肌ファンデ誕生。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000072.000023861.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000072.000023861.html"/>
+        <updated>2024-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社Coogee]
+株式会社Coogee（本社: 東京都渋谷区、代表取締役社長: 鈴木ヒロユキ、以下Coogee）は、TWICEのJIHYOが、ミューズを務める韓国コスメブランド「milktouch（ミルクタッチ）」より、新商品《オールデイ スキンフィ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仏教美術×テクノロジーアートの新たな表現に挑戦するクリエイターグループ・サイバー南無南無がNew Album『Cyber Monk』を配信リリース]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000207.000030962.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000207.000030962.html"/>
+        <updated>2024-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社massenext]
+音楽エージェントサイト「ZULA（読み：ズーラ、https://zula.jp/） 」を運営する株式会社massenext（東京都港区）は、サイバー南無南無のNew Album『Cyber Monk』を本日より配信スタートした。『Cyber Monk』は各...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国一斉子どものための養育費相談会開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000002.000135055.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000002.000135055.html"/>
+        <updated>2024-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[全国青年司法書士協議会]
+　全国青年司法書士協議会(所在地：東京都新宿区、会長：坂田亮平)は、「全国一斉子どものための養育費相談会」を2024年８月３１日(土)１０：００～２１：００に開催いたします。
+[画像1: https://prcdn.freetls....]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【シントトロイデン】福島県・Jヴィレッジとの共同プロジェクト「Jヴィレッジチャレンジ 2024 powered by シント＝トロイデンVV 小学生サッカー教室」を開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000412.000042484.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000412.000042484.html"/>
+        <updated>2024-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[シント＝トロイデンVV]
+[画像: https://prcdn.freetls.fastly.net/release_image/42484/412/42484-412-ba0b6c9e41c89d7e3571a0c88aaabec5-2000x1419.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｍリーグに参戦する「BEAST X」と、2024-25シーズンもオフィシャルスポンサー契約を締結]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000220.000046860.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000220.000046860.html"/>
+        <updated>2024-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[menu株式会社]
+menu株式会社（本社：東京都新宿区、代表取締役：信田篤男）が運営するデリバリー&テイクアウトアプリmenuは、プロ麻雀リーグ「Mリーグ」に参戦する「BEAST X」と2023-24シーズンに引き続き、2024-25シーズン...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SETAGAYA UNITED、IRERUDAKE株式会社とインソールパートナーシップ契約を締結]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000019.000109175.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000019.000109175.html"/>
+        <updated>2024-08-26T09:45:02.000Z</updated>
+        <summary type="html"><![CDATA[[合同会社SETAGAYA UNITED]
+[画像1: https://prcdn.freetls.fastly.net/release_image/109175/19/109175-19-3b061c93b4d83f1d13a9a8e8e6f17380-3540x1880.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8月8日（木）開催『JUNNA ROCK YOU TOUR 2024 ～Hitch-Hike～』恵比寿リキッドルーム公演ライブレポート！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000188.000046095.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000188.000046095.html"/>
+        <updated>2024-08-26T09:45:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社キューブ]
+JUNNAが全国津々浦々、島田昌典をバンドマスターとするメンバーと共にまわるツアー『JUNNA ROCK YOU TOUR 2024 ～Hitch-Hike～』。北海道公演や沖縄公演（ツアー千秋楽）など、初めてワンマンライブで訪れる地域...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【椿屋珈琲】「敬老の日」に心が温まるギフトを贈りませんか。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000042.000126835.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000042.000126835.html"/>
+        <updated>2024-08-26T09:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[東和フードサービス株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/126835/42/126835-42-9fed3ace5a34888651a5b7cefc830de1-1000x550.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 山梨県初出店!! 】『 十割そば囲炉裏 甲府湯村店 』 8/30（金）オープン！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000457.000031747.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000457.000031747.html"/>
+        <updated>2024-08-26T09:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ホットランド]
+[画像1: https://prcdn.freetls.fastly.net/release_image/31747/457/31747-457-fd109fcd340c800e21bd651f039502c5-992x506.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[≪参加無料≫「プレママ・プレパパ＆出産後の子育て講座」～１歳までの過ごし方・１歳からの過ごし方～]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000274.000077507.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000274.000077507.html"/>
+        <updated>2024-08-26T09:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社リソー教育]
+[画像1: https://prtimes.jp/i/77507/274/resize/d77507-274-ea7891235889aa1116bf-0.jpg ]
+
+
+お子さまに「よりよい教育をしたい」「よりよい人生を送ってほしい」と思っていても「いつ、何を」したらよいかわか...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人材派遣紹介サービスのキャスティングロードがハイキャリア向け人材紹介サービスの求人サイトをフルリニューアル！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000040.000039528.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000040.000039528.html"/>
+        <updated>2024-08-26T09:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[CRGホールディングス株式会社]
+[画像1: https://prtimes.jp/i/39528/40/resize/d39528-40-ace0345ce9be4095b2d8-4.png ]
+
+[画像2: https://prtimes.jp/i/39528/40/resize/d39528-40-68f2e77a29db5aa2feb8-1.png ]
+
+
+【ハイキャリアエージェント...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[経産省、イオン、東京電力、ベネッセ、デンカ、三菱HCキャピタル登壇、DX人材育成の最前線を一挙に知れるイベント「ExaWizards Collaboration Day 2024」開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000280.000030192.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000280.000030192.html"/>
+        <updated>2024-08-26T09:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社エクサウィザーズ]
+具体的なプログラムやお申し込みはこちらをご覧ください。 
+https://dx-lp.exawizards.com/collaborationday2024?utm_source=pr
+[画像: https://prtimes.jp/i/30192/280/resize/d30192-280-a5e00e85af38ce44379e-...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奇跡の素材【グラフェン】を本体とインナーシートに敷き詰めた【水素ビジョングラフェンアイマスク】優れた睡眠環境を構築する強い味方！装着時の圧迫感を究極まで減少させたアイマスク日本初上陸！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000004.000107128.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000004.000107128.html"/>
+        <updated>2024-08-26T09:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[NMRS Japan]
+＃夢ハック
+Makuake、2024.8.20から9.24.24時迄、クラウドファンディングを実施中！
+[画像1: https://prcdn.freetls.fastly.net/release_image/107128/4/107128-4-929910d1a40b3f536701d95095d594a3-1600x900.png...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コミュニティラボ所長黒田悠介著「コミュニティシフト」  Amazonコミュニティ部門でベストセラー1位を獲得！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000240.000036356.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000240.000036356.html"/>
+        <updated>2024-08-26T09:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[コミューン株式会社]
+コミュニティサクセスプラットフォーム「Commune（コミューン）」と、カスタマーサクセスマネジメントツール「SuccessHub（サクセスハブ）」を提供するコミューン株式会社は、コミューンコミュニティラボ所長の黒...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[いえらぶGROUP・日新火災・Finatext、不動産業者間流通プラットフォーム「いえらぶBB」で家財保険の提供を開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000030.000107664.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000030.000107664.html"/>
+        <updated>2024-08-26T09:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[日新火災海上保険株式会社]
+　株式会社いえらぶGROUP（本社：東京都新宿区、代表取締役：岩名 泰介、以下「いえらぶGROUP」）、日新火災海上保険株式会社（本社：東京都千代田区、取締役社長：織山 晋、以下「日新火災」）、株式会社Finatex...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内最大級クリエイターネットワーク『LUMOS（ルーモス）』運営のWAND（ウォンド）が「LINE VOOM」とMCN契約を締結]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000093.000026953.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000093.000026953.html"/>
+        <updated>2024-08-26T09:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[ファンコミ]
+
+[画像1: https://prcdn.freetls.fastly.net/release_image/26953/93/26953-93-52130dfa2a126de4d25d0ad1a1b7c438-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[注目が集まる福岡の不動産投資！資産運用EXPOに福岡の投資用物件を扱う２社が共同出展。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000014.000141424.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000014.000141424.html"/>
+        <updated>2024-08-26T09:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[ネクスウェイブ株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/141424/14/141424-14-4fe2875e5fc0b1303988a9c786b12d61-2048x1417.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼロ高生たちのアート作品大集合『ゼロ高クリエイティブ展』を8/31(土)に東京で初の一挙公開！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000035.000035825.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000035.000035825.html"/>
+        <updated>2024-08-26T09:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ZERO EDUCATION&ARTS]
+[画像1: https://prcdn.freetls.fastly.net/release_image/35825/35/35825-35-0b3320ceed6a8b4b12d7ce1dae3a8bb1-1621x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【開催レポート】活動を広げるワールドのSDGsワークショップ　よみうりランドで夏休み特別企画　 期間中3,000名が参加]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001230.000002439.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001230.000002439.html"/>
+        <updated>2024-08-26T08:45:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社 ワールド]
+[画像1: https://prcdn.freetls.fastly.net/release_image/2439/1230/2439-1230-de70247b29c229e071b953ae7ec633b8-1048x702.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[いえらぶGROUP・日新火災・Finatext、不動産業者間流通プラットフォーム「いえらぶBB」で家財保険の提供を開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000419.000012138.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000419.000012138.html"/>
+        <updated>2024-08-26T08:45:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社Finatextホールディングス]
+[画像1: https://prcdn.freetls.fastly.net/release_image/12138/419/12138-419-a2be0056cdf7c2c308ecf44a1ff8669a-1200x630.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猛暑対策に関する調査　ラジオ番組「馬渕・渡辺の#ビジトピ」と共同調査　男性の日傘利用は、日焼け対策が15.4%、涼を取る目的が12.6%]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000749.000004376.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000749.000004376.html"/>
+        <updated>2024-08-26T08:45:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ロイヤリティ　マーケティング]
+　共通ポイントサービス「Ponta（ポンタ）」を運営する株式会社ロイヤリティ マーケティング（本社：東京都渋谷区、代表取締役社長：長谷川 剛、以下「LM」）は、1都3県在住の方を対象に調査した「猛暑対策に関す...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪大学大学院工学研究科とTOPPAＮホールディングス、新たな3D細胞培養技術により悪性度の高いがんを体外で忠実に再現]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001467.000033034.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001467.000033034.html"/>
+        <updated>2024-08-26T08:45:03.000Z</updated>
+        <summary type="html"><![CDATA[[TOPPANホールディングス株式会社]
+　さらに、「invivoid(R)」ではない一般的な方法で培養したがんの組織は、3Dから2Dに再培養することで、このROSに対する抵抗力を失いますが、今回の新しい「invivoid(R)」で作製した3D組織は、2Dに再培養後も、そ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【丸山珈琲】秘境アンデスの奥地で育った世界を代表する最高峰のゲイシャコーヒーの素晴らしさを伝える「アグロタケシ スペシャルイベント」を開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000170.000024955.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000170.000024955.html"/>
+        <updated>2024-08-26T08:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社丸山珈琲]
+[画像1: https://prcdn.freetls.fastly.net/release_image/24955/170/24955-170-93a928ac177413d0262fe4d253c5cb46-1280x720.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「川崎愛 遊びつくす ３日間」11月2日～4日にかけて、100周年を盛り上げる「Colors,Future!Summit 2024」「みんなの川崎祭」「川崎夜市」「かわむすのおんがえし」を同時開催！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000092.000124454.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000092.000124454.html"/>
+        <updated>2024-08-26T08:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[川崎市]
+　2024年、川崎市は市制100周年。
+　この秋も市制100周年を盛り上げていくため、「全国都市緑化かわさきフェア」と開催時期を合わせ、11月2日(土)～4日(月・祝)において、100周年をきっかけに未来を考えるトーク...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「カワサキ プラザ浜松」が2024年8月23日(金)にリニューアルオープン！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000644.000028066.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000644.000028066.html"/>
+        <updated>2024-08-26T08:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社カワサキモータースジャパン]
+[画像1: https://prcdn.freetls.fastly.net/release_image/28066/644/28066-644-5a2c1626185bfbe71804502f1bd92cd8-3000x2259.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新ゴルフブランドminuere（ミヌエール）好評により新宿高島屋にて2回目のポップアップストア開催中！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000007.000125110.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000007.000125110.html"/>
+        <updated>2024-08-26T08:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社MINUERE]
+[画像1: https://prcdn.freetls.fastly.net/release_image/125110/7/125110-7-0f994e319cca0f65fd2c6231be9e8670-2000x2000.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ご取材のお願い】大阪商工会議所が未来医療推進機構と協定締結。関西にライフサイエンス分野のグローバル・ハブが誕生]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000051.000058626.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000051.000058626.html"/>
+        <updated>2024-08-26T08:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[大阪商工会議所]
+[画像1: https://prcdn.freetls.fastly.net/release_image/58626/51/58626-51-ad1acb9e558b4728bed64e3fbbf6fe13-3344x1856.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第1回 Tech Direction Awards 受賞作品発表！プロダクト、R&D/プロトタイプ、エクスペリエンス、Webサイト/アプリ、サービスなど６部門で優秀なテクニカルディレクション作品を表彰]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000005.000070351.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000005.000070351.html"/>
+        <updated>2024-08-26T08:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[一般社団法人テクニカルディレクターズアソシエーション]
+[画像1: https://prcdn.freetls.fastly.net/release_image/70351/5/70351-5-7749cd181fdee718e981923d8dda59ea-1500x1000.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北九州市主催 IT学び直しプロジェクト【でじまる】求職者は受講料無料！好評申込受付中]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000071.000076777.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000071.000076777.html"/>
+        <updated>2024-08-26T08:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[福岡県北九州市（北九州市役所）]
+[画像1: https://prcdn.freetls.fastly.net/release_image/76777/71/76777-71-d2ae8c263ed84303efa371a3b00dab12-2864x1550.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太陽光パネルガラスのアップリサイクル]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000032.000082695.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000032.000082695.html"/>
+        <updated>2024-08-26T08:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[浜田]
+ はじめに
+「環境ソリューション企業のファーストコールカンパニー」を目指す株式会社浜田（本社：大阪府高槻市真上町2丁目2番30号　代表取締役 濱田  篤介、以下、浜田）はこの度、コクヨ株式会社（代表執行役社...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[訪日ラボ トレンドLIVE!　Vol.4～見逃せないインバウンドの最新情報をお届け～]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000633.000024246.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000633.000024246.html"/>
+        <updated>2024-08-26T08:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社mov]
+[画像1: https://prcdn.freetls.fastly.net/release_image/24246/633/24246-633-044dd26733ceb63babe5e7eb631c089f-1000x650.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高速オフセット、LIMEXでの印刷を検討される企業向けにLIMEX Sheetの無料郵送サービスを開始。防災対策リーフレットや冊子にも]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000114.000090597.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000114.000090597.html"/>
+        <updated>2024-08-26T08:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社　高速オフセット]
+[画像1: https://prcdn.freetls.fastly.net/release_image/90597/114/90597-114-f1f944c7b2f6a45022fe4ef67544872d-1200x800.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【NPO法人都民シルバーサポートセンター】プライバシーマーク（Pマーク）が更新認定のお知らせ]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000020.000115790.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000020.000115790.html"/>
+        <updated>2024-08-26T08:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[都民シルバーサポートセンター]
+お一人さま高齢者を中心に相談支援を行っているNPO法人都民シルバーサポートセンターは、この度、一般財団法人日本情報経済社会推進協会（JIPDEC）より 「プライバシーマーク(Pマーク)」の更新認定を受ける事が出...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【東京メトロ初！】大手町駅でプロテインシェイクを期間限定販売]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000060.000086328.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000060.000086328.html"/>
+        <updated>2024-08-26T08:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社スリーピース]
+[画像1: https://prcdn.freetls.fastly.net/release_image/86328/60/86328-60-20a8a595e355956c93f824bbf79065e1-1200x680.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「スマスロ交響詩篇エウレカセブン4 HI-EVOLUTION」がぱちんこ・パチスロオンラインゲーム「777TOWN.net」に登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001713.000002703.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001713.000002703.html"/>
+        <updated>2024-08-26T08:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社サミーネットワークス]
+[画像1: https://prtimes.jp/i/2703/1713/resize/d2703-1713-1b54d5e9772fd10f9eab-0.jpg ]
+
+
+■波が変わる。時代が始まる。
+　「スマスロ交響詩篇エウレカセブン4 HI-EVOLUTION」が777TOWN.netに登場！
+
+　らしく...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本カーシェアリング協会に車両10台を寄贈]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000026.000010789.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000026.000010789.html"/>
+        <updated>2024-08-26T08:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[オートバックスセブン]
+[画像1: https://prcdn.freetls.fastly.net/release_image/10789/26/10789-26-26e7e09baf1c8b4bdd8984ef21c8d600-1267x468.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｓｕｉｃａのペンギン　ホットサンドメーカーを発売します！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000057.000109432.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000057.000109432.html"/>
+        <updated>2024-08-26T08:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社JR東日本商事]
+１． 新商品の販売について
+[画像1: https://prtimes.jp/i/109432/57/resize/d109432-57-80b559a41cddff769531-0.jpg ]
+
+
+可愛らしいＳｕｉｃａのペンギンの焼き目が簡単に作れる
+ホットサンドメーカーは、表と裏...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トラッキングシステム「KINEXON」の導入のお知らせ]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000203.000045254.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000203.000045254.html"/>
+        <updated>2024-08-26T07:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[大阪エヴェッサ]
+[画像1: https://prcdn.freetls.fastly.net/release_image/45254/203/45254-203-c037788e42a5912e4a5c433bd3a665cb-2048x2048.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「《よこしん》脱炭素応援ローン」の取扱開始について]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000072.000031872.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000072.000031872.html"/>
+        <updated>2024-08-26T07:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[横浜信用金庫]
+横浜信用金庫（横浜市中区 理事長　春日　隆）では、脱炭素化へ取り組む地元企業を支援することを目的に、日本政策金融公庫（以下「日本公庫」といいます）と提携し、ＣＬＯ（ローン担保証券）スキームを活用した...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【25卒学生登壇】覆面座談会！『企業のこんなところを改善してほしい』就活生の本音　というテーマのセミナーを行います]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000031.000079917.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000031.000079917.html"/>
+        <updated>2024-08-26T07:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社リアライブ]
+[画像1: https://prcdn.freetls.fastly.net/release_image/79917/31/79917-31-2edb07b713f36ea108b39ded854a77f6-1200x628.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【auスマートパスプレミアム会員限定】映画『八犬伝』がいつでも1,100円！さらにau試写会に【4,500組9,000名さま】をご招待！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001088.000034485.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001088.000034485.html"/>
+        <updated>2024-08-26T07:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[KDDI株式会社]
+auスマートパスプレミアムは、日々のお買い物や、映画などのエンタメにお使いいただけるおトクなクーポンをはじめ、楽しく過ごすデジタルコンテンツや、スマホのピンチを解決する、安心を提供するサービスです。
+...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EV・家庭用蓄電池等を最適に組み合わせて再エネの調整力に]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000045.000070390.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000045.000070390.html"/>
+        <updated>2024-08-26T07:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社エナリス]
+[画像: https://prcdn.freetls.fastly.net/release_image/70390/45/70390-45-21bf63b0eaa50652848707ac6ea20572-3900x781.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サービス業の労働市場変革を目指す新サービス　サービススキルマネジメントシステム「ABILI Career」をリリース]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000192.000011390.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000192.000011390.html"/>
+        <updated>2024-08-26T07:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[ClipLine株式会社]
+[画像1: https://prtimes.jp/i/11390/192/resize/d11390-192-ee082ef06fe0cec2dbaf-0.png ]
+
+現場におけるスキルチェックの実態
+
+
+日本におけるGDPの約7割はサービス産業が占めており、多くの現場では非正規社員...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪・関西万博会期の2025年4月から10月に大阪一帯でStudy：大阪関西国際芸術祭を開催　大阪の代表的な建造物、天保山・中之島・西成・船場・JR大阪駅エリアで芸術を体感する]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000048.000028825.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000048.000028825.html"/>
+        <updated>2024-08-26T07:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社アートローグ]
+[画像1: https://prcdn.freetls.fastly.net/release_image/28825/48/28825-48-4a40c13cf2288777e54e2be3c923cbcf-1480x1110.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[～資生堂ギャラリー展覧会関連企画～　Special Live　静寂を叩くー波紋音(はもん)のしらべ]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002702.000005794.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002702.000005794.html"/>
+        <updated>2024-08-26T07:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社資生堂]
+　8月27日（火）より資生堂ギャラリー（東京都中央区銀座）で開催する「空想の宙(そら) 『静寂を叩く』 大乗寺十三室｜十文字美信」展の関連企画として、「波紋音」によるSpecial Live「静寂を叩くー波紋音(はも...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ホーム開幕節10/12(土)・13(日)秋田ノーザンハピネッツ戦】協賛試合開催のお知らせ]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000164.000035880.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000164.000035880.html"/>
+        <updated>2024-08-26T07:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[サンロッカーズ渋谷]
+[画像1: https://prcdn.freetls.fastly.net/release_image/35880/164/35880-164-5a893dd6f4cf96d986076c29542060e5-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クオリカの「TastyQube Growth」、「Real Qube」がモバイルオーダーサービス「ぐるなびFineOrder」と連携開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001617.000011650.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001617.000011650.html"/>
+        <updated>2024-08-26T07:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[TISインテックグループ]
+TISインテックグループのクオリカ株式会社（本社：東京都新宿区、代表取締役社長：阿久津　晃昭、以下：クオリカ）が提供する外食業向けトータルソリューション「TastyQube Growth」、外食業向け店舗POSシステム...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新刊書籍】『業務効率がぐんぐん上がる！ケアマネジャーのためのＩＣＴ活用ＢＯＯＫ～利用者に寄り添う時間を手に入れよう～』発刊！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000722.000059164.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000722.000059164.html"/>
+        <updated>2024-08-26T07:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[第一法規株式会社]
+法律関連出版物、各種データベースを提供する第一法規株式会社（所在地：東京都港区、代表取締役社長：田中 英弥）は『業務効率がぐんぐん上がる！ケアマネジャーのためのＩＣＴ活用ＢＯＯＫ～利用者に寄り添う時...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジェイテクト、IMTS2024に出展]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000434.000028729.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000434.000028729.html"/>
+        <updated>2024-08-26T07:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社 ジェイテクト]
+[画像1: https://prcdn.freetls.fastly.net/release_image/28729/434/28729-434-82c566f02f38ada8de9f23c32f6cb473-1386x785.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もしもの時に備える、5年間保存可能な缶入りポテトチップス「KOIKEYA LONG LIFE SNACK（6缶セット）」 湖池屋オンラインショップでの再販売を開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001424.000003039.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001424.000003039.html"/>
+        <updated>2024-08-26T07:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[湖池屋]
+株式会社湖池屋（社長：佐藤章）は、できたての美味しさをそのまま閉じ込めた、製造から5年保存可能なポテトチップス「KOIKEYA LONG LIFE SNACK（6缶セット）」を、2024年8月26日（月）12:00より、湖池屋オンライ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北九州のソウルフード「資さんうどん」は、自社通販サイト「資さんストア」にて、「仕送り定期便」のご提供を開始致しました！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000220.000037031.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000220.000037031.html"/>
+        <updated>2024-08-26T06:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社資さん]
+北九州で約40年に渡り愛される資さんうどんを展開する、株式会社資さん（本社：福岡県北九州市、代表取締役社長：佐藤 崇史）は、「資さんストア」にて「仕送り定期便」のご提供を開始致しました！
+
+[画像1: http...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デジタルアニメーションスタジオ『100studio』が韓国・ソウルに100studio Seoulを新設。国内外のアニメクリエイターが共創する環境づくりを加速]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000525.000051825.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000525.000051825.html"/>
+        <updated>2024-08-26T06:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社HIKE]
+[画像1: https://prcdn.freetls.fastly.net/release_image/51825/525/51825-525-1729d82a11428aedd0d4f4493a1cfa79-1200x630.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホテルニューオータニ開業６０周年を記念したカプセルトイ「ホテルニューオータニ　パティスリーＳＡＴＳＵＫＩスイーツコレクション」発売]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000009.000094357.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000009.000094357.html"/>
+        <updated>2024-08-26T06:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ターリン・インターナショナル]
+株式会社ターリン・インターナショナル(本社：東京都墨田区、代表取締役社長：佐藤直志)は、株式会社ニュー・オータニ (本社：東京都千代田区、代表取締役社長 大谷和彦)と開業６０周年を記念したコラボレーショ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[８月開催「AI博覧会 Summer 2024」に株式会社Pictoriaが出展!!]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000155.000046857.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000155.000046857.html"/>
+        <updated>2024-08-26T06:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社Pictoria]
+[画像1: https://prcdn.freetls.fastly.net/release_image/46857/155/46857-155-ce3eb1e5408e830fc612c28fce9ce9fb-454x234.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[育休明けの酒寄希望が渾身の書き下ろし！泣いて笑って癒されるぼる塾の友情エッセイ、シリーズ最新刊『酒寄さんのぼる塾晴天！』9月12日(木) 発売]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000003390.000029501.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000003390.000029501.html"/>
+        <updated>2024-08-26T06:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[吉本興業株式会社]
+　ぼる塾結成当初から育休に入り、3人のブレイクを陰ながらサポートしてきたもう一人のメンバー、酒寄希望の著書『酒寄さんのぼる塾晴天！』が9月12日に全国書店・ネット書店で発売されることとなりました。
+　自...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紀伊國屋書店 厚別店で「SWIMMER」のPOP UP SHOPを開催中！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000088.000134693.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000088.000134693.html"/>
+        <updated>2024-08-26T06:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[アイピーフォー株式会社]
+アイピーフォー株式会社（本社：東京都豊島区、代表取締役社長：小濱 剛）がライセンスを取り扱っている大人気雑貨ブランド「SWIMMER」は、POP UP SHOPを紀伊國屋書店 厚別店(北海道)で開催中です。
+この機会にぜ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近藤真彦(KONDO Racing監督プロデュース) 【第12回 イイコトチャレンジ in 日産スタジアムを開催！】]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000019.000010631.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000019.000010631.html"/>
+        <updated>2024-08-26T06:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[グローブ・スポーツコミュニケーションズ]
+[画像1: https://prcdn.freetls.fastly.net/release_image/10631/19/10631-19-5dbf20ecaa1bed3a0e11f8af05916139-902x602.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もちもち食感とチョコの組み合わせで人気のもちシリーズ！今年は、「きなこもち〈袋〉」と「ちょこもち〈袋〉」を同時発売♪]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000683.000003467.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000683.000003467.html"/>
+        <updated>2024-08-26T05:45:03.000Z</updated>
+        <summary type="html"><![CDATA[[チロルチョコ株式会社]
+チロルチョコ株式会社（東京都千代田区、代表取締役社長・松尾裕二）は、きなこの香ばしさともちもち食感が大人気の「きなこもち〈袋〉」と、同“もちシリーズ”のとろ～りチョコソースの入った「ちょこもち〈袋〉...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新作モバイル向けカジュアルゲーム『パンドランド』『初音ミク「マジカルミライ 2024」』コラボイベントを8月30日より開催！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000424.000005880.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000424.000005880.html"/>
+        <updated>2024-08-26T05:45:03.000Z</updated>
+        <summary type="html"><![CDATA[[ワンダープラネット株式会社]
+　『ポケットモンスター』シリーズ開発の株式会社ゲームフリーク（東京都千代田区、代表取締役 田尻智）と『ジャンプチ ヒーローズ』開発のワンダープラネット株式会社（本社：愛知県名古屋市、代表取締役社長CEO...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEET YOUR ARTがルミネとコラボレーションしプロデュースする、アートスペース「WALL_shinjuku」がルミネ新宿 ルミネ2-2F に誕生。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000109.000065348.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000109.000065348.html"/>
+        <updated>2024-08-26T05:45:03.000Z</updated>
+        <summary type="html"><![CDATA[[エイベックス・クリエイター・エージェンシー株式会社]
+エイベックス・クリエイター・エージェンシー株式会社（本社：東京都港区、代表取締役社長：加藤信介、以下：ACA）が企画・運営するアートプロジェクト「MEET YOUR ART/WALL_alternative」は、株式会社ルミネ（本...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コースタルリンク株式会社、住友商事株式会社、広島大学、広島商船高等専門学校による四者連携協定締結のお知らせ]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000011.000084845.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000011.000084845.html"/>
+        <updated>2024-08-26T05:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[コースタルリンク株式会社]
+　コースタルリンク株式会社（代表取締役　瀧本朋樹、福岡市）は、住友商事株式会社（代表取締役　上野 真吾、千代田区）、国立大学法人 広島大学（学長　越智光夫、東広島市）、独立行政法人国立高等専門学校機...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[子ども自らが育つ権利に基づく「こどもまんなか」社会の実現を ～9/14（土）「地域子育ちフォーラム2024」を開催します（オンライン有・参加無料）]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000036.000074386.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000036.000074386.html"/>
+        <updated>2024-08-26T05:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[ワーカーズコープ]
+[画像1: https://prcdn.freetls.fastly.net/release_image/74386/36/74386-36-cf564a768a06768ccb8a6b98c1e34e9b-1241x785.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「権利擁護サポーター養成講座」受講生募集]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000151.000077508.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000151.000077508.html"/>
+        <updated>2024-08-26T05:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[社会福祉法人　聖隷福祉事業団]
+[画像: https://prcdn.freetls.fastly.net/release_image/77508/151/77508-151-323082b13b54ff8fdcc6d1fbe01f6a20-3900x2759.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秋田犬パッケージの犬用ラーメンがマルイオンラインで発売中！ 秋田犬で地方創生に取り組む・メタ秋田、喜多方ラーメンの老舗・河京、紙パッケージのプロ・岩㟢紙器が共同で制作]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000015.000109304.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000015.000109304.html"/>
+        <updated>2024-08-26T05:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社Meta Akita]
+(*English translation is at the later part)
+
+秋田犬x先端技術で地方創生に取り組む株式会社メタ秋田（公益社団法人秋田犬保存会の公認スピンオフ企業）は、福島県の喜多方ラーメン製造の老舗・株式会社河京、...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ダフりたくてもダフれない。Lynx リンクス BOMBA MAX 中空ワイドソール ウェッジ 新発売]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000014.000084452.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000014.000084452.html"/>
+        <updated>2024-08-26T05:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社　リンクス]
+[画像1: https://prcdn.freetls.fastly.net/release_image/84452/14/84452-14-a4d702f4d76e4bb6c1206381be9a8c34-710x710.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梅酒カクテル専門店「The CHOYA（ザ チョーヤ）銀座BAR」秋が旬のフルーツを使ったハロウィン発想の梅酒カクテル付き「秋の梅づくしアフタヌーンティー&ハイティー」プラン登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000160.000045487.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000160.000045487.html"/>
+        <updated>2024-08-26T05:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[チョーヤ梅酒株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/45487/160/45487-160-0a7882dd75b92bed9c8bea6e8e3b4828-3900x2354.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オンラインセミナー「Data Marketing days　あの先進企業は自社データをどう活用しているのか―」を10月2日(水)・3日(木)に開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000020.000140732.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000020.000140732.html"/>
+        <updated>2024-08-26T05:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社Hakuhodo DY ONE]
+[画像: https://prtimes.jp/i/140732/20/resize/d140732-20-84f2e61cdd2522ab636d-0.jpg ]
+
+従来のApple iOS/Safariの規制に加え、Google Chromeにプライバシー保護を強化した新たな技術導入の方針が発表されるな...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セブン＆アイ・ホールディングス×ファンケル　共同開発「セブンプレミアム　ライフスタイル　ボタニカル フォース」から「シナモロール」とコラボした限定デザインを数量限定で発売]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001242.000017666.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001242.000017666.html"/>
+        <updated>2024-08-26T05:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ファンケル]
+[画像1: https://prtimes.jp/i/17666/1242/resize/d17666-1242-4dd9d5748b8eb6844de7-0.jpg ]
+
+「セブンプレミアム ライフスタイル ボタニカル フォース」は、セブン＆アイグループ限定商品として 2014 年から展...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FromプラネットVol.２２３＜スキンケアに関する意識調査＞]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000176.000030978.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000176.000030978.html"/>
+        <updated>2024-08-26T05:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[プラネット]
+
+[画像1: https://prtimes.jp/i/30978/176/resize/d30978-176-552506-pixta_77480122-0.jpg ]
+
+　国内１，５００社超が利用する日用品流通の情報基盤を運営する株式会社プラネット （所在地：東京都港区...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[業界初！式場の費用データをオープンに。ユーザーの8割がオススメする新サービス「mieruu（ミエルー）」β版を全国20会場で運用開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000390.000019494.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000390.000019494.html"/>
+        <updated>2024-08-26T04:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ウエディングパーク]
+[画像1: https://prcdn.freetls.fastly.net/release_image/19494/390/19494-390-c3f8a69a628fe40bc977f45ca68aee03-3841x2561.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[累計販売数1億個(※)突破の「ペタグー」シリーズから爽やかな味わいの「ペタグー ソーダ」が登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000013.000136968.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000013.000136968.html"/>
+        <updated>2024-08-26T04:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[ノーベル製菓 株式会社]
+　ノーベル製菓株式会社（本社：大阪市生野区、代表取締役社長　馬場 敏明、以下ノーベル製菓）は、2024年9月9日（月）より、「ペタグー ソーダ」を新発売します。　
+[画像1: https://prcdn.freetls.fastly.net/r...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨年の初開催に続き今年も北陸にやってくる文具の祭典「文具女子博pop-up in金沢2024」にシヤチハタが出店決定！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000336.000005556.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000336.000005556.html"/>
+        <updated>2024-08-26T04:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[シヤチハタ株式会社]
+　ユーザーファーストを追求し次の100年も「しるしの価値」を提供し続けるシヤチハタ株式会社※（代表取締役社長 舟橋正剛 本社：愛知県名古屋市）は、この度、2024年8月29日（木）～9月2日（月）の5日間、香林坊...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【オンライン開催】セミナー｜ローコストでネット炎上リスクから自社を守る！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000423.000006600.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000423.000006600.html"/>
+        <updated>2024-08-26T04:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[NTTコム オンライン]
+[画像1: https://prcdn.freetls.fastly.net/release_image/6600/423/6600-423-794b5bff7aefd3041b8d22108ae0b7fd-750x392.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「全国物産展 JAPAN SELECT 推しうまーけっと2024」が令和6年9月13日（金）～16日（月）にKITTE丸の内にて開催！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000106.000056254.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000106.000056254.html"/>
+        <updated>2024-08-26T04:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[TSP太陽株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/56254/106/56254-106-0251a9f0f19f239e842fd61f514a9852-2918x1043.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ベルサイユのばら × 日比谷しまね館』　8月31日（土）より開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000804.000036130.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000804.000036130.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[島根県]
+[画像1: https://prcdn.freetls.fastly.net/release_image/36130/804/36130-804-2051a75fa871ffd3e76530db9f20ba58-640x481.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ふるなび】米不足で注目される ”お米” への返礼品動向を調査！日本一のお米生産量を誇る新潟県では、寄附件数が前年同月比で2倍以上に!?令和6年度産の新米も受付開始。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001059.000007821.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001059.000007821.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社アイモバイル]
+株式会社アイモバイル（本社：東京都渋谷区、代表取締役社長：野口哲也、東証プライム市場）が運営するふるさと納税サイト「ふるなび」（ https://furunavi.jp/(https://furunavi.jp/) ）は、お米の流通量減少に...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年7月池袋、8月吉祥寺に続き、東京都内に3ヶ月連続出店　『かっぱ寿司 アトレ亀戸店』2024年9月12日（木）オープン]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000737.000018731.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000737.000018731.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[カッパ・クリエイト株式会社]
+　コロワイドグループのかっぱ寿司（カッパ・クリエイト(株) 本社：神奈川県横浜市、代表取締役社長：山角豪）は、2024年9月12日（木）に「かっぱ寿司 アトレ亀戸店」をオープンいたします。
+　亀戸は、錦糸町と...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MY FIRST STORYとHYDEの夢のコラボが実現！JOYSOUNDで「夢幻 / 永久 -トコシエ-」を歌って、オリジナルプリントアクリルコースターをGETしよう！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002442.000004747.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002442.000004747.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社エクシング]
+[画像: https://prtimes.jp/i/4747/2442/resize/d4747-2442-b9a568b9a907c04fc832-0.png ]
+
+本キャンペーンに参加するには、最新機種「JOYSOUND X1」をはじめとした対象機種を導入のカラオケ店舗で、「うたスキ」...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【財布に忍ぶ、極薄1.6mm／デキるビジネスマンの新常識】予備の名刺を守る「極薄チタン名刺入れ AIRNIUM（エアニウム）」をMakuakeにて発表。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000046.000033994.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000046.000033994.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ドローム]
+[画像1: https://prcdn.freetls.fastly.net/release_image/33994/46/33994-46-090984daa6651add2f57bc0638d29625-1600x900.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブライダルフォトスタジオaim東京原宿店から初のオリジナル和装が登場。エレガントかつモダンな1着を提案。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000719.000041720.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000719.000041720.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[有限会社三景スタジオ]
+[画像1: https://prcdn.freetls.fastly.net/release_image/41720/719/41720-719-2782c10f6295c9d93ab1092c560a5456-854x1280.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【株式会社DYM】 ベトナムのDYMメディカルセンター、ホーチミン1区院拡張のお知らせ]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000335.000027235.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000335.000027235.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社DYM]
+[画像1: https://prcdn.freetls.fastly.net/release_image/27235/335/27235-335-4abbce4b0daccb3864762f004d119239-1250x791.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクールバスの乗降を通知する「のりおり便り」の実証実験を開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000003.000147294.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000003.000147294.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社GAHOJIN]
+株式会社GAHOJIN（本社：神奈川県横浜市、代表取締役社長：中川 進、以下 ガホウジン）は、長野県小諸市およびJRバス関東 小諸支店の協力を得て、スクールバスにおける児童の乗車/降車を保護者にLINEのメッセージ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【埼玉県】BCP（事業継続計画）セミナー -企業と従業員を守るための事前の備え- の参加者募集！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000428.000104306.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000428.000104306.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[埼玉県]
+[画像: https://prcdn.freetls.fastly.net/release_image/104306/428/104306-428-39e237633c6e9f21a93efcb017474287-1177x669.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【参加受付中】― 会計事務所様・企業様向け ―　ミロク情報サービス オンラインセミナーのご案内]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000381.000018493.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000381.000018493.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ミロク情報サービス]
+　財務・会計システムおよび経営情報サービスを開発・販売する株式会社ミロク情報サービス（本社：東京都新宿区、代表取締役社長：是枝周樹、以下「MJS」）は毎月、財務や経営の専門家による、経理や財務の実務研...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[見て・使って、笑顔あふれる洗顔タイムをSENKAと一緒に 「BT21」キャラクターたちがSENKAにスペシャルデザインで登場！9月6日(金)　全国で順次発売スタート]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000126.000081704.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000126.000081704.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ファイントゥデイ]
+　株式会社ファイントゥデイ（本社：東京都港区、代表取締役社長 兼CEO 小森哲郎）が展開する、2年連続クリーム洗顔No.1のスキンケアブランド「SENKA」は、LINE FRIENDSの大人気キャラクターとして世界中で愛され...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【すき家】月が出た。丼の上に。たまごを月に見立てた季節商品「月見すきやき牛丼」を今年も販売　“すき焼き”の贅沢な味わいをご堪能あれ！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000476.000097263.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000476.000097263.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ゼンショーホールディングス]
+[画像1: https://prcdn.freetls.fastly.net/release_image/97263/476/97263-476-f1b9af2f1064f659d67cff22aab75a46-852x1200.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アトレ大井町】「#アトレ大井町が茨城を推す1ヶ月！」開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000231.000070988.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000231.000070988.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社アトレ]
+[画像1: https://prcdn.freetls.fastly.net/release_image/70988/231/70988-231-27ce69127627e13e5fb700c088ad8b0a-2268x1332.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ロフト】回収ブランド拡大や回収プラスチックの備品製品化など「容器回収リサイクルプログラム第5弾」始動]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001455.000018324.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001455.000018324.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ロフト]
+株式会社ロフト(本社:東京都渋谷区、代表取締役社長 安藤公基)は、「LOFT GREEN PROJECT “雑貨のチカラで、暮らしと地球をしあわせに。”」のスローガンのもと、「ロフト グリーンプロジェクト リサイクルプログラ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日中の温活におすすめのあったか着圧タイツ、好評を受け再登場！あたたかいのに、着膨れせずスッキリ“細見せ”「スリムウォーク(R) 美脚あったかタイツ なめらかタッチ」]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000390.000034803.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000390.000034803.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[ピップ株式会社]
+　ピップ株式会社（本社：大阪市中央区、代表取締役社長：松浦由治）の着圧レッグウェアブランド「スリムウォーク」は、「スリムウォーク 美脚あったかタイツ なめらかタッチ」のパッケージをリニューアルして、2...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『しゃぶ禅』が「鹿児島黒牛リブロース食べ放題」を9月1日（日）～11月30日（土）まで特別価格で提供]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000010.000125063.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000010.000125063.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[しゃぶ禅株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/125063/10/125063-10-b5c859f82df103e7e41dccf9ef58a2d2-2386x835.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白石麻衣イメージモデルカラコン『feliamo（フェリアモ）』から新色発売決定！“どんな盛れも叶う”よくばりフチレンズ2色が新登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000180.000059752.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000180.000059752.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[PIA株式会社]
+PIA株式会社（本社：東京都品川区　代表取締役：見原 博道）は、カラーコンタクトレンズブランド『feliamo（フェリアモ）』より、2024年８月29日（木）に新色2色を発売いたします。
+発売に先立ち、本日2024年8月2...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ＮＸグループ、屋内型ドローン自律飛行システム開発を行うSpiral社に出資]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000027.000136897.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000027.000136897.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[NIPPON EXPRESSホールディングス株式会社]
+　NIPPON EXPRESSホールディングス株式会社（社長：堀切智）は、ＮＸグローバルイノベーション投資事業有限責任組合の案件として、非SLAM（*1）でドローンの屋内での自律航行を可能にする制御システム提供を行う...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界で200万ユーザーにご利用いただいている企業向けLMS「SmartSkill Campus」、新たに”ミャンマー語”と“クメール語”を追加し18言語を標準装備]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000060.000093972.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000060.000093972.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社レビックグローバル]
+[画像: https://prcdn.freetls.fastly.net/release_image/93972/60/93972-60-b41c75fccf1bea7ed6e330e7f063e85c-1784x715.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秋の気配は花から！第一園芸の9月のレコメンドフラワー「ケイトウ」と敬老の日に贈る「ブーケとプリザーブドフラワー」]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000266.000028146.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000266.000028146.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[第一園芸株式会社]
+[画像1: https://prtimes.jp/i/28146/266/resize/d28146-266-072e9d1a57dcd90ea1ad-0.jpg ]
+
+[画像2: https://prtimes.jp/i/28146/266/resize/d28146-266-e2129a2ffc5421f1fc4c-0.jpg ]
+
+
+
+
+
+
+
+
+
+
+
+
+ブーム到来の...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厚生労働省へ来訪される聴覚障がい者向けコミュニケーション支援の取り組みとして「VUEVO」が掲載されました]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000193.000044679.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000193.000044679.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[ピクシーダストテクノロジーズ株式会社]
+[画像: https://prcdn.freetls.fastly.net/release_image/44679/193/44679-193-2f8ec9e93d8018c540f511bec298a025-3900x2194.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国無料サッカー教室＜ジョガスポ＞が、小児科・アレルギークリニックで子供たち向け職業体験を開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000347.000042551.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000347.000042551.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[daiya co.,ltd]
+[画像1: https://prcdn.freetls.fastly.net/release_image/42551/347/42551-347-ed700fe772ddee5fca4f995810f5ec91-1566x1044.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ホテル日航大阪】ランチ＆ディナーブッフェ『秋の味覚便り』 カフェレストラン「セリーナ」にて9月1日（日）より開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000003552.000002213.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000003552.000002213.html"/>
+        <updated>2024-08-26T04:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[ニッコー・ホテルズ・インターナショナル]
+大阪 心斎橋のホテル日航大阪（大阪市中央区西心斎橋1-3-3、代表取締役社長・総支配人：呉服 弘晶）は、2024年9月1日（日）から11月30日（土）までの期間、カフェレストラン「セリーナ」（2階、席数：148席、料理...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秋の贅沢をお届け！本格派ティーストア「THE ALLEY」より『葡萄のティーグルト』『葡萄のティーソーダ』を9/2（月）より販売スタート！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001854.000024488.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001854.000024488.html"/>
+        <updated>2024-08-26T03:45:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ポトマック]
+[画像1: https://prtimes.jp/i/24488/1854/resize/d24488-1854-9d7a11fadf7a7fa466b7-0.jpg ]
+
+THE ALLEYは、この秋、贅沢な味わいをお届けする「葡萄のティーグルト」「葡萄のティーソーダ」の2種類のドリンクを...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoofyのSalesforce伴走型支援によって月間40%の工数削減に成功！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000023.000107047.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000023.000107047.html"/>
+        <updated>2024-08-26T03:45:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社Goofy]
+SFA/CRMの導入、運用定着を伴走型で支援するサービス「SFA Hands-on」を提供する株式会社Goofy（グーフィー）は、本サービスのユーザーである株式会社CCG ENTERTAINMENT様の導入事例を公開しました。
+顧客情報の...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Neatframe株式会社】北海道銀行のNeatのビデオ会議デバイス採用・導入を発表]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000018.000092823.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000018.000092823.html"/>
+        <updated>2024-08-26T03:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[Neatframe株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/92823/18/92823-18-251677ef755a98ddc55a269aa34b535a-567x319.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年　全国カーライフ実態調査～車の平均維持費、4年連続で増加。「ガソリン代・燃料代」の節約方法は？ ほか（第1弾）]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000352.000001545.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000352.000001545.html"/>
+        <updated>2024-08-26T03:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[ソニー損害保険株式会社]
+ソニー損害保険株式会社（代表取締役社長：坪田 博行、本社：東京都大田区、以下「ソニー損保」）は、2024年7月12日～7月16日の5日間、自家用車を所有し、月に1回以上車を運転する18歳～59歳の男女に対し、「全国...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メルカリ、蒲郡市・蒲郡商工会議所・蒲郡市観光協会と連携し、空き時間おしごとサービス「メルカリ ハロ」を活用した地域活性化の連携事業を開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000361.000026386.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000361.000026386.html"/>
+        <updated>2024-08-26T03:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社メルカリ]
+[画像: https://prcdn.freetls.fastly.net/release_image/26386/361/26386-361-2c9f27bff45a880842e374a4ada3e1e3-2400x1260.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平和のためできることを考える　オンライン配信9月22日（日）23日（月）]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000574.000006976.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000574.000006976.html"/>
+        <updated>2024-08-26T03:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[パルシステム連合会]
+パルシステム連合会（本部:新宿区大久保、理事長:大信政一）と一般社団法人核兵器をなくす日本キャンペーン（本部:豊島区東池袋、田中煕巳代表理事）は9月22日（日）、23日（月・祝）の両日10時から12時まで、核...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テリロジー、OTシステムのダウンタイムを最小限に抑えるリカバリーソリューションイスラエルSalvador Technologies社製品の販売開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000075.000017278.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000075.000017278.html"/>
+        <updated>2024-08-26T03:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社テリロジー]
+[画像1: https://prcdn.freetls.fastly.net/release_image/17278/75/17278-75-9de367de4f9924c616ce6d87aceee4c7-1076x962.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「バンコク日本博」に「グッドグラス」が初登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000192.000036261.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000192.000036261.html"/>
+        <updated>2024-08-26T03:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社アイワ工業]
+[画像1: https://prtimes.jp/i/36261/192/resize/d36261-192-3f178b6f07466d40524f-0.jpg ]
+
+展示会情報
+
+
+[画像2: https://prtimes.jp/i/36261/192/resize/d36261-192-c0b49d92a73411bbd2eb-1.jpg ]
+
+展示会名：...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神戸市水道局の減圧弁における維持管理業務をDX化し、水の安定供給を実現]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000137.000042324.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000137.000042324.html"/>
+        <updated>2024-08-26T03:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社日立システムズ]
+　株式会社日立システムズ（代表取締役 取締役社長：柴原 節男、本社：東京都品川区／以下、日立システムズ）は、神戸市水道局から受託した配水減圧弁＊1の水圧データ提供等業務において、「CYDEEN水インフラ監視...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【今年の月見もピザハット！】半熟風たまごとチーズのWとろ～りな月見ピザが業界初の「お月見影絵BOX」に入って数量・期間限定で登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000224.000031164.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000224.000031164.html"/>
+        <updated>2024-08-26T03:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[日本ピザハット株式会社]
+　【今年の月見もピザハット！】半熟風たまご（※）とチーズのWとろ～りな月見ピザが業界初の「お月見影絵BOX」に入って数量・期間限定で登場！
+～月見ピザ（Mサイズ）をご注文の方には、スマホの明かりで照らすと...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「障がい者を対象とした金融経済教育についての意識調査2024」実施について]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000127.000017221.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000127.000017221.html"/>
+        <updated>2024-08-26T03:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[SMBCコンシューマーファイナンス株式会社]
+　ＳＭＢＣコンシューマーファイナンス株式会社（本社：東京都江東区、代表取締役社長：高橋 照正 以下、当社）は、この度、株式会社ミライロ（本社：大阪府大阪市淀川区、代表取締役社長 垣内 俊哉）が提供する...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[約3万のエンタメブランド・データベースを無料公開、「メディア横断の接触量」と「推しファンの熱量」を可視化【GEM Partners】]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000209.000013190.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000209.000013190.html"/>
+        <updated>2024-08-26T03:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[GEM Partners]
+[画像1: https://prcdn.freetls.fastly.net/release_image/13190/209/13190-209-e2ce1ccbf3e479627eabb0c81e33b3ed-1500x807.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電子カルテ「MALL」シリーズがIT導入補助金2024の対象になりました]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000013.000076432.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000013.000076432.html"/>
+        <updated>2024-08-26T03:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社パシフィックメディカル]
+【ニュースレター】
+株式会社メドレーのグループ会社である株式会社パシフィックメディカル（本社：高知県宿毛市、代表取締役：小松 広行）は、経済産業省が推進する「サービス等生産性向上IT導入支援事業（以下...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZenPop、秋らしいブラウンで彩る「漫画」テーマの文房具ボックスを2024年9月1日（日）より海外販売開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000387.000023616.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000387.000023616.html"/>
+        <updated>2024-08-26T03:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[ZenGroup株式会社]
+[画像1: https://prtimes.jp/i/23616/387/resize/d23616-387-948307d9518ff6afe3a2-0.png ]
+
+ テーマ「漫画」について
+
+
+9月のボックスは、毎年10月に行われるアートチャレンジイベント「インクトーバー」にイン...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「やっぱり紙がいい」とは言われない！製造業DXを叶えるための解説ガイド、「製造業が直面する課題と品質・在庫・原価管理のために今できること」を無料公開！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000130.000074154.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000130.000074154.html"/>
+        <updated>2024-08-26T03:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社シムトップス]
+　国内シェアNo.1（※1）の現場帳票電子化ソリューション「i-Reporter」を提供する株式会社シムトップス（本社：東京都品川区、代表取締役：水野貴司）は、製造業、現場帳票のDX推進を目的にした解説ガイド「物価...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[artience、「こどもキャリアサミット」に協賛、子供たちの柔らかな感性から生まれた夢への挑戦を応援]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000141.000068461.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000141.000068461.html"/>
+        <updated>2024-08-26T03:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[artience株式会社]
+artience株式会社（代表取締役社長　高島　悟、東京都中央区）は、2024年8月7日から9日に開催された「こどもキャリアサミット2024」（主催：学生団体Stars）にメインスポンサーとして協賛しました。
+[画像1: http...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[札幌のブライダルフォトスタジオaimより期間限定プランがリリース]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000717.000041720.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000717.000041720.html"/>
+        <updated>2024-08-26T03:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[有限会社三景スタジオ]
+[画像1: https://prcdn.freetls.fastly.net/release_image/41720/717/41720-717-1a89e322cc264a981654edf1fb7d928d-727x488.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『地球の歩き方　横浜市』重版決定！　有隣堂 横浜駅西口ジョイナス店に高さ2.0mの巨大ガチャが登場し、限定グッズ3種類を発売中]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000006627.000002535.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000006627.000002535.html"/>
+        <updated>2024-08-26T03:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社　学研ホールディングス]
+株式会社 学研ホールディングス（東京・品川／代表取締役社長：宮原博昭）のグループ会社、株式会社 地球の歩き方（東京・品川／代表取締役社長：新井邦弘）は、『地球の歩き方　横浜市』（2024年8月1日発売）の...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手に入るのはニューオータニだけ！FEILER（フェイラー）とのコラボハンカチを販売]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002877.000014571.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002877.000014571.html"/>
+        <updated>2024-08-26T02:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ニュー・オータニ]
+[画像1: https://prtimes.jp/i/14571/2877/resize/d14571-2877-24168ad3d49a31e72560-7.jpg ]
+
+ホテルニューオータニ（東京）「パティスリーSATSUKI」
+『ホテルニューオータニ×FEILER　オリジナルハンカチ』
+http...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基幹業務システムInfiniOne、Microsoft Power BI によるログ分析サービスを提供開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000720.000004374.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000720.000004374.html"/>
+        <updated>2024-08-26T02:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[フューチャー株式会社]
+[画像: https://prtimes.jp/i/4374/720/resize/d4374-720-23e2c313138ebfb5cf53-0.png ]
+
+
+■ログ分析サービスのポイント
+1. 基幹業務システムの利用状況から、ユーザーの業務課題を可視化
+ユーザーは日々の業務を...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[株式会社PR Tableは、talentbook株式会社へ。社名変更およびオフィス移転のお知らせ]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000058.000059284.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000058.000059284.html"/>
+        <updated>2024-08-26T02:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[PR Table]
+[画像1: https://prcdn.freetls.fastly.net/release_image/59284/58/59284-58-51b829b3629baadfa075fb42b535cac1-1200x630.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tooon株式会社、F Venturesと連携し、パートナーシッププログラム「Kyushu Startup Gateway」を開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000031.000085768.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000031.000085768.html"/>
+        <updated>2024-08-26T02:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[Tooon株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/85768/31/85768-31-8b2a62186a4761b27a88ae6cba9c9138-2560x1340.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本おもちゃ大賞2024ノミネート！「Gakkenニューブロック　ローリングキュー スパイラルタワー 」東京おもちゃショー2024に出展いたします。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000428.000023227.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000428.000023227.html"/>
+        <updated>2024-08-26T02:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[日本出版販売株式会社]
+日本出版販売株式会社（東京・神田／代表取締役社長：奥村景二）のグループ会社、株式会社学研ステイフル（東京・千代田／代表取締役社長：野口瑞穂）が発売する『Gakkenニューブロック　ローリングキュー スパイ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RenoBodyウォーキングイベントサービスの賞品にデジタルギフト型のサービス『PCT LITE』を採用]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000130.000018672.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000130.000018672.html"/>
+        <updated>2024-08-26T02:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社Wellmira]
+健康経営サポートサービスの歩数計アプリ「RenoBody（リノボディ）」やAI健康アプリ「カロママ プラス」を提供するヘルステック企業の株式会社Wellmira（本社：東京都千代田区、代表取締役CEO：渡辺 敏成、以下 ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOZU株式会社、スパイラルキャピタルをリードインベスターとして3億円の資金調達を実施]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000003.000140328.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000003.000140328.html"/>
+        <updated>2024-08-26T02:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[MOZU株式会社]
+2024年8月26日、建築資材の調達プラットフォームを展開するMOZU株式会社（本社：東京都港区、代表取締役：野口 真平、竹内 達也）は、本日、スパイラルキャピタルをリードインベスターとして、総額3億円の資金調...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeeとSMBCグループのプラリタウンが「株式会社インクループ」を設立]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001600.000006428.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001600.000006428.html"/>
+        <updated>2024-08-26T02:40:03.000Z</updated>
+        <summary type="html"><![CDATA[[freee]
+[画像1: https://prcdn.freetls.fastly.net/release_image/6428/1600/6428-1600-c2ca44cdf452fc8581a37e3696f21672-1063x596.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNSで話題のヒップシート Hugooがさらにアップデート！肩への負担を劇的に軽減、そしてお子様の快適性をさらに追求したHugoo Ver3が新登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000029.000030202.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000029.000030202.html"/>
+        <updated>2024-08-26T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[GRIT INC]
+[画像1: https://prcdn.freetls.fastly.net/release_image/30202/29/30202-29-d89e2ef6d96e695c9d65487522d66d96-3000x2001.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【9/5(木)開催｜無料】「Instagramの最新トレンドから学ぶ！成果を出すアカウント戦略とコンテンツ戦術」にサムライトが登壇、縦型ショート動画の攻略ポイントを解説]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000211.000011519.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000211.000011519.html"/>
+        <updated>2024-08-26T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[サムライト株式会社]
+[画像: https://prcdn.freetls.fastly.net/release_image/11519/211/11519-211-11588123222019dea760c20bbe8584c4-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京都・嵐山で虫の音ガイドツアーを9/21に開催～秋の夕暮れに虫の音を楽しむ文化を体感～]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000006.000147689.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000006.000147689.html"/>
+        <updated>2024-08-26T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[（公財）日本生態系協会　グランドデザイン総合研究所]
+鳴く虫がつなぐ桂川流域生態系ネットワーク協議会は、2024年9月21日(土)に、京都・嵐山で「虫の音ガイドツアー」を開催します。このツアーは、京都・嵐山の魅力の一つである虫の音を楽しみ、より深く知っていただ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第1回ニューロダイバーシティアワード開催決定＆募集スタート！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000010.000126992.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000010.000126992.html"/>
+        <updated>2024-08-26T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[B Lab]
+B Lab (所長 石戸 奈々子) はニューロダイバーシティへの理解を促し、ひとりひとりがそれぞれの場所で各々の「ちから」を発揮できる社会の構築するために、第1回ニューロダイバーシティアワードを開催＆募集を開...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［京都精華大学］大学広報誌『木野通信 第82号』を発行しました]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000143.000011014.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000143.000011014.html"/>
+        <updated>2024-08-26T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[京都精華大学]
+[画像1: https://prcdn.freetls.fastly.net/release_image/11014/143/11014-143-2485a9656b974c4aeecf6e6ea84a75b7-600x450.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愛知県内２自治体が電子契約サービス「GMOサイン」を導入]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000004531.000000136.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000004531.000000136.html"/>
+        <updated>2024-08-26T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[GMOインターネットグループ]
+　GMOグローバルサイン・ホールディングス株式会社（代表取締役社長：⻘山 満 以下、GMOグローバルサイン・HD）は自社が開発運営する電子契約サービス「電子印鑑GMOサイン」（以下、GMOサイン）を、愛知県内の２...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBWA HAKUHODO、クリエイティビティとテクノロジーを融合した「MAD STARS 2024」にて「No Smiles」と「TRUE BLUE TEXTILE」で7つの賞を受賞]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000176.000034082.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000176.000034082.html"/>
+        <updated>2024-08-26T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社TBWA HAKUHODO]
+株式会社TBWA HAKUHODO（本社：東京都港区、代表取締役社長兼CEO：内田 渉、以下 TBWA HAKUHODO）は、毎年韓国・釜山で行われるクリエイティビティとテクノロジーを融合した国際広告祭「MAD STARS 2024（釜山国際...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[しまむらグループで、8月28日（水）より「d払い」「楽天カード」でお得なキャンペーンを開催！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000176.000066095.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000176.000066095.html"/>
+        <updated>2024-08-26T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社しまむら]
+株式会社しまむら（本社所在地：埼玉県さいたま市大宮区北袋町1-602-1、代表取締役：鈴木　誠）は、8月28日(水)より、しまむらグループにて「ｄ払い」「楽天カード」を利用されるお客様を対象としたお得なキャン...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナ明け、会社行事で貸切クルージングの需要が増加。乗船客が昨年比177％！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000046.000017302.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000046.000017302.html"/>
+        <updated>2024-08-26T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[スパイスサーブ]
+[画像1: https://prcdn.freetls.fastly.net/release_image/17302/46/17302-46-d5a3f4dd4119294b05e5fe4a512d4ed1-1920x1278.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アイデムフォトギャラリー[シリウス] 中村博彦 写真展「清里散歩　『窓が映す風景』」　期間：2024年8月29日(木）～9月4日（水）]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001462.000002663.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001462.000002663.html"/>
+        <updated>2024-08-26T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社アイデム]
+求人広告を企画・発行する株式会社アイデム（新宿区新宿　代表取締役：椛山亮）https://www.aidem.co.jp/が運営するフォトギャラリー[シリウス](https://www.aidem.co.jp/%E3%81%8C%E9%81%8B%E5%96%B6%E3%81%99%E...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“生物多様性 自治体向けサービス”の販売を開始]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000013.000106193.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000013.000106193.html"/>
+        <updated>2024-08-26T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社建設環境研究所]
+株式会社建設環境研究所（本社：東京都豊島区、代表取締役社長：浦川 雅太、以下 建設環境研究所）は、自治体等のネイチャーポジティブに貢献する“生物多様性 自治体向けサービス”の販売を開始します。
+
+生物多様...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福島県いわき市にハルビア サウナ ディーラーが誕生！見て触って体感できるサウナショールームをOPEN]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000043.000128619.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000043.000128619.html"/>
+        <updated>2024-08-26T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社HARVIA JAPAN]
+[画像1: https://prcdn.freetls.fastly.net/release_image/128619/43/128619-43-19232837d97cb2f7a2aaffb00d414e48-2000x1600.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【パーセルジュエリー】大阪高島屋 POP UP SHOP 開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000037.000139789.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000037.000139789.html"/>
+        <updated>2024-08-26T01:45:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社 PARCELLE]
+[画像1: https://prcdn.freetls.fastly.net/release_image/139789/37/139789-37-fdb6d242754194c79e03480f9d11157b-1055x1055.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[薬王堂のスキンケアブランド「and OHU」が2種のパッケージをリニューアル。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000004.000141653.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000004.000141653.html"/>
+        <updated>2024-08-26T01:45:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社薬王堂]
+東北6県に391店舗のドラッグストアを展開する株式会社薬王堂（以下 薬王堂）は、「発酵で楽しい社会を！」を掲げる株式会社ファーメンステーションと共同開発したスキンケアシリーズ「and OHU」のパッケージリニ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Jupiter 24mm Full-Frame Macro Cine Prime Lens】微観の世界へご案内！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000060.000142325.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000060.000142325.html"/>
+        <updated>2024-08-26T01:45:02.000Z</updated>
+        <summary type="html"><![CDATA[[SIRUI JAPAN株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/142325/60/142325-60-f0c67883dbd1619e4868bbb8885d1dd7-1200x1200.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一周年記念「海老餃子祭」開催！～特典盛りだくさんの5日間限定イベント～]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000002.000132259.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000002.000132259.html"/>
+        <updated>2024-08-26T01:45:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社Ridge]
+[画像1: https://prcdn.freetls.fastly.net/release_image/132259/2/132259-2-535c8c576c4cca4fe0f9ce721ff346a5-1366x768.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【兼松】8月の野菜摂取強化月間に、アップサイクル食材「ぐるりこ(R)」を活用した新メニューを社内カフェにて提供開始～従業員の健康増進とグリーントランスフォーメーション（GX）推進を両立させる取組み～]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000086.000092359.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000086.000092359.html"/>
+        <updated>2024-08-26T01:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[兼松]
+兼松株式会社（以下、「兼松」）は、兼松食品株式会社と共同で、8月31日の「野菜の日」に合わせた従業員の野菜摂取量増加と、サステナビリティへの意識向上や環境負荷を減らす商品の販売促進を目的として、廃棄野...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ユーザー・情シス部門が納得する脱PPAPの現実解「ファイル転送システム」、どれを選ぶべき？』というテーマのウェビナーを開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002670.000054842.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002670.000054842.html"/>
+        <updated>2024-08-26T01:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[マジセミ株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/54842/2670/54842-2670-1932cdac51a975050754172d8c82a0dc-1280x720.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『最新のAI技術で、メールに蓄積されたナレッジを問い合わせ対応に活用する方法』というテーマのウェビナーを開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002669.000054842.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002669.000054842.html"/>
+        <updated>2024-08-26T01:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[マジセミ株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/54842/2669/54842-2669-bf6c873ac42c1d0c1efa671561a4807e-1280x720.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『【遠隔作業支援】スマートグラスだけじゃない、簡単・快適に使える「首掛け型デバイス」という選択肢』というテーマのウェビナーを開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002668.000054842.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002668.000054842.html"/>
+        <updated>2024-08-26T01:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[マジセミ株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/54842/2668/54842-2668-bab5832dccc82c6c0ee8b838ac3ed427-1280x720.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『「固定料金」のIDaaSを紹介』というテーマのウェビナーを開催]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000002667.000054842.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000002667.000054842.html"/>
+        <updated>2024-08-26T01:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[マジセミ株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/54842/2667/54842-2667-6daebaa7c688d917d2b1b3715ef7d3be-1280x720.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渋谷の街角に10ｍを超える女性が出現？！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000013.000060776.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000013.000060776.html"/>
+        <updated>2024-08-26T01:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社　京王エージェンシー]
+[画像1: https://prcdn.freetls.fastly.net/release_image/60776/13/60776-13-b2e9ab3c01fb3ea5f99b8605f2036c6a-3900x2925.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コンビニのレジは何分待てる？よく使う決済方法は？【アンケート結果発表】]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000048.000118875.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000048.000118875.html"/>
+        <updated>2024-08-26T01:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ドリームプランニング]
+【データの引用・転載についてお願い】
+本リリースの調査結果・画像をご利用いただく際は、アンケート結果を公開しているURUHOME（ウルホーム）のURL（https://uruhome.net/cs-waiting-time/）へのリンク設置をお...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【卓上工作機械メーカー オリジナルマインド】オリジナル製品の加工実演を見学できる、ショールームをオープンします。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000014.000085839.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000014.000085839.html"/>
+        <updated>2024-08-26T01:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社オリジナルマインド]
+[画像1: https://prcdn.freetls.fastly.net/release_image/85839/14/85839-14-919b31ec3fe5b257d90bf92fbb4c715a-1860x930.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社労士試験【解答速報】イベント開催中！「徹底解説テキスト」の無料プレゼント、正答率がわかる「解答アナリティクス」の実施も決定いたしました！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000667.000017546.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000667.000017546.html"/>
+        <updated>2024-08-26T01:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社アガルート]
+[画像1: https://prtimes.jp/i/17546/667/resize/d17546-667-53267057e5e30360614a-0.png ]
+
+■令和6年（2024年）社会保険労務士試験 解答速報
+https://www.agaroot.jp/sharo/sokuho/?utm_source=prtimes&utm_medi...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【オフィスビル内覧会】8月29日（木）30日（金）10時～16時　フージャース鹿児島金生町ビル（市電いづろ通駅徒歩1分）リニューアルした共用部や喫煙室の内覧が可能]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000031.000140756.html</id>
@@ -2988,6 +5293,24 @@ scheme verge株式会社（代表取締役 嶂南達貴）と豊岡演劇祭実�
 [画像1: https://prtimes.jp/i/13640/2796/resize/d13640-2796-c392ae571b936aa9c56d-2.jpg ]
 
 青木琴美による累計670万部突破の大ヒット漫画『カノジョは嘘を愛しすぎてる』が24時間限定で全話無料公開される特...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バンコクの「サイアム高島屋」に「グッドグラス」が登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000189.000036261.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000189.000036261.html"/>
+        <updated>2024-08-23T08:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社アイワ工業]
+[画像1: https://prtimes.jp/i/36261/189/resize/d36261-189-1dbfc5813f47007faa9f-1.jpg ]
+
+販売店情報
+
+
+[画像2: https://prtimes.jp/i/36261/189/resize/d36261-189-f9270963fa791ab77871-0.jpg ]
+
+店舗名：サ...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -7293,6 +9616,17 @@ NCSOFT Corporation(本社:韓国 板橋(パンギョ)、共同代表:金 澤辰(
         <updated>2024-08-22T04:40:02.000Z</updated>
         <summary type="html"><![CDATA[[ヒューマン]
   教育事業を展開するヒューマンアカデミー株式会社（本社：東京都新宿区、代表取締役：今堀　健治、以下「当社」）の全日制専門校 総合学園ヒューマンアカデミーチャイルドケアカレッジ（以下、「当学園」）は、...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開催決定！｜TAKEO PAPER SHOW「PACKAGING―機能と笑い」越前・鯖江展]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000030.000085255.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000030.000085255.html"/>
+        <updated>2024-08-22T04:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[竹尾]
+[画像1: https://prcdn.freetls.fastly.net/release_image/85255/30/85255-30-1279ce0cf5aa512983882e91e2d69c76-2025x2700.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -13963,6 +16297,17 @@ AI与信審査技術の開発と提供及び同技術を用いたFintechサー�
         <updated>2024-08-19T06:40:02.000Z</updated>
         <summary type="html"><![CDATA[[キリンホールディングス株式会社]
 　キリンホールディングス株式会社（社長COO南方健志、以下キリン）とタカノフーズ株式会社（代表取締役社長 高野成徳、以下タカノフーズ）は、タカノフーズの「すごい納豆」シリーズの新たなラインアップとして...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高い伸縮性を持つジャージー素材なのに“きちんと見え”が叶う！オフィスにも最適な「スキューバジャージーシリーズ」が8月19日より発売]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000023.000134893.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000023.000134893.html"/>
+        <updated>2024-08-19T06:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社プラステ]
+　ファーストリテイリンググループの、きちんとしていたい時の“毎日服”を提案するブランド「PLST（プラステ）」は、高い伸縮性と接触冷感、マシンウォッシャブルの機能性を持つジャージー素材を採用した 「スキュ...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -62278,648 +64623,6 @@ ON＆BOARD投資事業有限責任組合（呼称「オンボード」、所在�
         <updated>2024-07-28T13:22:42.000Z</updated>
         <summary type="html"><![CDATA[[株式会社ケンコー・トキナー]
 [画像1: https://prcdn.freetls.fastly.net/release_image/8859/1379/8859-1379-907ec8657be5ca6fbea6ece9bba89fe6-800x600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『劇場版すとぷり はじまりの物語～Strawberry School Festival!!!～』全国生中継　大ヒット御礼メンバースペシャルトーク開催決定！初の全国同日応援上映開催決定！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000007936.000014827.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000007936.000014827.html"/>
-        <updated>2024-07-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ブシロード]
-『劇場版すとぷり はじまりの物語～Strawberry School Festival!!!～』
-全国生中継　大ヒット御礼メンバースペシャルトーク(実写)開催決定！
-
-
-[画像1: https://prtimes.jp/i/14827/7936/resize/d14827-7936-15e6...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インテージヘルスケア、新潟大学　AIを活用したメガリン拮抗薬の開発に関する共同研究を開始]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000578.000001551.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000578.000001551.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社インテージホールディングス]
-株式会社インテージヘルスケア（本社：東京都千代田区、代表取締役社長：村井啓太）と国立大学法人新潟大学（本部：新潟県新潟市、学長：牛木辰男）は、AIを活用したメガリン拮抗薬（※1）の開発に関する共同研究...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい福利厚生のHQ、リモートワーク環境整備プラットフォーム「リモートHQ」に関するビジネスモデル特許を取得]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000061.000089608.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000061.000089608.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社HQ]
-[画像1: https://prcdn.freetls.fastly.net/release_image/89608/61/89608-61-e1619306051a7195a6b9f727eabed010-1200x630.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【PARTY☆PARTY】多くの異性から好印象をもたれた方が参加できる“プレミアムパーティー”を7月27日(土)より全国で開始！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000766.000007950.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000766.000007950.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[IBJ]
-株式会社IBJ（代表取締役社長：石坂 茂、本社：東京都新宿区、東証プライム：6071）が運営する、婚活パーティーサービスの『PARTY☆PARTY』は、スマホdeパーティー（婚活パーティー）の中間投票で異性から「いいね...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[販売用不動産『VORT秋葉原VII』を取得]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000200.000012519.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000200.000012519.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ボルテックス]
-[画像1: https://prcdn.freetls.fastly.net/release_image/12519/200/12519-200-75790d3c8e03033e7f4a8b1ac6cd2fc0-1163x417.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好評の『文単』シリーズにTOEIC版が登場！「TOEIC(R) L&Rテスト 文で覚える単熟語」シリーズ2冊を7月25日（木）に刊行]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000200.000055026.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000200.000055026.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社旺文社]
-教育出版の株式会社旺文社（東京都新宿区、代表取締役社長　粂川　秀樹）は、「TOEIC L&Rテスト 文で覚える単熟語」（メディアビーコン 著、藤枝暁生 監修）シリーズ2冊を、7月25日（木）に刊行いたします。
-...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[集合住宅における再生可能エネルギー活用を支援]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000046.000084152.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000046.000084152.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ファミリーネット・ジャパン]
-東京電力グループの株式会社ファミリーネット・ジャパン（本社：東京都港区、代表取締役：浜西 豊、以下「FNJ」）と日本自然エネルギー株式会社（本社：東京都品川区、代表取締役社長：加藤 圭輝、以下「JNE」）...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global X Japan 株式会社 　「グローバルX AI＆ビッグデータETF」（ 223A）と 「グローバルX ウラニウムビジネスETF」（ 224A）を 東京証券取引所に新規上場]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000007.000137367.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000007.000137367.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[Global X Japan株式会社]
-[画像1: https://prtimes.jp/i/137367/7/resize/d137367-7-97222ffa5f24cdc37455-0.jpg ]
-
-[表1: https://prtimes.jp/data/corp/137367/table/7_1_31b9278cd9b473a9695d8fcf22fb3af5.jpg ]
-
-
-[表2: https://prtim...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大規模事業用地をお求めの企業様へ【新サービス：農地お助け不動産】]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000003.000131919.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000003.000131919.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社日本マネジメント開発研究所]
-[画像1: https://prcdn.freetls.fastly.net/release_image/131919/3/131919-3-5cff0f3b61c97cfd064e1ae5068067f0-963x451.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IFS上半期業績:産業用AIの需要が2桁成長を牽引、ARRは前年同期比24%増]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000037.000064235.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000037.000064235.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[IFSジャパン株式会社]
-[画像: https://prtimes.jp/i/64235/37/resize/d64235-37-400d444380798b3b90ba-0.jpg ]
-
-IFS Cloudの最新リリースで発表された新しい産業用AI機能が新規顧客を引き付け、既存顧客への影響力を拡大
-
-2024年7月23...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【秘密の情報を知らないと入れない夜カフェ】シーシャ業界No.1のmuschが、2024年8月3日(土)にシーシャカフェ＆バーmusch京都河原町店をグランドオープン]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000004.000130578.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000004.000130578.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[musch]
-シーシャカフェ&バーmuschを運営する、株式会社musch（本社：東京都渋谷区、代表：岩崎 大輝）は2024年8月3日(土)、京都の河原町に「屋根裏のある古民家カフェ」をコンセプトにした「シーシャカフェ＆バーmus...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロードリッジ、アジア太平洋地域担当プレジデントにデヴィット・ランエイカースを任命]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000025.000035107.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000025.000035107.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ブロードリッジ・ジャパン]
-ブロードリッジ・インターナショナルのプレジデント、マイク・スレイトホルムは次のように述べています。「ランエイカースはAPAC地域において30年以上の経験を有しており、お客様に優れた結果をもたらすとともに...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学んで稼げる『＄99BTC』トークンがプレセールのラストスパートへ、分散型取引所へ上場も予定]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000017.000145544.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000017.000145544.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[Clickout Media Ltd.]
-[画像1: https://prcdn.freetls.fastly.net/release_image/145544/17/145544-17-d401b4f3cc19f45646361b54e50fa90d-2074x1156.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社会人が東京で出会いを探すならどこ？マッチングアプリで出会えるのかも解説]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000023.000042380.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000023.000042380.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社アイベック]
-[画像1: https://prtimes.jp/i/42380/23/resize/d42380-23-bf313b779490ccbe7308-0.jpg ]
-
-
-
-アンケート回答者の年代分布は下記の通りです。
-[画像2: https://prtimes.jp/i/42380/23/resize/d42380-23-1c42e22b62...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[さあ、俺たちのPARISへ――！ パリ五輪で世界に挑むバスケットボール男子日本代表の全力応援BOOKが本日発売！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000002729.000006568.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000002729.000006568.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社東京ニュース通信社]
-[画像1: https://prtimes.jp/i/6568/2729/resize/d6568-2729-dd3fb23982fb8448a75b-0.jpg ]
-
-いよいよ7月26日より開幕するパリ五輪で、自力出場権を48年ぶりに獲得したバスケットボール男子日本代表チーム。共に...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創業130年の老舗竹材メーカー取材動画の感想公開：竹虎社員が語る竹文化の魅力と未来]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000078.000033525.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000078.000033525.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社 山岸竹材店]
-[画像1: https://prcdn.freetls.fastly.net/release_image/33525/78/33525-78-66ddcd7cc13d9b909fdd7ab8acdee983-1080x810.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エクイニクス、液冷サービスを日本で初めて提供開始]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000050.000048280.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000050.000048280.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[エクイニクス・ジャパン株式会社]
-グローバルなデジタルインフラストラクチャ企業であるエクイニクス（Nasdaq：EQIX、日本法人代表取締役社長　小川 久仁子、以下「エクイニクス」）は、大阪に位置するIBX(R)データセンター「OS3」において、お客...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AiHUB株式会社、アドバイザーにエンタメ社会学者の中山淳雄氏が就任]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000024.000123123.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000024.000123123.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[AIHUB株式会社]
-アドバイザー就任の背景
-
-
-　近年、生成AI及びエンターテイメント業界は急速に進化を続けており、生成AIのエンターテイメント業界での活用が重要なポイントとなっています。
-
-　AiHUBは、生成AIのオープンソース...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIDION秋の新作2アイテム発売＆リキッドアイシャドウの再販売が決定！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000016.000114217.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000016.000114217.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[ファッションネット株式会社]
-ファッションネット株式会社（本社所在地：東京都港区）のコスメブランドDIDION（ディディオン）は2024年8月1日よりグリッターとリップスティックの新色を1色ずつ、発売します。
-また、以前より再販のお声を多く...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタルアセットマーケッツ、Ava Labsとリアルワールドアセット（RWA）トークンの発行・流通の促進と個人情報のオンチェーン活用技術におけるインフラ構築での連携に関する基本合意書締結（JP／EN）]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000006.000124654.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000006.000124654.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[デジタルアセットマーケッツ｜Digital Asset Markets Inc.]
-株式会社デジタルアセットマーケッツ（本社：東京都千代田区、代表取締役：西本一也、以下「デジタルアセットマーケッツ」）は、「Avalanche」ブロックチェーンで開発を行っているソフトウェア会社Ava Labs Inc.(...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メディアウェイブ　ＮＡＳ型デバイスを採用の「ＡＩ搭載ビジネス電話システム（仮称）」を開発]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000005.000013369.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000005.000013369.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[メディアウェイブ]
-　メディアウェイブシステムズ株式会社（本社：石川県金沢市，代表取締役：中島　英子，以下「メディアウェイブ」）は、店舗や中小規模オフィス向けの「ＡＩ搭載ビジネス電話システム（仮称）」を開発しました。...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNSで崩れた自然は、SNSであるべき姿へ🌳 Z世代プラットフォーム”NAMIMATI” と国際環境倫理プログラム”Leave No Trace Japan”、国内初のPRパートナー連携協定締結]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000004.000083659.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000004.000083659.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[NPO法人リーブノートレイスジャパン]
-[画像1: https://prcdn.freetls.fastly.net/release_image/83659/4/83659-4-0bd8afd1de722f537361e5d661a2a2d3-921x612.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【日本橋老舗企画】“鰻料理“近三” と榮太樓總本鋪”との老舗コラボ商品をオンラインにて発売開始]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000001.000146727.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000001.000146727.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[鰻料理　近三]
-[画像1: https://prcdn.freetls.fastly.net/release_image/146727/1/146727-1-8c654517508f65642ae0ec8a37814b42-1080x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「KIMONOの森2024　オンライン展示会」に伝創研が出展]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000056.000074128.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000056.000074128.html"/>
-        <updated>2024-07-28T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[一般社団法人伝統文化創造推進機構]
-[画像1: https://prcdn.freetls.fastly.net/release_image/74128/56/74128-56-4b999477d283106b80f1ffd7755298ce-1021x731.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STU48スペシャルゲスト出演 鶴久政治60歳を祝福！！鶴久氏 作曲『花は誰のもの？』『君は何を後悔するのか？』を披露！！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000037.000136906.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000037.000136906.html"/>
-        <updated>2024-07-28T12:26:21.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社STU]
-[画像1: https://prcdn.freetls.fastly.net/release_image/136906/37/136906-37-bb608f0836cfaa8d224ef694b853d82c-1280x851.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ベターホームズ＆ガーデンズ(Better Homes & Gardens)が発表した2024年のベスト加湿器にCAREPODが選出！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000011.000144824.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000011.000144824.html"/>
-        <updated>2024-07-28T11:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[Carepod Japan 株式会社]
-[画像1: https://prcdn.freetls.fastly.net/release_image/144824/11/144824-11-0661ba0880ce8d480e8fdad078406954-1129x596.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【事後レポート】福島日産、郡山市立美術館にて、特別企画「印象派展 フクニチャージ ナイトミュージアム」 を開催。]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000044.000129846.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000044.000129846.html"/>
-        <updated>2024-07-28T07:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[福島日産自動車株式会社]
-[画像1: https://prcdn.freetls.fastly.net/release_image/129846/44/129846-44-20f2437c97bc5edd71a91a9ccb470531-1028x578.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【泉南市】楽器の音色とカラフルなライトアップが泉南のビーチを美しく彩る。2024年8月17日(土)「Aurora Palm Tree×海辺の夜市with日本センチュリー交響楽団」開催！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000301.000032099.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000301.000032099.html"/>
-        <updated>2024-07-28T07:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社TryHard Japan]
-　泉南市と株式会社TryHardJapan（所在地：大阪市中央区）は、2024年8月17日(土)にSENNAN LONG PARK（泉南りんくう公園）内、サザンストリート（所在地：大阪府泉南市）にて、ライトアップイベント「Aurora Palm ...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マンガ・アニメの関するファンエンゲージメント強化のためのアンケート調査とクラウドファンディングを実施]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000003.000139262.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000003.000139262.html"/>
-        <updated>2024-07-28T06:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[goen合同会社]
-[画像1: https://prcdn.freetls.fastly.net/release_image/139262/3/139262-3-ef3772111a0813138c3507e9c55a1ae9-1792x1024.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドバイのフードデリバリーに対する満足度についてドバイ在住日本人を対象に調査しました]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000031.000125772.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000031.000125772.html"/>
-        <updated>2024-07-28T06:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[Logical X Consultancy FZ-LLC]
-調査方法：インターネット調査
-調査人数：100名
-調査対象：ドバイ在住日本人
-調査期間：2024年5月23日～6月1日
-
-弊社が運営する『ドバイ総合研究所』は、ドバイ在住の日本人を対象に「ドバイのフードデリバリーに...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☆夏休み限定限定☆ナイトジップライン！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000009.000129393.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000009.000129393.html"/>
-        <updated>2024-07-28T05:40:03.000Z</updated>
-        <summary type="html"><![CDATA[[TRIATE株式会社]
-[画像: https://prcdn.freetls.fastly.net/release_image/129393/9/129393-9-cd615553c56125aec8a745c598ef58e2-1478x1108.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ZETA DIVISION GC」が国内4連覇を達成！「VALORANT Game Changers Japan Split 2 Main Stage」にて圧巻の強さを見せつける]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000305.000059480.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000305.000059480.html"/>
-        <updated>2024-07-28T05:40:03.000Z</updated>
-        <summary type="html"><![CDATA[[RAGE]
-[画像1: https://prtimes.jp/i/59480/305/resize/d59480-305-3abda0acd6a614df6677-0.png ]
-
-国内大会3連覇中の「ZETA DIVISION GC」は、今大会のMain Stageでも強さを発揮。「Cyber Geek」と「REIGNITE Lily」を...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令和6年能登半島地震 復興支援活動の一環として ヴィンセドール白山、アビームコンサルティングとの3者共同プロジェクトを開始]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000578.000098954.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000578.000098954.html"/>
-        <updated>2024-07-28T05:40:03.000Z</updated>
-        <summary type="html"><![CDATA[[一般社団法人日本フットサルトップリーグ]
-[画像: https://prcdn.freetls.fastly.net/release_image/98954/578/98954-578-479c9cbcfe8d1b3bc40003f3abd043dc-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「さかなをたべよう！オンラインスクール」福岡・東京・兵庫・福島の4地域の連携で開催。この夏、大人も子供も「さかな」への好奇心が盛り上がる]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000051.000079669.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000051.000079669.html"/>
-        <updated>2024-07-28T05:40:03.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社サンケイリビング新聞社]
-[画像1: https://prcdn.freetls.fastly.net/release_image/79669/51/79669-51-5b57ff4fd48b44000e5db1ca1c8708ad-532x270.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【大学生ユーザー数 ２０万人突破】レポート作成補助AIサービス『レポートお助けくん』が大好評！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000003.000140652.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000003.000140652.html"/>
-        <updated>2024-07-28T05:40:03.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社VIVRE CARD]
-現役の国立大学生が設立した株式会社VIVRE CARD（本社所在地：神戸市、代表取締役社長：中原　龍士朗）は、大学のレポート作成を効率化するためのサービス『レポートお助けくん』の累計ユーザー数が大台の２０万...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCUソロ20周年！盟友・浜崎貴司をフィーチャーした夏のアンセム「サーフライダー」初配信でアニバーサリーイヤー開幕！「サーフライダー20周年　手前味噌だがどんな夏曲より夏曲していると感じる」(MCU)]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000001816.000020808.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000001816.000020808.html"/>
-        <updated>2024-07-28T05:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ソニー・ミュージックレーベルズ レガシープラス]
-[画像1: https://prtimes.jp/i/20808/1816/resize/d20808-1816-5b5de865af45ec4840bd-0.jpg ]
-
-詳しくは下記サイトをチェックして頂きたい。
-サイトURL　 https://www.110107.com/MCU_20th
-
-(本人コメント)
- 
-サ...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20代女性の300人中134人(44.6%)が、野外フェスについて「興味あり」と回答【野外フェスに関するアンケート】]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000065.000141408.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000065.000141408.html"/>
-        <updated>2024-07-28T05:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社スマイルモア]
-【質問1：野外フェスにどれくらい興味がありますか？】
-野外フェスにどれくらい興味がありますか？（単一選択）
-回答の選択肢は以下
-・非常に興味がある
-・ある程度興味がある
-・あまり興味がない
-・全く興味がな...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[74.8％の女性が顔に『シミ・そばかす』がある。光老化を防ぐための紫外線対策ポイントを紹介！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000306.000044533.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000306.000044533.html"/>
-        <updated>2024-07-28T03:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社アースケア]
-[画像1: https://prcdn.freetls.fastly.net/release_image/44533/306/44533-306-a1a5d85bb010cac6adcc890e0e48c1f4-650x430.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏に海やプールに行く人必見！「『ウォータープルーフ』の日焼け止めは肌に良くない」は嘘]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000307.000044533.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000307.000044533.html"/>
-        <updated>2024-07-28T03:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社アースケア]
-[画像1: https://prcdn.freetls.fastly.net/release_image/44533/307/44533-307-c2069a27d0e74479b9c1731898fd4273-650x430.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[唇まで『紫外線対策』できている人はたったの12.6％！日焼けは唇の乾燥・痛みなどを引き起こす]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000305.000044533.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000305.000044533.html"/>
-        <updated>2024-07-28T03:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社アースケア]
-[画像: https://prcdn.freetls.fastly.net/release_image/44533/305/44533-305-a5fb8db5255bb88d6214fc0025986889-650x430.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グローバル・ボーイズグループ「NEXZ」が国立競技場で新曲を世界初披露！「明治安田Ｊリーグワールドチャレンジ2024」]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000365.000113690.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000365.000113690.html"/>
-        <updated>2024-07-28T02:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[NTTドコモ  Lemino]
-[画像1: https://prcdn.freetls.fastly.net/release_image/113690/365/113690-365-f1454221b30d2a11f29dab28ba2f11fc-3900x2600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリストーン“キングフィッシュ”イングラム出演イベントが緊急開催決定！7月29日（月）午前11時よりフェンダー旗艦店（東京・原宿）で開催！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000521.000021878.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000521.000021878.html"/>
-        <updated>2024-07-28T02:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[フェンダーミュージック]
-[画像: https://prcdn.freetls.fastly.net/release_image/21878/521/21878-521-483c4a4b02be4d44773df902d9f8a5a3-3900x2600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JGBA未来会議「地域一番企業が実行する“地域密着×圧倒的一番化経営”セミナー」2024年8月29日（木）開催決定]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000036.000122420.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000036.000122420.html"/>
-        <updated>2024-07-28T02:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[一般社団法人日本優良ビルダー普及協会]
-[画像: https://prcdn.freetls.fastly.net/release_image/122420/36/122420-36-9c8e900244c86c12e70b9e2deb3c7c00-1241x1754.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9bic ライブレポート「Next Story Debut Live」]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000003120.000011710.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000003120.000011710.html"/>
-        <updated>2024-07-28T02:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[ぴあ株式会社]
-[画像1: https://prcdn.freetls.fastly.net/release_image/11710/3120/11710-3120-3e388c5bdadb95331bf59cadf7e83788-1500x1000.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[≒JOY　アイドルイベント「六本木アイドルフェスティバル2024」に出演し、新曲「体育館ディスコ」を含む、計6曲を熱唱！気迫溢れるライブパフォーマンスで来場者を魅了！!]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000004280.000013546.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000004280.000013546.html"/>
-        <updated>2024-07-28T02:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ソニー・ミュージックレーベルズ]
-[画像1: https://prcdn.freetls.fastly.net/release_image/13546/4280/13546-4280-b03e52a98f07194a0f4815e95e423532-1477x1108.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将棋日本シリーズ一回戦四局　開催結果　初出場の佐々木大地七段デビュー戦を白星で飾る]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000159.000044150.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000159.000044150.html"/>
-        <updated>2024-07-28T02:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[公益社団法人日本将棋連盟]
-【実施概要】
-タ イ ト ル：  「将棋日本シリーズ JTプロ公式戦」　一回戦第四局
-日  　    程：  2024年7月27日（土）
-場     　 所：  ツインメッセ静岡 北館大展示場 （住所：静岡県静岡市駿河区曲金3丁目1-10...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aladdin X主催　全国のプレイヤーがスイカゲームのスコアを競い合う大会「スイカ王No.1決定戦」で本日初代スイカ王決定！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000044.000105092.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000044.000105092.html"/>
-        <updated>2024-07-28T02:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[Aladdin X株式会社]
-[画像1: https://prcdn.freetls.fastly.net/release_image/105092/44/105092-44-d65f5b42b2acc89d7e305de89a57a6f6-3782x2521.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLANKEY JET CITYの楽曲が「AWA」で配信開始！代表曲「赤いタンバリン」や1stシングル「不良少年のうた」など全楽曲を一挙配信]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000002842.000022425.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000002842.000022425.html"/>
-        <updated>2024-07-28T02:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[AWA]
-[画像: https://prtimes.jp/i/22425/2842/resize/d22425-2842-4f93f3cd475517b5ccf6-0.png ]
-
-今回配信される楽曲は、代表曲の「赤いタンバリン」や1stシングル「不良少年のうた」などのシングルをはじめ、BLANKE...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シャイトープ・タカトマン「少なめくらいがちょうどいい」 二郎系ラーメンの“女性向けコール”を伝授]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000325.000034658.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000325.000034658.html"/>
-        <updated>2024-07-28T02:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[FMヨコハマ]
-[画像1: https://prcdn.freetls.fastly.net/release_image/34658/325/34658-325-cb7ce2e9ee24f7dd15295068d671d071-1567x1045.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【おためし本舗試食屋】商品販売を伸ばしたい事業者と小売店バイヤーとの商談会を実施]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000032.000115518.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000032.000115518.html"/>
-        <updated>2024-07-28T02:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社Liva ]
-バイヤー商談会を実施
-
-バイヤー商談会を実施
-おためし本舗試食屋は食品メーカーの事業拡大支援サービスの一環として、小売店等を運営する企業の商品仕入責任者と、商品の売り先を増やしたい企業の営業担当者を招...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福島トヨタ自動車からの車両贈呈について]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000195.000053979.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000195.000053979.html"/>
-        <updated>2024-07-28T02:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社AC福島ユナイテッド]
-[画像: https://prcdn.freetls.fastly.net/release_image/53979/195/53979-195-d3c34638151ee9549d627f15626f114f-1275x956.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新英語イベント「Eiken Quest Relay」第5回追加開催決定】英検受験予定のお子様必見！8月に2回開催！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000081.000084467.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000081.000084467.html"/>
-        <updated>2024-07-28T02:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ジプロス]
-[画像: https://prcdn.freetls.fastly.net/release_image/84467/81/84467-81-547eb2ee8efc3422fef95ae4438570b4-1414x2000.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独立行政法人中小企業基盤整備機構人事異動]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000001545.000021609.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000001545.000021609.html"/>
-        <updated>2024-07-27T15:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[中小機構]
-令和6年7月25日付
-[表1: https://prtimes.jp/data/corp/21609/table/1545_1_5c2df6c8546b5884c349f318667434f7.jpg ]
-
-令和6年7月26日付
-[表2: https://prtimes.jp/data/corp/21609/table/1545_2_3f5698f669ac818...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
