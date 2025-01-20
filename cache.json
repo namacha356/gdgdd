@@ -6,6 +6,866 @@
       "siteUrl": "https://prtimes.jp",
       "articles": [
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000003.000149590.html",
+          "author": null,
+          "description": "[エレウノ株式会社]\nエレウノ株式会社（東京都目黒区　代表取締役社長CEO 大橋賢治）は、位置情報を活用した中古車売買プラットフォーム「ストリマ」を2025年1月25日（土）にiOS/Androidの両OSで正式リリースいたします。ストリマは...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000003.000149590.html",
+          "publishedOn": "2025-01-19T23:00:00.000Z",
+          "wordCount": 1485,
+          "title": "中古車売買プラットフォーム「ストリマ」正式リリースキャンペーンを開催",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/149590/3/149590-3-e78aecf3cd1194e6382e2077f6eb5481-1960x708.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000001.000147086.html",
+          "author": null,
+          "description": "[株式会社狭山金型製作所]\n[画像1: https://prcdn.freetls.fastly.net/release_image/147086/1/147086-1-89da5c9f0f535a63026ea98dfbeca19e-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000147086.html",
+          "publishedOn": "2025-01-19T23:00:00.000Z",
+          "wordCount": 1568,
+          "title": "モノづくりの面白い・楽しいが大集結！『製造業対抗ミニ四駆関東大会』の開催",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/147086/1/147086-1-89da5c9f0f535a63026ea98dfbeca19e-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000354.000125910.html",
+          "author": null,
+          "description": "[ＢＳ日テレ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/125910/354/125910-354-9a96d8ad6d8670ad22aa812b6c286d64-1920x1280.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000354.000125910.html",
+          "publishedOn": "2025-01-19T23:00:00.000Z",
+          "wordCount": 1415,
+          "title": "冨永愛が驚いた！金沢の伝統食「押し寿司」とは？",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/125910/354/125910-354-9a96d8ad6d8670ad22aa812b6c286d64-1920x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000275.000010773.html",
+          "author": null,
+          "description": "[株式会社ポリグロッツ]\n[画像: https://prcdn.freetls.fastly.net/release_image/10773/275/10773-275-0d20bd120bfe42c917b505618d5f00a7-1600x770.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000275.000010773.html",
+          "publishedOn": "2025-01-19T23:00:00.000Z",
+          "wordCount": 1510,
+          "title": "【英語コーチング成果保証プラン】が大人気のレシピーがスタートダッシュキャンペーンを開催中 - 株式会社ポリグロッツ- 2025年1月20日(月)～1月31日(金)",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/10773/275/10773-275-0d20bd120bfe42c917b505618d5f00a7-1600x770.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000015.000092116.html",
+          "author": null,
+          "description": "[MOLDINO]\n株式会社MOLDINO（本社:東京都墨田区 代表取締役社長:金子 善昭 以下MOLDINO）は、高機能材の荒加工に最適なアルファ高送りラジアスミル「TR2F」を2025年1月20日より発売いたします。\n\n■開発にあたって\n近年、ダ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000015.000092116.html",
+          "publishedOn": "2025-01-19T23:00:00.000Z",
+          "wordCount": 1492,
+          "title": "高機能材の荒加工に最適 アルファ高送りラジアスミル「TR2F」 2025年1月20日 新発売",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/92116/15/92116-15-fef0a62626de44e0b7f592c9d441b852-1200x660.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000012.000109931.html",
+          "author": null,
+          "description": "[株式会社COEDAS]\n[画像1: https://prcdn.freetls.fastly.net/release_image/109931/12/109931-12-639deacffcdb30fcf5fddcc8c0b2b462-2100x1808.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000012.000109931.html",
+          "publishedOn": "2025-01-19T22:30:00.000Z",
+          "wordCount": 1594,
+          "title": "株式会社COEDASの提供する「1on1スキルアッププログラム」、サントリーホールディングス株式会社のデジタル本部へ導入されました！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/109931/12/109931-12-0267f9172021fa3423ad375cca5e926c-3185x2389.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000012.000128733.html",
+          "author": null,
+          "description": "[株式会社Haul]\n[画像1: https://prcdn.freetls.fastly.net/release_image/128733/12/128733-12-e9463801d436265365dc0adff9217e8f-1200x630.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000012.000128733.html",
+          "publishedOn": "2025-01-19T22:30:00.000Z",
+          "wordCount": 1578,
+          "title": "採用イネーブルメントSaaS「RekMA」のHaulとハイクラスエンジニア採用プラットフォーム「Offers」を運営するoverflowがパートナーシップを締結",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/128733/12/128733-12-e9463801d436265365dc0adff9217e8f-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000616.000036230.html",
+          "author": null,
+          "description": "[株式会社ウェルカム]\n[画像1: https://prcdn.freetls.fastly.net/release_image/36230/616/36230-616-cecdc0f332836c9bf720fb1f73591a53-3900x2925.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000616.000036230.html",
+          "publishedOn": "2025-01-19T22:00:00.000Z",
+          "wordCount": 1562,
+          "title": "SFT GALLERY（国立新美術館 スーベニアフロムトーキョー内）にて1月22日(水)から日本各地の郷土玩具の展示「日本各地 郷土玩具をあつめて」を開催",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/36230/616/36230-616-cecdc0f332836c9bf720fb1f73591a53-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001861.000047877.html",
+          "author": null,
+          "description": "[株式会社新潮社]\nアメリカやヨーロッパで次々と生まれる権威主義的政権は、やがて独裁政権へと突き進むのか。独裁者になる政治家の特徴、独裁者が権力を手にするまでの道筋、彼らが民主主義を破壊する手順を示した衝撃の書『民主...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001861.000047877.html",
+          "publishedOn": "2025-01-19T22:00:00.000Z",
+          "wordCount": 1443,
+          "title": "世界的大ベストセラー『民主主義の死に方』（新潮社）がトランプ米大統領の返り咲きで再注目。緊急重版出来！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/47877/1861/47877-1861-84e68480910da03262e18d10bc53b70a-1006x1444.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000016.000088343.html",
+          "author": null,
+          "description": "[ナレッジ・プログラミングスクール]\nナレッジ・プログラミングスクール（東京世田谷区経堂）は、小学生向けブラウザ型タイピングアプリ「ナレッジタイピング」for school版に、新機能「ランキングスタジアム」を追加しました。本機能は、全国約150か...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000016.000088343.html",
+          "publishedOn": "2025-01-19T22:00:00.000Z",
+          "wordCount": 1461,
+          "title": "【ナレッジタイピング】school版に新機能「ランキングスタジアム」登場！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/88343/16/88343-16-956b1373e9a3f76ee5fd235865848fac-2000x1185.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000003.000151825.html",
+          "author": null,
+          "description": "[カンタスエアーウェイズリミテッド]\n- 札幌～シドニー間の季節運航便を開設\n- カンタス航空のネットワークの100番目の運航都市\n- カンタス航空は日豪間で年間85万席以上を提供\n[画像: https://prcdn.freetls.fastly.net/release_image/...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000003.000151825.html",
+          "publishedOn": "2025-01-19T21:23:00.000Z",
+          "wordCount": 1467,
+          "title": "空飛ぶカンガルーで北海道からオーストラリアへ",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/151825/3/151825-3-9cc1c0bf7e230779d939d44f8726839d-1518x1012.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000395.000099810.html",
+          "author": null,
+          "description": "[Lark公式パートナー・AIエージェントカンパニー「カスタマークラウド」]\n[画像1: https://prcdn.freetls.fastly.net/release_image/99810/395/99810-395-e1a7a4c96fdc4f5c857767c483937978-1268x812.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000395.000099810.html",
+          "publishedOn": "2025-01-19T20:47:37.000Z",
+          "wordCount": 1799,
+          "title": "令和の虎 黒字社長・市ノ澤翔氏、出版記念コラボキャンペーン --Lark公式パートナー「カスタマークラウド」が、先着3社に2時間無料コンサル（売上が伸びるAIと、お金が残るDX）を提供",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/99810/395/99810-395-e1a7a4c96fdc4f5c857767c483937978-1268x812.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000020.000084567.html",
+          "author": null,
+          "description": "[ゼネラル・パーチェス株式会社]\nコストの分析サービス「コストドック」を運営するゼネラル・パーチェス株式会社(本社：東京都中央区、代表取締役：長崎 伸也)は、肥後銀行 (本社：熊本県熊本市、取締役頭取：笠原 慶久)とビジネスマッチング契約...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000020.000084567.html",
+          "publishedOn": "2025-01-19T20:30:00.000Z",
+          "wordCount": 1489,
+          "title": "肥後銀行とゼネラル・パーチェスがコストの分析サービス「コストドック」で中小企業を支援",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/84567/20/84567-20-235bbc93872410772570428c62e5aa4d-678x348.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000077.000112624.html",
+          "author": null,
+          "description": "[アイムセーフ合同会社]\nアイムセーフ合同会社では、厚生労働省通達による【保護具着用管理責任者】を社内受講できる便利なオンライン講習会で実施しています。\n3月のスケジュールが公開されました。\n\n[画像1: https://prcdn.freetls.fas...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000077.000112624.html",
+          "publishedOn": "2025-01-19T20:00:00.000Z",
+          "wordCount": 1550,
+          "title": "【3月のオンライン講習：保護具着用管理責任者】便利なオンライン講習会のスケジュールが公開されました。",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/112624/77/112624-77-d0a9ec2e42c82a6545e209f47eab118b-902x812.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000080.000112624.html",
+          "author": null,
+          "description": "[アイムセーフ合同会社]\nアイムセーフ合同会社では、厚生労働省通達による【職長教育(安全衛生責任者なし)】を社内や自宅から受講できる便利なオンライン講習会で実施しています。\n3月のスケジュールが公開されました。\n\n労働安全衛生法...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000080.000112624.html",
+          "publishedOn": "2025-01-19T20:00:00.000Z",
+          "wordCount": 1555,
+          "title": "【3月のオンライン講習：職長教育(安全衛生責任者なし)】便利なオンライン講習会のスケジュールが公開されました。",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/112624/80/112624-80-1dba0ad95e12ad472848dfd08a3d0f33-902x812.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000024.000013456.html",
+          "author": null,
+          "description": "[群馬スノーアライアンス株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/13456/24/13456-24-b0572cc0dfbc983f226a6649e50abd0f-1900x1000.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000024.000013456.html",
+          "publishedOn": "2025-01-19T19:30:00.000Z",
+          "wordCount": 1454,
+          "title": "ノルンみなかみスキー場開業30周年記念リフト券無料Day！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/13456/24/13456-24-b0572cc0dfbc983f226a6649e50abd0f-1900x1000.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000002784.000005794.html",
+          "author": null,
+          "description": "[株式会社資生堂]\n―2025年の抱負を語ったインタビュー映像や、メイキング映像も公開！―\n\n　株式会社資生堂は、世界90の国と地域で展開する「SHISEIDO」のプレステージメンズシリーズ「SHISEIDO MEN（シセイドウ メン）」のアスリー...",
+          "link": "https://prtimes.jp/main/html/rd/p/000002784.000005794.html",
+          "publishedOn": "2025-01-19T19:00:00.000Z",
+          "wordCount": 1684,
+          "title": "「男の美しさは、肌に出る。」プロバスケットボールプレイヤー河村勇輝選手が男性向けスキンケア・メイクアップブランド「SHISEIDO MEN」のアスリートアンバサダーに就任",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/5794/2784/5794-2784-fe28e74f087ffc2c0c517c102bf9345d-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000002894.000012949.html",
+          "author": null,
+          "description": "[株式会社キョードーメディアス]\n2025 年 3 月 3 日(月)に大阪・オリックス劇場で開催される「あの素晴しい歌をもう一度コンサート２０２５大阪」に、角 淳一の出演が決定した。\n[画像1: https://prcdn.freetls.fastly.net/release_image/12949/2...",
+          "link": "https://prtimes.jp/main/html/rd/p/000002894.000012949.html",
+          "publishedOn": "2025-01-19T19:00:00.000Z",
+          "wordCount": 1582,
+          "title": "新たに、角 淳一の出演決定！「あの素晴しい歌をもう一度コンサート２０２５大阪」「イムジン河」「帰って来たヨッパライ」「愛の讃歌」ほか関西フォークの名曲と、人生の名曲に喝采を！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/12949/2894/12949-2894-dc6216a1f8a2829afa7ec4f6aad955d3-3250x1302.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000007.000143963.html",
+          "author": null,
+          "description": "[株式会社SENKA]\n[画像: https://prcdn.freetls.fastly.net/release_image/143963/7/143963-7-83fe3f98096c3f2ddb892fca539a72c3-1477x1108.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000007.000143963.html",
+          "publishedOn": "2025-01-19T17:40:01.000Z",
+          "wordCount": 1458,
+          "title": "「買取専科　京阪守口市駅前店」がオープンから半年を迎えました！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/143963/7/143963-7-83fe3f98096c3f2ddb892fca539a72c3-1477x1108.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000234.000018795.html",
+          "author": null,
+          "description": "[スーツ]\n株式会社スーツ（所在地：東京都千代田区、代表取締役社長CEO：小松 裕介）は、2025年1月22日（水）19時から、当社代表の小松が講師を務めるスーツアップ・セミナー「タスク管理という組織マネジメント」を無料開...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000234.000018795.html",
+          "publishedOn": "2025-01-19T16:00:00.000Z",
+          "wordCount": 1676,
+          "title": "スーツアップ・セミナー「タスク管理という組織マネジメント」開催のお知らせ",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/18795/234/18795-234-91764ce18db60e005156351a03664c23-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000003.000136039.html",
+          "author": null,
+          "description": "[kyorasunrise]\n[画像1: https://prcdn.freetls.fastly.net/release_image/136039/3/136039-3-4224a27996c070a27d8bef69a8839709-1600x900.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000003.000136039.html",
+          "publishedOn": "2025-01-19T15:40:02.000Z",
+          "wordCount": 1606,
+          "title": "【回転ヘッドで照らす方向、思いのまま】コンパクトでパワフル、人差し指サイズの回転式LED懐中電灯がMakuakeにて先行販売開始",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/136039/3/136039-3-4224a27996c070a27d8bef69a8839709-1600x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000010.000056821.html",
+          "author": null,
+          "description": "[イデア株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/56821/10/56821-10-53cda6958667977773ba6b01f1cf7baa-1637x597.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000010.000056821.html",
+          "publishedOn": "2025-01-19T15:40:02.000Z",
+          "wordCount": 2225,
+          "title": "ミニマルデザインの【ideaco】、海外展開を本格化、英語版サイトを新たに公開",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/56821/10/56821-10-53cda6958667977773ba6b01f1cf7baa-1637x597.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000186.000075665.html",
+          "author": null,
+          "description": "[クリスピー・クリーム・ドーナツ・ジャパン株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/75665/186/75665-186-fa4a0f51fa44d0f5d59aceb5b61b9dc1-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000186.000075665.html",
+          "publishedOn": "2025-01-19T15:40:02.000Z",
+          "wordCount": 1966,
+          "title": "【KKDJ×Her lip to】小嶋陽菜プロデュースのライフスタイルブランド「Her lip to」とのコラボレーション再び！オリジナルドーナツの他コラボアイテムも数量限定で登場",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/75665/186/75665-186-fa4a0f51fa44d0f5d59aceb5b61b9dc1-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000002091.000004702.html",
+          "author": null,
+          "description": "[株式会社朝日新聞出版]\n親子で楽しく読めて、中学受験・高校入試の勉強にも役立つ、小・中学生のためのニュース月刊誌ジュニアエラ2025年2月号が、1月15日に発売されました。今号の特集は「やる気、記憶力、成績UP！ 脳を味方にする『勉...",
+          "link": "https://prtimes.jp/main/html/rd/p/000002091.000004702.html",
+          "publishedOn": "2025-01-19T15:40:02.000Z",
+          "wordCount": 1492,
+          "title": "特集は「記憶力、成績UP！ 脳を味方にする『勉強法』」／「劇場版プロセカ」宵崎奏役の声優・楠木ともりさんインタビュー／小中学生向けニュース月刊誌『ジュニアエラ』2025年2月号、1月15日（水）発売",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/4702/2091/4702-2091-f6e828bf51fb27b78e96cc6be9043b0e-1447x1956.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000001.000153985.html",
+          "author": null,
+          "description": "[ヨシナニ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/153985/1/153985-1-83c80513bf1969d3de9672b732d81cb3-3000x2000.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000153985.html",
+          "publishedOn": "2025-01-19T15:40:02.000Z",
+          "wordCount": 1584,
+          "title": "中央区築地にて魚と野菜‶だけ”のビストロ「キリュクリュ」オープン",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/153985/1/153985-1-83c80513bf1969d3de9672b732d81cb3-3000x2000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000021.000080306.html",
+          "author": null,
+          "description": "[株式会社タカネットサービス]\nトラックの売買、リース・レンタル、整備、運送等をワンストップで提供する株式会社タカネットサービス（本社：神奈川県横浜市、代表取締役：西口高生、以下弊社）は、 トラックを投資対象としたオペレーティング...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000021.000080306.html",
+          "publishedOn": "2025-01-19T15:40:02.000Z",
+          "wordCount": 1455,
+          "title": "【100億円を達成】リース期間2年半のオペレーティングリース【投資deスグのり】",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/80306/21/80306-21-f1fd226e2940bc17f45ec66b17dce591-2684x1643.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000218.000016245.html",
+          "author": null,
+          "description": "[株式会社SUPER STUDIO]\n　コマースDXを実現する統合コマースプラットフォーム「ecforce」を提供する株式会社SUPER STUDIO（所在地：東京都目黒区、代表者：代表取締役 CEO 林 紘祐、以下：SUPER STUDIO）は、1月20日（月）より劇団ひと...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000218.000016245.html",
+          "publishedOn": "2025-01-19T15:00:00.000Z",
+          "wordCount": 1596,
+          "title": "コマースDXを実現する「ecforce」が劇団ひとりさんを起用した新タクシーCMを1月20日（月）より公開",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/16245/218/16245-218-6b8cf95154da4178755f4184e6347fa3-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000004150.000019470.html",
+          "author": null,
+          "description": "[日本コロムビア株式会社]\n声優・アーティストの内田彩が、現在放送中のTVアニメ『戦隊レッド 異世界で冒険者になる』エンディングテーマ「Explosive Heart」を配信リリースした。\n\n[画像: https://prcdn.freetls.fastly.net/release_image...",
+          "link": "https://prtimes.jp/main/html/rd/p/000004150.000019470.html",
+          "publishedOn": "2025-01-19T15:00:00.000Z",
+          "wordCount": 1896,
+          "title": "内田彩、アニメ『戦隊レッド 異世界で冒険者になる』EDテーマ「Explosive Heart」配信リリース！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/19470/4150/19470-4150-87a619fa0b71b96f8215a67dc9077edc-2000x2000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000065.000145544.html",
+          "author": null,
+          "description": "[Clickout Media Ltd.]\n[画像1: https://prcdn.freetls.fastly.net/release_image/145544/65/145544-65-7ceceb7c91ecd968aed0e24e4407d169-1244x824.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000065.000145544.html",
+          "publishedOn": "2025-01-19T14:40:01.000Z",
+          "wordCount": 1608,
+          "title": "投票することで稼げるミームコインFLOCKが1,000万ドルの資金を調達、プレセールは残り6日に",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/145544/65/145544-65-7ceceb7c91ecd968aed0e24e4407d169-1244x824.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000065.000081470.html",
+          "author": null,
+          "description": "[大和コネクト証券（大和証券グループ）]\n株式会社大和証券グループ本社（代表執行役社長 荻野　明彦）の子会社である大和コネクト証券株式会社（代表取締役社長 大槻　竜児）（以下、当社）は、2025年1月16日（木）より、株式会社大和ネクスト銀行（代表...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000065.000081470.html",
+          "publishedOn": "2025-01-19T14:40:01.000Z",
+          "wordCount": 1600,
+          "title": "大和ネクスト銀行の円・外貨定期預金の取扱いを開始！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/81470/65/81470-65-42b36c7a9f57e3e143a9ccd9030e6890-1200x628.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000008343.000014827.html",
+          "author": null,
+          "description": "[株式会社ブシロード]\n株式会社ブシロードミュージック（本社：東京都中野区、代表取締役社長：北岡那之）は、\n1月19日(日)にZepp DiverCity (TOKYO)にて開催いたしました、\nRAISE A SUILEN ZEPP TOUR 2024-2025「PANDEMONIUM」東京公...",
+          "link": "https://prtimes.jp/main/html/rd/p/000008343.000014827.html",
+          "publishedOn": "2025-01-19T14:00:00.000Z",
+          "wordCount": 2202,
+          "title": "RAISE A SUILEN ZEPP TOUR 2024-2025「PANDEMONIUM」東京公演 開催報告",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/14827/8343/14827-8343-00d7c563c7499a837ac9ea3b012fbc5f-1000x666.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001354.000011969.html",
+          "author": null,
+          "description": "[株式会社STARBASE]\n[画像1: https://prcdn.freetls.fastly.net/release_image/11969/1354/11969-1354-956838141dcb170d7812300c381e16ca-3900x2600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001354.000011969.html",
+          "publishedOn": "2025-01-19T13:57:17.000Z",
+          "wordCount": 1503,
+          "title": "MyM、初のファンミーテングを開催。ファンネームをAnM(アンマー)と発表!!!",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/11969/1354/11969-1354-956838141dcb170d7812300c381e16ca-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000083.000046391.html",
+          "author": null,
+          "description": "[オルグロー株式会社]\nオルグロー株式会社(本社：東京都渋谷区、代表取締役社長：南 永一)が提供する複数店舗あるGoogleビジネスプロフィールを一元管理するツール「MEO Analytics」がGoogleビジネスプロフィールのクチコミ投稿欄に、...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000083.000046391.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1511,
+          "title": "【複数店舗一括作成も可能】Googleビジネスプロフィールのクチコミ獲得を促進！”クチコミQRコード作成機能”追加のお知らせ",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/46391/83/46391-83-adb7a607af7a44bd514b90f9fa68874f-1066x864.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000170.000015189.html",
+          "author": null,
+          "description": "[株式会社マツリカ]\n次世代型営業DXプラットフォーム「Mazrica」と国内初のデジタルセールスルーム「DealPods」を開発・提供する株式会社マツリカ（本社：東京都中央区、代表取締役CEO：黒佐英司）は、一般財団法人日本情報経済社会...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000170.000015189.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1483,
+          "title": "次世代型営業DXプラットフォームを提供するマツリカ、プライバシーマーク（Pマーク）取得のお知らせ",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/15189/170/15189-170-d8e2e2c68e0f767e6509be7c8431c4e0-200x200.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000124.000041334.html",
+          "author": null,
+          "description": "[菱洋エレクトロ]\n　エレクトロニクス商社の菱洋エレクトロ株式会社（本社：東京都中央区、代表取締役社長執行役員：中村 守孝、以下「菱洋エレクトロ」）は、東海旅客鉄道株式会社（本社：愛知県名古屋市、代表取締役社長：丹羽 ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000124.000041334.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1511,
+          "title": "菱洋エレクトロ、ＪＲ東海の新幹線輸送業務にビジネスチャット「direct」の導入を一括支援",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/41334/124/41334-124-b779872081d702b5ce97190e5ea792fb-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000097.000091727.html",
+          "author": null,
+          "description": "[日鉄エンジニアリング株式会社]\n日鉄エンジニアリング株式会社（代表取締役社長：石倭行人、本社：東京都品川区、以下「当社」）の連結子会社であるTHAI NIPPON STEEL ENGINEERING & CONSTRUCTION CORPORATION, LTD.（代表取締役社長：渡辺...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000097.000091727.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1508,
+          "title": "TNSの取り組みを国際社会保障協会などがVISION ZEROとして認定",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/91727/97/91727-97-4a9d28125ddcddff56a44b12007adb7a-761x725.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000012.000144398.html",
+          "author": null,
+          "description": "[公益財団法人北九州観光コンベンション協会]\n＜中小企業テクノフェアin九州2025とは＞\n　『中小企業テクノフェアin九州2025』とは、福岡県北九州市小倉北区の西日本総合展示場で2025年7月2日(水)～4日(金)の3日間にわたり開催される中小企業の取引拡大を目的...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000012.000144398.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1505,
+          "title": "中小企業テクノフェアin九州2025　早期申込割引特典の締切迫る！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/144398/12/144398-12-28c001a78560ec578f9cd4453cbcc88e-1280x854.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000030.000105064.html",
+          "author": null,
+          "description": "[株式会社トランスコスモス・デジタル・テクノロジー]\n株式会社トランスコスモス・デジタル・テクノロジー（本社：神奈川県横浜市、代表取締役社長：所 年雄、以下 当社）は、株式会社Jストリーム（本社：東京都港区、代表取締役社長：石松 俊雄、以下 Jストリーム）...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000030.000105064.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1563,
+          "title": "Salesforce向けアプリ『Equipmedia 動画マーケティング for Salesforce』を開発",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/105064/30/105064-30-8939fccb849d5a67af938d6440dd6e98-1803x272.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000112.000056349.html",
+          "author": null,
+          "description": "[スパイラル株式会社]\nデジタルで未来最適をリードするスパイラル株式会社（東京都港区、代表取締役 CEO　佐谷 宣昭）は、金融機関向けオンラインセミナー「各種申込をWEB完結！本人確認システム導入で利便性向上を実現した事例紹介」...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000112.000056349.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1515,
+          "title": "2月6日（木）、18日（火）金融機関向けオンラインセミナー開催　各種申込をWEB完結！本人確認システム導入で利便性向上を実現した事例を紹介",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/56349/112/56349-112-b14d79ef48483df42a9f078bcebbd042-1920x600.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000590.000046783.html",
+          "author": null,
+          "description": "[日本IBM]\n材料化学向けのオープンソース基盤モデルは、半導体プロセス、クリーン・エネルギー、消費者向けパッケージングなどの分野における、サステナブルな新しい材料の発見を加速することを目指しています。\n\n米国環境...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000590.000046783.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1576,
+          "title": "IBM、材料発見のためのオープンなAIモデルを発表",
+          "imageUrl": "https://prtimes.jp/common/pc_v4/og.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000516.000026069.html",
+          "author": null,
+          "description": "[学校法人 瓜生山学園　京都芸術大学]\n学校法人瓜生山学園 京都芸術大学附属高等学校（京都市左京区／校長 鈴木克治）では、2025年4月に日本全国どこからでもオンラインで学習できる単位制・通信制の「じぶんみらい科」を新設。2025年度出願期間が2025...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000516.000026069.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1545,
+          "title": "日本全国どこからでもオンラインで学べる単位制・通信制高校！京都芸術大学附属高校「じぶんみらい科」の2025年4月入学の出願受付が始まりました！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/26069/516/26069-516-66e9d0a8520b274e22c35ce2f2a43783-1494x794.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000002.000148797.html",
+          "author": null,
+          "description": "[株式会社Peds3]\n[画像1: https://prcdn.freetls.fastly.net/release_image/148797/2/148797-2-49e18ecc1aabf4abf2bb4f134987c808-977x471.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000002.000148797.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1435,
+          "title": "株式会社Peds3、インパクトスタートアップ協会に第五期正会員として加盟",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/148797/2/148797-2-49e18ecc1aabf4abf2bb4f134987c808-977x471.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000001.000155594.html",
+          "author": null,
+          "description": "[Adalo, Inc]\nAdalo, Inc（本社：アメリカ合衆国 ミズーリ州、CEO：James Crennan、以下Adalo）は、2025年1月より、東京 港区に日本オフィスを設け、日本市場にAdaloの普及を目指します。すで日本市場では、多くのお客様にご利...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000155594.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1528,
+          "title": "ノーコードでアプリが構築できる「Adalo」が日本市場に注力開始！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/155594/1/155594-1-69f893726d9b65589f6e38701ed7bd99-1600x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000077.000114769.html",
+          "author": null,
+          "description": "[カサナレ株式会社]\nカサナレ株式会社（本社：東京都、代表取締役：安田喬一）は、2025年1月より株式会社三菱総合研究所が運営する「未来共創イニシアティブ（ICF）」に加入したことをお知らせいたします。この参加を通じて、生成AI...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000077.000114769.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1458,
+          "title": "カサナレ株式会社、三菱総合研究所が運営する「未来共創イニシアティブ（ICF）」加入のお知らせ",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/114769/77/114769-77-ee6a54894bfe66be6dcac7771fa2a85d-2000x1200.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000074.000031501.html",
+          "author": null,
+          "description": "[株式会社田中貴金属グループ]\n　田中貴金属の主要会社でめっき事業を展開するEEJA株式会社（本社：東京都中央区、代表取締役社長執行役員：道前 彰彦）は、2025年1月22日（水）～24日（金）に東京ビッグサイトで開催されるエレクトロニクス開...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000074.000031501.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1559,
+          "title": "田中貴金属のEEJA、「第39回ネプコン ジャパン」に出展",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/31501/74/31501-74-e6134174741c5b6717281569804281b7-2000x1125.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000001.000155325.html",
+          "author": null,
+          "description": "[Wandelic]\n[画像1: https://prcdn.freetls.fastly.net/release_image/155325/1/155325-1-418113fed64d34b555f26920a8787bc4-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000155325.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1483,
+          "title": "隠せる・見せられる、いつでも快適！受賞デザインのカバー付きペットスリングが日本で先行販売開始！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/155325/1/155325-1-418113fed64d34b555f26920a8787bc4-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000013.000149347.html",
+          "author": null,
+          "description": "[Leolana株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/149347/13/149347-13-67433bc7ecb5b7260f3c16ff0c55a93f-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000013.000149347.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1620,
+          "title": "【新年のご挨拶】グローバル恋愛マッチングNo.1「Kiseki」が目指す未来の恋愛への新たな一歩",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/149347/13/149347-13-67433bc7ecb5b7260f3c16ff0c55a93f-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000061.000003172.html",
+          "author": null,
+          "description": "[(株)大石アンドアソシエイツ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/3172/61/3172-61-6fe60baea1729fa77082c86783be332e-1620x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000061.000003172.html",
+          "publishedOn": "2025-01-19T13:40:02.000Z",
+          "wordCount": 1554,
+          "title": "Cores（コレス）「フリータイムケトル」無料サンプリングを実施導入いただける飲食店やカフェを大募集！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/3172/61/3172-61-6fe60baea1729fa77082c86783be332e-1620x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000003373.000011710.html",
+          "author": null,
+          "description": "[ぴあ株式会社]\nSNSの総フォロワー数が200万を超えるアーティスト、澤村光彩の2nd LIVE『Screen Destruction』が、1月19日に未来型ライブ劇場harevutaiにて開催。前公演からキャパシティーを倍にしたにも関わらず、チケットは即...",
+          "link": "https://prtimes.jp/main/html/rd/p/000003373.000011710.html",
+          "publishedOn": "2025-01-19T13:11:35.000Z",
+          "wordCount": 1492,
+          "title": "澤村光彩（きらり）『Screen Destruction』レポート",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/11710/3373/11710-3373-d334b1d63d79fae814df83c2e1844f6d-1500x999.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000016.000150655.html",
+          "author": null,
+          "description": "[特定非営利活動法人くるくるネット]\n北海道室蘭市を拠点とする特定非営利活動法人くるくるネットが運営するクルハウスの就労継続支援B型事業で、新たにオリジナルキーホルダーと3Dプリンタ作品の製作・販売がスタートします。このプロジェクトは、利...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000016.000150655.html",
+          "publishedOn": "2025-01-19T13:09:55.000Z",
+          "wordCount": 1443,
+          "title": "クルハウスの新しい挑戦：キーホルダーと3Dプリンタ作品で地域に笑顔を届ける",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/150655/16/150655-16-fc7c47dea592b7fae9eb34022145c109-620x827.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000042.000071410.html",
+          "author": null,
+          "description": "[株式会社ポケットペア]\n　株式会社ポケットペア（東京都品川区、代表取締役社長：溝部拓郎）は、モンスター育成オープンワールドサバイバルクラフトゲーム『Palworld / パルワールド』（2024年1月19日アーリーアクセス開始）の１周年記...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000042.000071410.html",
+          "publishedOn": "2025-01-19T13:00:00.000Z",
+          "wordCount": 1669,
+          "title": "『Palworld / パルワールド』１周年記念！今後のロードマップを公開！パル全世界人気投票や記念グッズ発売など、さまざまな企画を実施！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/71410/42/71410-42-7c6541ed234d1a0d469166a4b0c3ed9b-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000003091.000018505.html",
+          "author": null,
+          "description": "[株式会社マッシュホールディングス]\n株式会社マッシュビューティーラボ(本社 東京都千代田区/代表取締役社長 豊山YAMU陽子)が運営する　ナチュラル＆オーガニックコスメのセレクトショップ「Cosme Kitchen」および「Biople」にて取り扱うニュージー...",
+          "link": "https://prtimes.jp/main/html/rd/p/000003091.000018505.html",
+          "publishedOn": "2025-01-19T12:40:01.000Z",
+          "wordCount": 1550,
+          "title": "【trilogy<トリロジー＞】新感覚の仕上がり！じゅわっと内側からあふれる、全方位多幸感肌へ導く、ブランドオリジナル成分「ロザピン(TM)︎」配合の2層式シートマスクが日本上陸！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/18505/3091/18505-3091-d201e6dc44d77ca40d71d3b36bd08d0e-2858x1905.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000135.000017442.html",
+          "author": null,
+          "description": "[株式会社インフラトップ]\n株式会社インフラトップ（本社：東京都港区、代表：磯本昇汰　https://infratop.jp/）は、地方自治体のDX推進を加速させるため、1月16日より山口県田布施町で職員向けグループワーク型DX研修を実施します。幅広い...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000135.000017442.html",
+          "publishedOn": "2025-01-19T12:40:01.000Z",
+          "wordCount": 1597,
+          "title": "【山口県田布施町×DMM WEBCAMP】住民サービスに積極活用の田布施町で初の職員向けDX研修導入",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/17442/135/17442-135-b533c64b7f837721b353eff7f09fc621-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000115.000078861.html",
+          "author": null,
+          "description": "[SPACECOOL株式会社]\n宇宙に熱を放射しゼロエネルギーの冷却を実現する放射冷却素材「SPACECOOL」の開発・販売を行うSPACECOOL株式会社（本社：東京都港区、代表取締役CEO：末光 真大、以下「当社」）はこの度、「社会課題の解決」と...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000115.000078861.html",
+          "publishedOn": "2025-01-19T12:40:01.000Z",
+          "wordCount": 1412,
+          "title": "SPACECOOLがポジティブな影響を社会にもたらすことを目指す「インパクトスタートアップ協会（ISA）」の第五期正会員として加盟",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/78861/115/78861-115-ef188f61a3e7496f8b0c13c4d378a9a5-756x423.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000010.000088305.html",
+          "author": null,
+          "description": "[株式会社クライシスインテリジェンス]\n[画像1: https://prcdn.freetls.fastly.net/release_image/88305/10/88305-10-310ab69d72ffc395e78bb7fc6e552ee9-2363x859.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000010.000088305.html",
+          "publishedOn": "2025-01-19T12:40:01.000Z",
+          "wordCount": 1733,
+          "title": "【登壇者が決定！】NSBT Japan Innovative Tour",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/88305/10/88305-10-310ab69d72ffc395e78bb7fc6e552ee9-2363x859.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000005.000100567.html",
+          "author": null,
+          "description": "[サイオステクノロジー株式会社]\nサイオステクノロジー株式会社（本社：東京都港区、代表取締役社長：喜多伸夫、以下、サイオステクノロジー）は、フリーアドレス座席管理システム「YourDesk」で会議室の予約・管理を行う「会議室予約機能」を本...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000005.000100567.html",
+          "publishedOn": "2025-01-19T12:40:01.000Z",
+          "wordCount": 1491,
+          "title": "サイオステクノロジー、オフィスのDXを推進するアプリケーション「YourDesk」に「会議室予約機能」を追加",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/100567/5/100567-5-daa49e4211a8b725f85f519ff70e8153-556x268.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000189.000100533.html",
+          "author": null,
+          "description": "[堺市役所]\n公益財団法人2025年日本国際博覧協会において、大阪・関西万博の開催に向けて、万博のテーマである「いのち輝く未来社会のデザイン」を実現し、SDGsの達成に貢献するため、多様な参加者が主体となり、理想とした...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000189.000100533.html",
+          "publishedOn": "2025-01-19T12:40:01.000Z",
+          "wordCount": 1493,
+          "title": "株式会社さかい新事業創造センター（S-Cube）が大阪・関西万博「TEAM EXPO 2025」プログラムに参画します",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/100533/189/100533-189-850cc25962030cd73ca95f7558dd03b8-668x310.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000319.000032743.html",
+          "author": null,
+          "description": "[エル・ティー・エス]\n株式会社エル・ティー・エスの完全子会社である株式会社エル・ティー・エス リンク(本社：東京都港区、代表取締役社長：高倉 敏行／以下、LTSリンク)が提供するITビジネスマッチングサービス「アサインナビ」は、...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000319.000032743.html",
+          "publishedOn": "2025-01-19T12:40:01.000Z",
+          "wordCount": 1490,
+          "title": "人材市況動向レポート（2024年12月）：人材数は前月から減少｜コンサル領域「戦略」「IT」において特に人材数が減少しました。",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/32743/319/32743-319-fafb9019286b22806bd3f24ee2d159eb-901x301.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000293.000045710.html",
+          "author": null,
+          "description": "[株式会社ダイヤモンド社]\n　35万部突破のベストセラー『限りある時間の使い方』著者オリバー・バークマン絶賛！ウェルビーイング研究の第一人者による著書『Master of Change 変わりつづける人』（ブラッド・スタルバーグ著、福井久美子 ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000293.000045710.html",
+          "publishedOn": "2025-01-19T12:40:01.000Z",
+          "wordCount": 1528,
+          "title": "【全米ベストセラー】人は平均36回、人生の転機を迎える！『Master of Change 変わりつづける人』1月15日発売",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/45710/293/45710-293-f1c0f975044e0eec9d18c341cd7d9072-1000x1446.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000002.000155170.html",
+          "author": null,
+          "description": "[Movin Car Care GoGo's]\n[画像1: https://prcdn.freetls.fastly.net/release_image/155170/2/155170-2-f37ac42400277f28734f3a3d88ca553a-3000x1861.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000002.000155170.html",
+          "publishedOn": "2025-01-19T12:40:01.000Z",
+          "wordCount": 1732,
+          "title": "駐車場で洗車が完了！ 訪問型手洗い洗車サービス『SUPER LIVE WASH』が本格始動！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/155170/2/155170-2-f37ac42400277f28734f3a3d88ca553a-3000x1861.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000015.000150655.html",
+          "author": null,
+          "description": "[特定非営利活動法人くるくるネット]\n特定非営利活動法人くるくるネットが主催する地域交流イベント「第10回クルハウスまつり」が、2025年2月22日（土）に北海道室蘭市のクルハウスで開催されます。本イベントは、子どもから大人まで幅広い世代が楽し...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000015.000150655.html",
+          "publishedOn": "2025-01-19T12:36:04.000Z",
+          "wordCount": 1409,
+          "title": "【プレスリリース】第10回クルハウスまつりを開催！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/150655/15/150655-15-5404d2cdd82f9e5dd1a147afbe2dcd2c-1241x1755.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000115.000084467.html",
+          "author": null,
+          "description": "[株式会社鏑木教育コンサルティング]\n[画像1: https://prcdn.freetls.fastly.net/release_image/84467/115/84467-115-7ba4578223a9d88e1728fd88def5c9d4-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000115.000084467.html",
+          "publishedOn": "2025-01-19T11:30:00.000Z",
+          "wordCount": 1578,
+          "title": "中華街で海外の方に英語を使ってインタビュー！GLIのフィールドトリップで、実際に英語を話す経験をしよう！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/84467/115/84467-115-7ba4578223a9d88e1728fd88def5c9d4-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000042.000035825.html",
+          "author": null,
+          "description": "[株式会社ZERO EDUCATION&ARTS]\nゼロ高等学院は、2025年2月9日（日）に日本科学未来館にてゼロ高最大の祭典「ZERO-1 EXPO 2025」を開催いたします。ゼロ高が掲げる「将来の夢なんか、いま叶えろ」を実践する活動の場として、全国にいるゼロ高生...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000042.000035825.html",
+          "publishedOn": "2025-01-19T11:18:33.000Z",
+          "wordCount": 1539,
+          "title": "ゼロ高が2/9（日）「ZERO-1 EXPO 2025（ゼロワンエキスポ）」をに開催！ホリエモンや豪華ゲストも参加！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/35825/42/35825-42-e92466597975f7a60a48ae60ff2c07c4-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000053.000078155.html",
+          "author": null,
+          "description": "[アナログ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/78155/53/78155-53-e9082d4bc39563db560f1fe5e8a171d8-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000053.000078155.html",
+          "publishedOn": "2025-01-19T11:16:21.000Z",
+          "wordCount": 1528,
+          "title": "【VTuber天海くりね】3D化クラウドファンディング開始13分で目標額の250万円を達成！【ハコネクト】",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/78155/53/78155-53-e9082d4bc39563db560f1fe5e8a171d8-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000016193.000007006.html",
+          "author": null,
+          "description": "[株式会社KADOKAWA]\n株式会社KADOKAWA（取締役 代表執行役社長 CEO：夏野剛、本社：東京都千代田区、以下KADOKAWA）は、2025年3月19日（水）に書籍『赤誠』を発行いたします。本書は、ニコニコ動画やYouTubeなど動画の総再生回数が2...",
+          "link": "https://prtimes.jp/main/html/rd/p/000016193.000007006.html",
+          "publishedOn": "2025-01-19T11:00:00.000Z",
+          "wordCount": 1578,
+          "title": "動画の総再生回数2億回超！　歌い手界のトップランナー“あらき”初フォトエッセイ刊行",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/7006/16193/7006-16193-2a59fc239bb83d322b0517834b37e2b8-885x1300.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000302.000059399.html",
+          "author": null,
+          "description": "[株式会社STPR]\n株式会社STPR (本社：東京都渋谷区　以下STPR)所属の2.5次元歌い手アイドルグループ「めておら - Meteorites -」の新曲『プライド』のMusic Videoを公開したことをお知らせいたします。\n[画像1: https://prcdn.fr...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000302.000059399.html",
+          "publishedOn": "2025-01-19T11:00:00.000Z",
+          "wordCount": 1716,
+          "title": "道は自分で切り開く。前を向けば、どんな壁も越えられると思わせられる新曲。2.5次元歌い手アイドルグループ「めておら - Meteorites -」による新曲『プライド』Music Video公開！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/59399/302/59399-302-7fb4935f85b8668df733388a7c4afa57-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000052.000078155.html",
+          "author": null,
+          "description": "[アナログ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/78155/52/78155-52-71719e4e5b0be13f0eeff4a7c871104e-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000052.000078155.html",
+          "publishedOn": "2025-01-19T11:00:00.000Z",
+          "wordCount": 1543,
+          "title": "VTuber事務所ハコネクトが「天海くりね」の３Dモデル制作プロジェクトのクラウドファンディングを開始！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/78155/52/78155-52-71719e4e5b0be13f0eeff4a7c871104e-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000005.000129477.html",
+          "author": null,
+          "description": "[株式会社ＭＥリゾート黒姫]\n[画像1: https://prcdn.freetls.fastly.net/release_image/129477/5/129477-5-2697960d560df7aa01637e706f2a2893-1755x1241.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000005.000129477.html",
+          "publishedOn": "2025-01-19T10:50:00.000Z",
+          "wordCount": 1510,
+          "title": "ゲレンデ徒歩0分！犬と泊まれるサイト【 Doggo Village 】が黒姫高原スノーパーク「SnowDogAREA」内にオープン！！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/129477/5/129477-5-cad8ed827f1befbba500ed54951ac70d-2269x2269.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000897.000074768.html",
+          "author": null,
+          "description": "[株式会社レンサ]\n株式会社レンサ（本社：東京都渋谷区、代表取締役：武井哲也）は、2025年1月17日（金）より、運営する公式占いサイト「大串ノリコの占い」にて『2025年開運キャンペーン』の提供を開始いたしました。\n\n『大串ノリ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000897.000074768.html",
+          "publishedOn": "2025-01-19T10:00:00.000Z",
+          "wordCount": 1501,
+          "title": "2025年の運勢｜突然ですが占ってもいいですか？大串ノリコが占う、あなたの2025年の運勢。公式サイトにて、特別開運画像がもらえる「2025年開運キャンペーン」を開催中",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/74768/897/74768-897-f68f358cc6d889538d0b3a79375fc59f-640x250.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001289.000017372.html",
+          "author": null,
+          "description": "[SKIYAKI]\nクリエイターとファンをつなぐプラットフォームを創造する株式会社SKIYAKI（本社：東京都渋谷区、代表取締役：小久保知洋、以下「SKIYAKI」）は、2025年1月19日（日）に星名美怜のオフィシャルサイトおよびファン...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001289.000017372.html",
+          "publishedOn": "2025-01-19T10:00:00.000Z",
+          "wordCount": 1561,
+          "title": "「Bitfan」にて、タレント・星名美怜のオフィシャルサイト兼ファンクラブをオープン！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/17372/1289/17372-1289-3368374619de4f18b1a20ef076b23e58-1440x960.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000090.000088517.html",
+          "author": null,
+          "description": "[株式会社フォーチュンエンターテイメント]\n[画像1: https://prcdn.freetls.fastly.net/release_image/88517/90/88517-90-8ec86956482da6283fe3cf376859c3fa-1667x1667.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000090.000088517.html",
+          "publishedOn": "2025-01-19T10:00:00.000Z",
+          "wordCount": 1579,
+          "title": "“カラダイ”ことカラフルダイヤモンドの3rdシングル『キミジェニック』MVティザー公開！　第2弾のカップリングは、『ぷりーず☆カプチーノ』",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/88517/90/88517-90-8ec86956482da6283fe3cf376859c3fa-1667x1667.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000896.000074768.html",
+          "author": null,
+          "description": "[株式会社レンサ]\n株式会社レンサ（本社：東京都渋谷区、代表取締役：武井哲也）は、2025年1月17日（金）より、運営する公式占いサイト『木下レオンの占い』にて、「2025年新春開運キャンペーン」の提供を開始いたしました。\n\n◆『...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000896.000074768.html",
+          "publishedOn": "2025-01-19T09:00:00.000Z",
+          "wordCount": 1525,
+          "title": "2025年の運勢│【突然ですが占ってもいいですか】木下レオンが占う、あなたの運勢と開運。公式占いサイトにて「2025年新春開運キャンペーン」が開催中",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/74768/896/74768-896-7994477564b6806ca7cf3930f04e55dc-640x250.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000099.000091783.html",
+          "author": null,
+          "description": "[株式会社ハシートップイン / Hashy]\n[画像1: https://prcdn.freetls.fastly.net/release_image/91783/99/91783-99-e36d07151752909b051247a71601d3bb-800x800.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000099.000091783.html",
+          "publishedOn": "2025-01-19T09:00:00.000Z",
+          "wordCount": 1531,
+          "title": "心斎橋PARCO 6階「SATELLITE 心斎橋店」にて『AKEDO』ポップアップストアが2月21日(金)より開催！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/91783/99/91783-99-e36d07151752909b051247a71601d3bb-800x800.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000012.000140220.html",
+          "author": null,
+          "description": "[株式会社フィアレス]\n2025年の幕開けを飾るにふさわしい、力強いROCKナンバーが登場！\nLustQueenが新曲「FLAG」を1月31日にデジタルリリースします。\n結那の放つ高らかな歌声と共に、シンプルで心に響くメッセージを届けるこの楽曲は...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000012.000140220.html",
+          "publishedOn": "2025-01-19T09:00:00.000Z",
+          "wordCount": 1540,
+          "title": "LustQueenが新曲「FLAG」をデジタルリリース！ROCK感溢れる応援アンセムは1/31（金）より配信スタート！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/140220/12/140220-12-33ed0c2ce1a126212e2ec9e94a3a64c8-3900x3900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001428.000006302.html",
+          "author": null,
+          "description": "[H1GLOBAL株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/6302/1428/6302-1428-b6affa202f6544fb50af6cfc0a139f9f-900x500.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001428.000006302.html",
+          "publishedOn": "2025-01-19T08:30:00.000Z",
+          "wordCount": 1631,
+          "title": "【今だけ特典】「バースデイオーダーブレスレット」第2守護石交換で、マルラニハワイロゴ入りオリジナルポーチをプレゼント！【ハワイ発・マルラニハワイ】",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/6302/1428/6302-1428-b6affa202f6544fb50af6cfc0a139f9f-900x500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000061.000136906.html",
+          "author": null,
+          "description": "[株式会社STU]\n[画像1: https://prcdn.freetls.fastly.net/release_image/136906/61/136906-61-276f39cd469b40f920b1f2cd231b223f-2880x1800.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000061.000136906.html",
+          "publishedOn": "2025-01-19T08:07:30.000Z",
+          "wordCount": 1803,
+          "title": "STU48 11thシングル「地平線を見ているか？」リリースイベントをラゾーナ川崎プラザで開催！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/136906/61/136906-61-276f39cd469b40f920b1f2cd231b223f-2880x1800.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000028.000036241.html",
+          "author": null,
+          "description": "[横浜エクセレンス]\n[画像1: https://prcdn.freetls.fastly.net/release_image/36241/28/36241-28-0f194e2d7991fcae6b0b9922a290d440-3840x2160.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000028.000036241.html",
+          "publishedOn": "2025-01-19T08:00:00.000Z",
+          "wordCount": 1749,
+          "title": "【横浜エクセレンス】-「B3リーグ レギュラーシーズン 2024-25」第17節 香川ファイブアローズ戦 試合結果のお知らせ- ゲーム差2で迎えた首位攻防戦を終えて首位キープ！！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/36241/28/36241-28-0f194e2d7991fcae6b0b9922a290d440-3840x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000002.000155711.html",
+          "author": null,
+          "description": "[クッキングサロンベル]\nクッキングサロンベルは、料理や学習支援を行う企業でございます。当社は最新のプログラムを発表し、初心者から上級者まで、幅広いニーズに応じた充実したコースを取り揃えております。これにより、料理スキルの...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000002.000155711.html",
+          "publishedOn": "2025-01-19T07:40:02.000Z",
+          "wordCount": 1419,
+          "title": "クッキングサロンベルが新たなプログラムを導入します。すべてのユーザー様に最適な料理学習の場を提供いたします。",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/155711/2/155711-2-321cbda72489a0c27fbc621b5ffb4337-1530x1828.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000056.000087569.html",
+          "author": null,
+          "description": "[特定非営利活動法人チームふくしま]\n[画像: https://prcdn.freetls.fastly.net/release_image/87569/56/87569-56-2b7572db2ac0da97d7be0ace6dbb5297-2000x1414.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000056.000087569.html",
+          "publishedOn": "2025-01-19T07:40:02.000Z",
+          "wordCount": 1516,
+          "title": "【防災減災に向けた日本初ライセンス】ひまわり防災検定3級　1,000人突破",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/87569/56/87569-56-2b7572db2ac0da97d7be0ace6dbb5297-2000x1414.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000044.000139472.html",
+          "author": null,
+          "description": "[株式会社Recept]\n[画像1: https://prcdn.freetls.fastly.net/release_image/139472/44/139472-44-2044120f2241fde9f36b66e0c9deabd3-920x450.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000044.000139472.html",
+          "publishedOn": "2025-01-19T06:15:02.000Z",
+          "wordCount": 1465,
+          "title": "【初の夕刻開催！】DID/VCウェビナーを2/4(火)に開催いたします",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/139472/44/139472-44-2044120f2241fde9f36b66e0c9deabd3-920x450.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001382.000019483.html",
+          "author": null,
+          "description": "[野口観光マネジメント株式会社]\n野口観光マネジメント株式会社 札幌・定山渓温泉 章月グランドホテル\n（北海道札幌市南区定山渓温泉東3-239/支配人 村田 初美/客室数50室）\n夜の時間帯にラウンジにてお酒を飲みたいというお客様からのご要望にお...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001382.000019483.html",
+          "publishedOn": "2025-01-19T05:15:02.000Z",
+          "wordCount": 1426,
+          "title": "【札幌・定山渓温泉 章月グランドホテル】夜のラウンジ新サービス登場。インフュージョン(漬け込み酒)をご用意。",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/19483/1382/19483-1382-7cf6d504bdc814e3f652373a1e7e9bf1-828x620.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000008.000134485.html",
+          "author": null,
+          "description": "[一般社団法人企業価値調査機構]\n[画像1: https://prcdn.freetls.fastly.net/release_image/134485/8/134485-8-c7333a7e65f8f4abbd63d07e3f38af64-2372x1283.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000008.000134485.html",
+          "publishedOn": "2025-01-19T05:15:02.000Z",
+          "wordCount": 1459,
+          "title": "2025年度\"成長環境提供企業認証\" 審査項目開示のお知らせ",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/134485/8/134485-8-c7333a7e65f8f4abbd63d07e3f38af64-2372x1283.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001520.000004237.html",
+          "author": null,
+          "description": "[DONUTS]\n日向坂46キャプテン佐々木久美さんがついに1st写真集(タイトル未定/DONUTS)を発売することが決定し、早くも話題になっています。そんな佐々木久美さんが、彼女の誕生日当日となる2025年1月22日(水)20:00から、写...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001520.000004237.html",
+          "publishedOn": "2025-01-19T05:15:02.000Z",
+          "wordCount": 1582,
+          "title": "1月22日(水)佐々木久美誕生日記念YouTube生配信が決定『日向坂46・佐々木久美1st写真集』※タイトル未定　配信日予約限定特典ポスター付き",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/4237/1520/4237-1520-95814080d3eb36f317932cff6293dd66-1797x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000005.000074147.html",
+          "author": null,
+          "description": "[078KOBE実行委員会]\n 3D SOUNDクリエイター 瀬戸勝之による一夜限りの立体音響空間を神戸で ！\n1月25日 (土)\n16:30- プレゼンテーション 　／ 　完全招待制\n19:30- ライブ 　  ／ 　20名限定チケット販売\n\n私達 music2.0 は、テクノ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000005.000074147.html",
+          "publishedOn": "2025-01-19T04:40:02.000Z",
+          "wordCount": 1623,
+          "title": "music 2.0　3D MUSIC EXHIBITION",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/74147/5/74147-5-86470dce35920ef7a0ff6060b6911180-1176x1176.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000006.000154965.html",
+          "author": null,
+          "description": "[株式会社EYEZEN]\n2025年2月15日（土）、Zepp Namba（大阪）にて、特別な音楽イベント 「Music Chocolate Festival.2025」 が開催されます。\n6組の注目アーティストたちが一堂に会するスペシャルイベントが、Zepp Nambaで開催決定...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000006.000154965.html",
+          "publishedOn": "2025-01-19T04:40:02.000Z",
+          "wordCount": 1665,
+          "title": "出演者コメント動画あり！！【WOOAH、UNICODE、２FACE】6組の次世代ガールズグループが大阪のZepp Nambaに大集結！！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/154965/6/154965-6-2201476af4f2133b5cc54f736826ee2e-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000004427.000013546.html",
+          "author": null,
+          "description": "[株式会社ソニー・ミュージックレーベルズ]\n[画像: https://prcdn.freetls.fastly.net/release_image/13546/4427/13546-4427-deafd12e5b19898d0934e24909896ac9-1080x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+          "link": "https://prtimes.jp/main/html/rd/p/000004427.000013546.html",
+          "publishedOn": "2025-01-19T04:40:02.000Z",
+          "wordCount": 1686,
+          "title": "【BMSG×ちゃんみな】ガールズグループオーディション『No No Girls』より誕生した7人組ガールズグループ・HANA　プレデビュー曲「Drop」のリリース日が1月31日(金)に決定！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/13546/4427/13546-4427-deafd12e5b19898d0934e24909896ac9-1080x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000000048.000116862.html",
           "author": null,
           "description": "[株式会社フロンティアグループ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/116862/48/116862-48-a62287e5091e8d12b6520d8a9c93ae49-1451x816.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
@@ -466,6 +1326,46 @@
           "imageUrl": "https://prtimes.jp/common/pc_v4/og.png"
         },
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000067.000049789.html",
+          "author": null,
+          "description": "[C-RISE]\n株式会社C-RISE（本社：富山県高岡市、代表取締役：村井）は、クラウド型RPAサービス「クラウドBOT(R)」において、メール受信をトリガーとしたBOT実行機能の提供を開始しました。\n　クラウドBOT(R)は、Webブラウ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000067.000049789.html",
+          "publishedOn": "2025-01-18T07:40:01.000Z",
+          "wordCount": 1529,
+          "title": "クラウドBOTがメールによるRPA実行に対応。【クラウド型RPA】",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/49789/67/49789-67-b8678b6ae1bdd4375ef5139266a8cc02-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000005.000145335.html",
+          "author": null,
+          "description": "[株式会社FURAI]\n[画像1: https://prcdn.freetls.fastly.net/release_image/145335/5/145335-5-a4fd28086baf1173708237b58bbd9fef-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000005.000145335.html",
+          "publishedOn": "2025-01-18T07:40:01.000Z",
+          "wordCount": 1501,
+          "title": "Web3ゲームに特化したeスポーツチーム「FR」を運営する株式会社FURAI、ゲーミングPCブランド 「GALLERIA」を展開する株式会社サードウェーブからシードラウンドで資金調達を実施",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/145335/5/145335-5-a4fd28086baf1173708237b58bbd9fef-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000349.000076057.html",
+          "author": null,
+          "description": "[三菱UFJキャピタル株式会社]\n三菱UFJキャピタル株式会社（本社：東京都中央区、代表取締役　小島 拓朗）は、当社が運営するファンド（三菱UFJキャピタル9号投資事業有限責任組合）より、ダイヤモンド半導体デバイスの研究開発を行う株式会社P...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000349.000076057.html",
+          "publishedOn": "2025-01-18T07:40:01.000Z",
+          "wordCount": 1498,
+          "title": "ダイヤモンド半導体デバイスの研究開発を行う株式会社Power Diamond Systemsに追加出資",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/76057/349/76057-349-feb1ccdeab45d8a283a78b57fd8bf2bc-1040x545.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000001.000150382.html",
+          "author": null,
+          "description": "[株式会社ハーモニー]\n[画像1: https://prcdn.freetls.fastly.net/release_image/150382/1/150382-1-256a29b81a644157ced4d5623dcf2be7-3360x2240.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000150382.html",
+          "publishedOn": "2025-01-18T07:40:01.000Z",
+          "wordCount": 1577,
+          "title": "【デンタルフィットネス】歯科医院の経営の安定・収益改善したい院長へ　１日で学べる予防歯科経営講座！ 1/30名古屋で開催",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/150382/1/150382-1-256a29b81a644157ced4d5623dcf2be7-3360x2240.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000000037.000131307.html",
           "author": null,
           "description": "[株式会社LDcube]\n[画像1: https://prcdn.freetls.fastly.net/release_image/131307/37/131307-37-a1fe41af6f156b6d058736e35d5b0055-1280x720.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
@@ -676,6 +1576,246 @@
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/25186/153/25186-153-5b89ef122576af0756bcbdf6af50ae97-315x146.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000086.000064613.html",
+          "author": null,
+          "description": "[アイブリッジ株式会社]\n全国1,300万人の調査モニターへ500円からネットリサーチが行えるセルフ型アンケートツール“Freeasy（フリージー）”を展開するアイブリッジ株式会社（本社：大阪市福島区、代表取締役社長：荒川和也）は、『Freeas...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000086.000064613.html",
+          "publishedOn": "2025-01-18T06:40:01.000Z",
+          "wordCount": 1525,
+          "title": "アンケート調査の基本的なレポートの書き方を学ぶ！2月13日(木)17時～「定量調査編」を開催！【無料オンラインセミナー】",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/64613/86/64613-86-f680d69adc53333afa9c68e48c5dcfc4-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000574.000014079.html",
+          "author": null,
+          "description": "[J SPORTS]\nスポーツテレビ局、株式会社ジェイ・スポーツ(本社　東京都江東区、代表取締役社長　長谷 一郎、以下「J SPORTS」 ※1)は、国際大会から国内の学生大会までを圧倒的ボリュームでお届けするフィギュアスケート（202...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000574.000014079.html",
+          "publishedOn": "2025-01-18T06:40:01.000Z",
+          "wordCount": 1683,
+          "title": "国際大会から国内の学生大会まで、華麗なる氷上決戦を徹底放送/配信!",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/14079/574/14079-574-4d1bef9f532c8fdb7d12bb12365a46b1-1440x810.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000100.000137297.html",
+          "author": null,
+          "description": "[ヤマトヒューマンキャピタル株式会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/137297/100/137297-100-233737c50a9cd4051e5876f304d91b69-1024x538.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000100.000137297.html",
+          "publishedOn": "2025-01-18T06:40:01.000Z",
+          "wordCount": 1461,
+          "title": "【1/24開催】挑戦したい銀行・商社出身者必見！地球資源を守る巨大ビジネスに挑む？！社会貢献×キャリアアップの機会をつかめ！│バイウィル× ヤマトヒューマンキャピタル",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/137297/100/137297-100-233737c50a9cd4051e5876f304d91b69-1024x538.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000100.000012092.html",
+          "author": null,
+          "description": "[株式会社バケット]\nみんなで育てるIPプロジェクト「CNP（CryptoNinja Partners）」を運営する株式会社バケットは、Web3時代におけるトークンプラットフォーム「FiNANCiE」にて、ミームトークン「開運オロチトークン」を新たに発行す...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000100.000012092.html",
+          "publishedOn": "2025-01-18T06:40:01.000Z",
+          "wordCount": 1622,
+          "title": "CNP、FiNANCiEにてミームトークン「開運オロチトークン」発行",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/12092/100/12092-100-f02fee0a38c76f2822ff281bd4c12e77-1280x670.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000067.000089303.html",
+          "author": null,
+          "description": "[株式会社ウィルズ]\n　投資家と上場企業を結ぶIR支援カンパニーである株式会社ウィルズ（本社：東京都港区、代表取締役社長：杉本 光生、以下「ウィルズ」）が提供するポイント制株主優待と株主情報の電子化サービスを融合させたデジ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000067.000089303.html",
+          "publishedOn": "2025-01-18T06:40:01.000Z",
+          "wordCount": 1509,
+          "title": "株式会社大本組　「プレミアム優待倶楽部」を活用した株主優待制度を新設",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/89303/67/89303-67-d41a373098d0c1509e0b2dfb58157d35-539x153.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000215.000120285.html",
+          "author": null,
+          "description": "[三菱電機株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/120285/215/120285-215-9467be8fd3605bf06a31ced401f9fa73-1500x1125.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000215.000120285.html",
+          "publishedOn": "2025-01-18T06:40:01.000Z",
+          "wordCount": 1557,
+          "title": "共創空間「Serendie Street Yokohama」が完成",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/120285/215/120285-215-9467be8fd3605bf06a31ced401f9fa73-1500x1125.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000342.000037450.html",
+          "author": null,
+          "description": "[ビットトレード株式会社]\nビットトレード株式会社（所在地：東京都港区、代表取締役社長：関 磊、以下「ビットトレード」）は、1月20日（月）より新年おみくじルーレットキャンペーンを実施いたします。\n\n[画像1: https://prcdn.freetls.f...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000342.000037450.html",
+          "publishedOn": "2025-01-18T06:40:01.000Z",
+          "wordCount": 1506,
+          "title": "ビットトレード、77,777円相当のBTCが当たる！新年おみくじルーレットキャンペーン実施",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/37450/342/37450-342-14a99690df7c53e897e86b9613a6b5de-2400x1256.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000002010.000031422.html",
+          "author": null,
+          "description": "[株式会社ハピネット]\n[画像1: https://prcdn.freetls.fastly.net/release_image/31422/2010/31422-2010-888386a38853375ce5a8214491abb2c8-1523x2162.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
+          "link": "https://prtimes.jp/main/html/rd/p/000002010.000031422.html",
+          "publishedOn": "2025-01-18T06:40:01.000Z",
+          "wordCount": 1506,
+          "title": "韓国ドラマ「輝くウォーターメロン～僕らをつなぐ恋うた～」DVD-BOX１.２.4/25（金）発売決定！レンタル同日リリース！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/31422/2010/31422-2010-888386a38853375ce5a8214491abb2c8-1523x2162.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000047.000014739.html",
+          "author": null,
+          "description": "[ブレインズテクノロジー]\nブレインズテクノロジー株式会社（本社：東京都港区、代表取締役：濱中佐和子、以下：当社）は、AI異常検知ソリューション「Impulse」に、AIが判定に混同する学習データを可視化する新機能をリリースします。この...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000047.000014739.html",
+          "publishedOn": "2025-01-18T06:40:01.000Z",
+          "wordCount": 1490,
+          "title": "AI異常検知ソリューション「Impulse」、外観検査の精度改善機能をリリース",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/14739/47/14739-47-ade8b15fdc91a5654edb89bcb3ad9bd6-1078x610.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000253.000020367.html",
+          "author": null,
+          "description": "[株式会社FOR YOU]\n広告と芸能のハイブリッドエージェンシーとして、デジタルやソーシャル領域強みとした総合広告事業と、タレント事務所事業をおこなう株式会社FOR YOU（本社：東京都渋谷区、代表取締役：野田爽介、以下「FOR YOU...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000253.000020367.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1552,
+          "title": "FOR YOU、俳優に特化したレーベル『KYO』を設立",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/20367/253/20367-253-3608f42c3f257f88ba1ec3e033eb76dd-1920x1920.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000009.000122222.html",
+          "author": null,
+          "description": "[FiLL'sホールディングス株式会社]\nFiLL'sホールディングス株式会社（所在地：東京都新宿区 / 代表：湯浅 晃平）は、2025年2月1日、渋谷の真ん中、宇田川町のビル1階（東京都渋谷区宇田川町12-7渋谷エメラルドビル1F）に、カフェ＆イベントスペース...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000009.000122222.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1517,
+          "title": "渋谷の中心に「能楽堂」!? ポップアップができるカフェ＆イベントスペース『SHIBUYA XXI』2025年2月1日プレオープン！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/122222/9/122222-9-c66fdc9cf5278157472916efac2bfd3c-554x382.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000105.000026782.html",
+          "author": null,
+          "description": "[playground 株式会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/26782/105/26782-105-b91362c9b9020abb483734e2b511b34a-1256x674.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000105.000026782.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1618,
+          "title": "ライブイベントにおけるチケット不正転売防止・業務効率化等に、マイナンバーカードを活用する実証実験へ技術提供事業者として協力します",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/26782/105/26782-105-b91362c9b9020abb483734e2b511b34a-1256x674.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000168.000040203.html",
+          "author": null,
+          "description": "[株式会社ビットキー]\n株式会社ビットキー（本社：東京都中央区、代表取締役社長 CEO：寳槻 昌則、以下「ビットキー」）は、西日本鉄道株式会社（本社：福岡市博多区、代表取締役社長執行役員：林田 浩一、以下「西鉄」）が「天神ビッ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000168.000040203.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1610,
+          "title": "福岡の大型複合ビル「ワンビル」、ワーカーの入退館に顔認証を導入",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/40203/168/40203-168-dbb27908555ebf404369110d8fe6ed6f-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001690.000046848.html",
+          "author": null,
+          "description": "[株式会社白泉社]\n[画像: https://prcdn.freetls.fastly.net/release_image/46848/1690/46848-1690-a2dbd3a8f39a6b0b34718c24ae2e2c96-1200x630.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001690.000046848.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1411,
+          "title": "超純愛ラブコメ「娘じゃなくて私が好きなの!?」がヤングアニマルWebにて３巻無料！！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/46848/1690/46848-1690-a2dbd3a8f39a6b0b34718c24ae2e2c96-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000080.000077208.html",
+          "author": null,
+          "description": "[株式会社アルティーリ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/77208/80/77208-80-245ace3c4a50c0176c2641857a715f9c-1200x630.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000080.000077208.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1461,
+          "title": "Bリーグ・アルティーリ千葉とヒューリック株式会社 ブランドパートナー契約締結のお知らせ",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/77208/80/77208-80-245ace3c4a50c0176c2641857a715f9c-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000939.000009198.html",
+          "author": null,
+          "description": "[CS 日テレ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/9198/939/9198-939-6852814b23ab38c13a1c759a09087e94-1000x563.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000939.000009198.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1488,
+          "title": "『The Day.～アーティストたちの特別なあの日～【ゴダイゴ】』45年前にネパール・カトマンズで伝説のライブを開催した特別な日、2月7日（金）19:00～ＣS日テレプラスで3時間にわたって放送！！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/9198/939/9198-939-6852814b23ab38c13a1c759a09087e94-1000x563.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000096.000122077.html",
+          "author": null,
+          "description": "[LR株式会社]\nEC支援など行うLR株式会社（本社：鹿児島県日置市伊集院町郡、代表：末永祐馬）がサポートする鹿児島県日置市は、子どもたちのスポーツ支援を目的とした、ふるさと納税制度を活用したガバメントクラウドファンデ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000096.000122077.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1463,
+          "title": "【クラウドファンディング挑戦中】子どもの夢を応援！ スポーツに励む子どもたちの環境提供を、鹿児島県日置市",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/122077/96/122077-96-eac79fcdc9db4914074161d9a71823d6-3333x1725.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000004.000143050.html",
+          "author": null,
+          "description": "[株式会社Rebase]\n[画像1: https://prcdn.freetls.fastly.net/release_image/143050/4/143050-4-a5a83a655703d393272cedef8384dcc8-1920x1280.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000004.000143050.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1561,
+          "title": "元東芝野球部出身「金子聖史」「福山亮」CLUB REBASEへ選手兼コーチとして加入！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/143050/4/143050-4-a5a83a655703d393272cedef8384dcc8-1920x1280.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000244.000008701.html",
+          "author": null,
+          "description": "[リーディングマーク]\nHR事業「ミキワメ」を提供する株式会社リーディングマーク（本社：東京都 港区、代表取締役社長：飯田 悠司）は、2025年2月18日(⽕)18:00-20:00にて、オフラインイベント「曽山哲人氏登壇！ミキワメユニバーシテ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000244.000008701.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1604,
+          "title": "ミキワメ、2/18にオフラインイベント「曽山哲人氏登壇！ミキワメユニバーシティ 経営者勉強会兼交流会」を開催",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/8701/244/8701-244-58b73d39b252b5eb1c3698611793761e-1200x628.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000943.000064643.html",
+          "author": null,
+          "description": "[ABEMA]\n[画像1: https://prcdn.freetls.fastly.net/release_image/64643/943/64643-943-5b02327f392645e0d5d4c21c78301ae7-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000943.000064643.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1475,
+          "title": "「ABEMA」、大相撲初場所7日目・1月18日（土）のゲスト解説に柔道家・阿部一二三の出演が決定！世界一の柔道家がターニングポイントの激闘を告白「ワンマッチの決定戦で24分にも及ぶ戦い」",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/64643/943/64643-943-5b02327f392645e0d5d4c21c78301ae7-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000035.000075467.html",
+          "author": null,
+          "description": "[株式会社ペアキャピタル]\nM&A仲介事業を展開する株式会社ペアキャピタル(本社：東京都渋谷区、代表取締役：田中哲、以下「当社」)は、『建設業界のM&A』に関するウェビナーを2025年1月31日（金）オンラインにて開催いたします。\n\n...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000035.000075467.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1504,
+          "title": "【1月31日（金）開催】建設業M&Aの成約実績多数、経験豊富なアドバイザーが解説『建設業界のM&A』ウェビナーを開催",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/75467/35/75467-35-f9b0d125f87c2b3ba1a54dba81c162b6-1000x563.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000004147.000019470.html",
+          "author": null,
+          "description": "[日本コロムビア株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/19470/4147/19470-4147-4b6d35e3b57d89cd122700fea0fd8ca0-915x610.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000004147.000019470.html",
+          "publishedOn": "2025-01-18T05:40:01.000Z",
+          "wordCount": 1657,
+          "title": "KIYOSHI HIKAWA＋KIINA. 25th Anniversary Concert Tour ～KIIZNA～ 東京ガーデンシアター",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/19470/4147/19470-4147-4b6d35e3b57d89cd122700fea0fd8ca0-915x610.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000027.000052157.html",
+          "author": null,
+          "description": "[株式会社黒鳥社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/52157/27/52157-27-36f47f649ecf71308616cb4378f0d7aa-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000027.000052157.html",
+          "publishedOn": "2025-01-18T04:40:01.000Z",
+          "wordCount": 1585,
+          "title": "コクヨ野外学習センター／WORKSIGHT［ワークサイト］（編）『会社と社会の読書会』1月18日刊行！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/52157/27/52157-27-36f47f649ecf71308616cb4378f0d7aa-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000258.000049716.html",
+          "author": null,
+          "description": "[株式会社秀和システム]\n[画像: https://prcdn.freetls.fastly.net/release_image/49716/258/49716-258-5452590fe30addbcba1c91f1ce9d11ff-1920x1005.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000258.000049716.html",
+          "publishedOn": "2025-01-18T03:15:03.000Z",
+          "wordCount": 1459,
+          "title": "2025年は重賞改革元年！　約30年ぶりの宝塚記念の施行時期前倒しを筆頭に、ＧIII～ＧIの重賞変更が目白押し！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/49716/258/49716-258-5452590fe30addbcba1c91f1ce9d11ff-1920x1005.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000002856.000072793.html",
           "author": null,
           "description": "[国立大学法人岡山大学]\n[画像1: https://prcdn.freetls.fastly.net/release_image/72793/2856/72793-2856-1fa7449150fc68af725851f8e4e83b32-1906x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
@@ -684,6 +1824,16 @@
           "wordCount": 1749,
           "title": "【岡山大学】岡山大学在学生と上席副学長との懇談会を開催",
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/72793/2856/72793-2856-1fa7449150fc68af725851f8e4e83b32-1906x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000190.000049041.html",
+          "author": null,
+          "description": "[株式会社ソニー・ミュージックエンタテインメント]\n株式会社ソニー・ミュージックエンタテインメント（本社：東京都千代田区、代表取締役社長：村松 俊亮）は、バーチャルタレント育成&マネジメントプロジェクト「VEE」の公式オンラインショップ「VEE Official...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000190.000049041.html",
+          "publishedOn": "2025-01-18T02:40:03.000Z",
+          "wordCount": 1639,
+          "title": "Sony MusicによるVTuberプロジェクト「VEE」、所属VTuber「雨庭やえ」のバースデーグッズ&バースデーボイスが販売開始！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/49041/190/49041-190-75f3f3ba77d6b72c72d43b4b3ef75f56-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
           "id": "https://prtimes.jp/main/html/rd/p/000000021.000125401.html",
@@ -1256,6 +2406,26 @@
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/127405/17/127405-17-22300e996ceed7ea76ddcbae35c3636a-2560x1440.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000001.000155985.html",
+          "author": null,
+          "description": "[株式会社セイザン]\n北海道を中心に、各種アミューズメントや宿泊・温浴施設、飲食店などを展開している株式会社セイザン（本社：北海道札幌市中央区南3条西2丁目14ニコービル8F　代表取締役社長：晴山 徳貴）は、2025年1月24日（金...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000155985.html",
+          "publishedOn": "2025-01-17T09:40:03.000Z",
+          "wordCount": 1462,
+          "title": "全卓にレモンサワーサーバー完備！札幌すすきの発の大人気酒場「れもん」新業態店舗『もんじゃ酒場れもん』が2025年1月24日（金）にグランドオープン！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/155985/1/155985-1-dd93f4a30dd08966097730406ae5d776-1845x2546.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000577.000051825.html",
+          "author": null,
+          "description": "[株式会社HIKE]\nキャラクターオリジナルグッズブランド「CHARAZZ（キャラズ）」（運営：株式会社HIKE）は、2025年1月24日（金）岐阜先行、1月31日（金）よりTOHOシネマズ日比谷他全国公開の映画『怪獣ヤロウ！』の公開を記念した...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000577.000051825.html",
+          "publishedOn": "2025-01-17T09:40:03.000Z",
+          "wordCount": 1651,
+          "title": "お笑いコンビ「春とヒコーキ」ぐんぴぃ主演の映画『怪獣ヤロウ！』オリジナルグッズ第2弾は描き起こしイラストを使用したあったかキュートなアイテムをラインナップ！東京と岐阜にポップアップショップも“出現”",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/51825/577/51825-577-16f8a0d301df17fa6e144533275a152d-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000000026.000153692.html",
           "author": null,
           "description": "[博雅國際]\n[画像: https://prcdn.freetls.fastly.net/release_image/153692/26/153692-26-00dba808a085e8c8c54cf952e3b54ce2-800x516.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
@@ -1314,6 +2484,26 @@
           "wordCount": 1434,
           "title": "アリババ、AIを活用して社会貢献を推進",
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/52991/45/52991-45-9757c7c063552d54c997e72d53299631-650x156.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000144.000031377.html",
+          "author": null,
+          "description": "[昭和西川株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/31377/144/31377-144-6cb64c4e4323170cbbf4b239ebb6b0b2-827x636.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000144.000031377.html",
+          "publishedOn": "2025-01-17T09:15:02.000Z",
+          "wordCount": 1438,
+          "title": "ご好評・大反響につき再び！【昭和西川】大阪ショールーム販売会、1月24日（金）～26日（日）の3日間限定開催決定",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/31377/144/31377-144-6cb64c4e4323170cbbf4b239ebb6b0b2-827x636.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000041.000063820.html",
+          "author": null,
+          "description": "[日本承継寄付協会]\n　遺贈寄付を文化にすることを目指す一般社団法人日本承継寄付協会/Will for Japan（所在地：東京都文京区、代表理事：三浦美樹　以下「当協会」）は、2025年1月17日（金）に草加市（市長：山川百合子）と埼玉県...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000041.000063820.html",
+          "publishedOn": "2025-01-17T09:15:02.000Z",
+          "wordCount": 1519,
+          "title": "草加市と日本承継寄付協会が埼玉県内初の遺贈寄付に関する連携協定を締結",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/63820/41/63820-41-45a7e9b8d3ddf7bea91c43b835ec6c77-1509x913.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
           "id": "https://prtimes.jp/main/html/rd/p/000001483.000044800.html",
@@ -1936,6 +3126,26 @@
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/45695/7/45695-7-4a376cc7001ade1c1fa3341b25c3f665-308x222.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000005.000121212.html",
+          "author": null,
+          "description": "[特種東海製紙株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/121212/5/121212-5-416c3295c83c40274ba5924f6f846955-3900x2600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000005.000121212.html",
+          "publishedOn": "2025-01-17T07:15:02.000Z",
+          "wordCount": 1546,
+          "title": "シルキーモウルドの新たな汎用型「はがきサイズ」発売！！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/121212/5/121212-5-416c3295c83c40274ba5924f6f846955-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000285.000017641.html",
+          "author": null,
+          "description": "[セーフィー株式会社]\n　クラウド録画サービスシェアNo.1（※1）のセーフィー株式会社（東京都品川区、代表取締役社長CEO 佐渡島 隆平、以下「セーフィー」）は、SBI損害保険株式会社（本社：東京都港区、代表取締役社長 小野 尚、以下...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000285.000017641.html",
+          "publishedOn": "2025-01-17T07:15:02.000Z",
+          "wordCount": 1562,
+          "title": "SBI損保のオフィスへセーフィーのクラウドカメラを導入、防犯対策に活用",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/17641/285/17641-285-7cc456c46250de7833486d0d4634aaf0-580x384.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000000239.000059114.html",
           "author": null,
           "description": "[ミショナ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/59114/239/59114-239-c9b25d25305cfccac4b58acaf42e372c-1280x720.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
@@ -2006,6 +3216,26 @@
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/115850/153/115850-153-6ef70581d1e65bc731d62ae46ae57cc6-1268x713.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000177.000038921.html",
+          "author": null,
+          "description": "[株式会社揚羽]\nコーポレートブランディング支援を行う株式会社揚羽（東京都中央区 代表取締役社長：湊 剛宏 証券コード：9330）は、2025年1月29日（水）に「【成功事例に学ぶ】理念・パーパス浸透を加速させる！効果的なイベン...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000177.000038921.html",
+          "publishedOn": "2025-01-17T06:40:02.000Z",
+          "wordCount": 1498,
+          "title": "【成功事例に学ぶ】理念・パーパス浸透を加速させる！　効果的なイベント設計のポイント",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/38921/177/38921-177-d6a8fc4793cdbc258a2f7f8b42da2f5a-960x540.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000006.000141564.html",
+          "author": null,
+          "description": "[株式会社Tikaras]\n2025年1月17日\n株式会社Tikaras\n\n2022年に創業、2023年12月に法人化し会社を設立した、宿泊施設向け写真撮影アプリとして、世界でもまだ類を見ない最先端のマーケティングアプリ「Byme（バイミ）」を運営する株式...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000006.000141564.html",
+          "publishedOn": "2025-01-17T06:40:02.000Z",
+          "wordCount": 1445,
+          "title": "宿泊施設に特化した写真撮影アプリ「Byme」",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/141564/6/141564-6-1f503f9a44ba1952d0dd8cec5cc6b04c-1173x659.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000000094.000046917.html",
           "author": null,
           "description": "[株式会社Acompany]\nプライバシーDXを推進する株式会社Acompany（アカンパニー、愛知県名古屋市西区、代表取締役CEO 高橋亮祐、以下Acompany）は、経営体制やプロダクト開発体制強化に向け、2025年1月16日付で、社外取締役に柄沢聡太...",
@@ -2034,6 +3264,86 @@
           "wordCount": 1461,
           "title": "TDCソフト、函館工業高等専門学校でUXデザイン教育を支援",
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/26443/41/26443-41-85b1c32a97d35bba96be05c8f272121f-3900x2603.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000306.000062100.html",
+          "author": null,
+          "description": "[住友不動産商業マネジメント株式会社]\n住友不動産商業マネジメント株式会社（本社：東京都新宿区　代表取締役社長：山本 直人）が運営する複合商業施設「住友不動産 ショッピングシティ 有明ガーデン」（所在：東京都江東区）において実施する、プロモ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000306.000062100.html",
+          "publishedOn": "2025-01-17T06:15:02.000Z",
+          "wordCount": 1685,
+          "title": "「有明ガーデン」プロモーションイベント＆期間限定ショップのお知らせ（2025年1月・2月）",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/62100/306/62100-306-e466d74c390cd257b4782b36777e558c-1937x1097.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000031.000059870.html",
+          "author": null,
+          "description": "[Rokt合同会社]\nEコマーステクノロジーのリーディングカンパニー、Rokt（ロクト｜本社：米ニューヨーク、CEO：ブルース・ブキャナン）は 、2025年1月16日、顧客データプラットフォーム（CDP）のリーディング企業であるmParticle...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000031.000059870.html",
+          "publishedOn": "2025-01-17T06:15:02.000Z",
+          "wordCount": 1474,
+          "title": "RoktとmParticleが合併。リアルタイムの顧客データ活用を強化",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/59870/31/59870-31-dc58f371653a91577e8dc4c7a6d3e72b-2000x1500.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000027.000126342.html",
+          "author": null,
+          "description": "[りく・なつ同室避難推進プロジェクト事務局]\n　「りく・なつ同室避難推進プロジェクト」は2023年7月より歌手の伍代夏子氏が、 突如訪れる災害時に備えて、人とペットが安心して同じ室内に避難できる社会の実現を目指し、災害時の備えだけでなく、同室避難に...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000027.000126342.html",
+          "publishedOn": "2025-01-17T06:15:02.000Z",
+          "wordCount": 1468,
+          "title": "アンバサダーの伍代夏子氏がNPO法人KIMIMO主催「いのちの絵本コンサート」に出演「ペットを連れて避難するのは当たり前という世の中にできるよう頑張っていきます。」",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/126342/27/126342-27-df228a1128b502f6352104d6d73ed88e-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000108.000041217.html",
+          "author": null,
+          "description": "[ATENジャパン]\n[画像1: https://prcdn.freetls.fastly.net/release_image/41217/108/41217-108-89f5db090c85a0988924859a0e99b87e-3900x2194.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000108.000041217.html",
+          "publishedOn": "2025-01-17T06:15:02.000Z",
+          "wordCount": 1649,
+          "title": "【導入事例: 清水建設 名古屋支店様】36面大型マルチディスプレイでの情報発信を支えるATENのソリューション",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/41217/108/41217-108-533618e09eabe9e007860e1632a8433f-400x242.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000003.000127438.html",
+          "author": null,
+          "description": "[公益財団法人福島イノベーション・コースト構想推進機構]\n[画像1: https://prcdn.freetls.fastly.net/release_image/127438/3/127438-3-8a709395a6104f29eff579e947b48479-2400x1600.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000003.000127438.html",
+          "publishedOn": "2025-01-17T05:40:03.000Z",
+          "wordCount": 1491,
+          "title": "【会場・オンライン視聴参加者募集中】「Fukushima Tech Create 2025成果発表会」を開催",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/127438/3/127438-3-8a709395a6104f29eff579e947b48479-2400x1600.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000328.000044782.html",
+          "author": null,
+          "description": "[株式会社フットボールクラブ水戸ホーリーホック]\n[画像1: https://prcdn.freetls.fastly.net/release_image/44782/328/44782-328-5851381d596fcfb66e8f1c11224a03ef-1280x720.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000328.000044782.html",
+          "publishedOn": "2025-01-17T05:40:03.000Z",
+          "wordCount": 1422,
+          "title": "株式会社タバタとのエメラルドパートナー契約締結のご案内",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/44782/328/44782-328-5851381d596fcfb66e8f1c11224a03ef-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000142.000090289.html",
+          "author": null,
+          "description": "[BreakingDown株式会社]\nBreakingDown株式会社（本社：東京都港区、代表取締役：朝倉未来）は、2025年1月25日（土）に開催する 人気格闘技イベント「ポスティングホールディングス presents BreakingDown14.5」において、Web3.0メタバー...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000142.000090289.html",
+          "publishedOn": "2025-01-17T05:40:03.000Z",
+          "wordCount": 1849,
+          "title": "BreakingDown14.5のシルバースポンサーにXANA、INSTEP、HTF、VO-VO-、H.L.B、mr. stick、AIMERTE CLINIC、ザ・スカルプ、T CLINICが就任！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/90289/142/90289-142-c99257cec085bd75eb13f928f090831e-3900x2194.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000007.000137824.html",
+          "author": null,
+          "description": "[トビー・テクノロジー株式会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/137824/7/137824-7-59d933d6e236486815b62a254f8b7f4b-2000x797.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000007.000137824.html",
+          "publishedOn": "2025-01-17T05:40:03.000Z",
+          "wordCount": 1485,
+          "title": "Tobii、Play For Dreamの新型MRヘッドセットにアイトラッキングを提供",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/137824/7/137824-7-59d933d6e236486815b62a254f8b7f4b-2000x797.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
           "id": "https://prtimes.jp/main/html/rd/p/000000043.000045650.html",
@@ -2084,6 +3394,136 @@
           "wordCount": 1403,
           "title": "「東洋経済オンライン」新編集長就任のお知らせ",
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/4767/215/4767-215-ee27f754e1ec04027b6fa7ece130c7a9-2049x805.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000002871.000008372.html",
+          "author": null,
+          "description": "[株式会社　三越伊勢丹ホールディングス]\n■会期：2025年1月22日(水)～1月29日(水)\n■会場：伊勢丹新宿店 本館地階１階 フードコレクション\n■特設サイト：\nhttps://www.mistore.jp/store/shinjuku/feature/foods/pickup/2501/2501_08.html　\nhttps://www.mi...",
+          "link": "https://prtimes.jp/main/html/rd/p/000002871.000008372.html",
+          "publishedOn": "2025-01-17T05:15:02.000Z",
+          "wordCount": 1696,
+          "title": "【伊勢丹新宿店】石川県食材の素晴らしさを、食べて・知って・応援するイベント「石川県フェア」を1月22日(水)より初開催いたします！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/8372/2871/8372-2871-1187aea79d678eac7cf6b49eb0ff8a01-1280x853.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000002.000154997.html",
+          "author": null,
+          "description": "[株式会社LivenupGroup]\n株式会社Livenup Group（本社：東京都港区、代表取締役：二川 良介・玉川 暁郎、以下「当社」）は、当社が保有する賃貸不動産においてHmlet Japan株式会社（本社：東京都千代田区、代表取締役：佐々木 謙一、以下...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000002.000154997.html",
+          "publishedOn": "2025-01-17T05:15:02.000Z",
+          "wordCount": 1506,
+          "title": "Livenup Groupが三菱地所グループのHmlet Japanと賃貸借契約を締結し「Hmlet文京後楽園」を開業",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/154997/2/154997-2-09398cef3ca76c1ec1e38d4d10003dee-1922x520.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000373.000057729.html",
+          "author": null,
+          "description": "[日本オラクル株式会社]\nテキサス州オースティン-2025年1月17日　\n\n（本資料は米国2024年1月7日にオラクル・コーポレーションより発表されたプレスリリース( https://www.oracle.com/news/announcement/oracle-introduces-exadata-x11m-p...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000373.000057729.html",
+          "publishedOn": "2025-01-17T05:15:02.000Z",
+          "wordCount": 1675,
+          "title": "Oracle Exadata X11M、データとAIワークロード向けに究極のパフォーマンス、優れた効率性、省エネを実現",
+          "imageUrl": "https://prtimes.jp/common/pc_v4/og.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000045.000111248.html",
+          "author": null,
+          "description": "[株式会社ビジョナリー]\n障害福祉サービスを運営する株式会社ビジョナリー（代表取締役社長／丹羽悠介、本社：愛知県名古屋市）は、障害者福祉施設「NOIE TOYOHASHI（ノイエ　トヨハシ）」を2025年1月1日、愛知県豊橋市（上野町上野98番1...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000045.000111248.html",
+          "publishedOn": "2025-01-17T05:15:02.000Z",
+          "wordCount": 1466,
+          "title": "“マッチョ×介護士“障害者介護施設を運営するビジョナリー　障害者福祉施設「NOIE TOYOHASHI（ノイエ トヨハシ）」を愛知県豊橋市に新規オープン！！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/111248/45/111248-45-404b00abe0295f3a611d3b45508e2200-2048x1365.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000015.000136134.html",
+          "author": null,
+          "description": "[CCPJAPAN株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/136134/15/136134-15-87829375b723977755391edcbd925448-1909x2700.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000015.000136134.html",
+          "publishedOn": "2025-01-17T05:15:02.000Z",
+          "wordCount": 1572,
+          "title": "『ウルトラマン』に登場する、『二次元怪獣 ガヴァドン（A）』がハイクオリティソフビ製フィギュアとして登場！！",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/136134/15/136134-15-87829375b723977755391edcbd925448-1909x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000001396.000017808.html",
+          "author": null,
+          "description": "[ASUS JAPAN株式会社]\n　ASUS JAPAN株式会社は、用途に合わせて最適なスペックをカスタマイズオーダーできる「ASUSのオーダーメイド」に新たに2025年1月15日（水）発売開始した「ASUS ExpertBook P5 P5405CSA」を追加しました。専用サ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000001396.000017808.html",
+          "publishedOn": "2025-01-17T05:15:02.000Z",
+          "wordCount": 1530,
+          "title": "ビジネス向けノートPC「ExpertBook」シリーズをカスタマイズ可能な「ASUSのオーダーメイド」に新たに「ASUS ExpertBook P5 P5405CSA」を追加",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/17808/1396/17808-1396-e521c866d7ff8b6cde3233e7e2bb7313-2261x812.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000060.000006317.html",
+          "author": null,
+          "description": "[NICCO]\n海外での難民支援や途上国での貧困削減活動、国内外の自然災害被災者に対する支援に取り組む公益社団法人日本国際民間協力会（以下：NICCO、所在地：京都市中京区、代表：片山真理）は、パレスチナ・ガザ地区にお...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000060.000006317.html",
+          "publishedOn": "2025-01-17T05:15:02.000Z",
+          "wordCount": 1484,
+          "title": "「紛争下にあるガザ地区へ温かい食事を届けたい」クラウドファンディング開始のお知らせ 公益社団法人日本国際民間協力会（NICCO）",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/6317/60/6317-60-e1abef99d04729394f115ed3f0957005-1280x853.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000026.000108804.html",
+          "author": null,
+          "description": "[学校法人OCC]\n2025年4月開学の「教育テック大学院大学」（竹村治雄学長）は25年1月23日（木）19時～21時、オンラインシンポジウム「企業と教育をつなぐ新しいキャリアデザイン」を開催します。開催概要は以下の通りです。詳し...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000026.000108804.html",
+          "publishedOn": "2025-01-17T04:45:02.000Z",
+          "wordCount": 1470,
+          "title": "教育テック大学院大学が１月23日（木）にオンラインシンポ「企業と教育をつなぐ新しいキャリアデザイン」を開催　＜学校法人OCC＞",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/108804/26/108804-26-ce71e7cf890e90e0153aa985bb474e3b-1909x2700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000007.000126358.html",
+          "author": null,
+          "description": "[デジタルインボイス推進協議会]\nデジタルインボイス推進協議会(以下、EIPA(エイパ)、代表幹事法人：株式会社ＴＫＣ)は、EIPA会員間で実施した相互接続テスト（第2回）の結果についてお知らせします。\n\n「Peppol（ペポル）」は、インボイスなどの...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000007.000126358.html",
+          "publishedOn": "2025-01-17T04:45:02.000Z",
+          "wordCount": 1565,
+          "title": "EIPA会員間のデジタルインボイス相互接続テスト（第2回）の結果の公表について",
+          "imageUrl": "https://prtimes.jp/common/pc_v4/og.png"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000146.000105962.html",
+          "author": null,
+          "description": "[ELSOUL LABO B.V.]\n[画像1: https://prcdn.freetls.fastly.net/release_image/105962/146/105962-146-c05a45f2cc7c040e2d95a16683ac9d38-2400x1260.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000146.000105962.html",
+          "publishedOn": "2025-01-17T04:45:02.000Z",
+          "wordCount": 1640,
+          "title": "SLV、Solanaバリデータ向けAgaveテストネットへの簡単切り替え対応を発表",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/105962/146/105962-146-c05a45f2cc7c040e2d95a16683ac9d38-2400x1260.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000028.000054850.html",
+          "author": null,
+          "description": "[株式会社サムシングファン]\n[画像1: https://prcdn.freetls.fastly.net/release_image/54850/28/54850-28-3de67a5679110350b34b1bbe4ab869de-3820x2160.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000028.000054850.html",
+          "publishedOn": "2025-01-17T04:45:02.000Z",
+          "wordCount": 1548,
+          "title": "ストリートファイター6プレイヤー”おらりん”がODDPLANに加入～国内外の大会での飛躍を目指し、チーム体制を強化～",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/54850/28/54850-28-3de67a5679110350b34b1bbe4ab869de-3820x2160.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000261.000055351.html",
+          "author": null,
+          "description": "[アルコインターナショナル株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/55351/261/55351-261-54195226da3174d3760b76d6f4510d95-2048x1365.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000261.000055351.html",
+          "publishedOn": "2025-01-17T04:45:02.000Z",
+          "wordCount": 1536,
+          "title": "Topo Athletic(R)(トポアスレチック)、高尾山のカフェ&ゲストハウス「Mt.TAKAO BASE CAMP（高尾ベース）」のレンタルシューズをリニューアル",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/55351/261/55351-261-54195226da3174d3760b76d6f4510d95-2048x1365.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000516.000001124.html",
+          "author": null,
+          "description": "[江崎グリコ株式会社]\n江崎グリコ株式会社は、2025年日本国際博覧会（大阪・関西万博）の「大阪ヘルスケアパビリオン Nest for Reborn（以下、大阪ヘルスケアパビリオン※）」において、「細胞ケア」をテーマとした体験展示をします。ブ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000516.000001124.html",
+          "publishedOn": "2025-01-17T04:40:02.000Z",
+          "wordCount": 1420,
+          "title": "大阪・関西万博　大阪ヘルスケアパビリオン「ミライのヘルスケア」ゾーンに出展テーマは「細胞ケア」　～細胞老化へのアプローチを探る～",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/1124/516/1124-516-ffa6f17960ae6e74f64c1fa571c9d4f1-1134x639.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
           "id": "https://prtimes.jp/main/html/rd/p/000000006.000135891.html",
@@ -2244,6 +3684,16 @@
           "wordCount": 1524,
           "title": "「AW Owners Club」公式サイト公開！馬主体験をより身近なものに",
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/114652/7/114652-7-9ac9d6b0ee43679f7317bc16de996e14-1280x1120.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000187.000074287.html",
+          "author": null,
+          "description": "[株式会社LIXIL住宅研究所]\nジーエルホームカンパニー\n[画像1: https://prcdn.freetls.fastly.net/release_image/74287/187/74287-187-8102963475dfcc27458d7a20dd59e057-1442x1018.png?width=536&quality=85%2C75&format=jpeg&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000187.000074287.html",
+          "publishedOn": "2025-01-17T03:40:02.000Z",
+          "wordCount": 1704,
+          "title": "GX志向型住宅の新商品「海の家」「山の家」を発売",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/74287/187/74287-187-8102963475dfcc27458d7a20dd59e057-1442x1018.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
           "id": "https://prtimes.jp/main/html/rd/p/000000689.000030942.html",
@@ -2814,6 +4264,16 @@
           "wordCount": 1492,
           "title": "「月刊ぎふとPREMIUM」1月号好評発売中！ギフト流通業界を代表する各社の今年の展望は？ほか盛況のギフト・ショーinソウル、「食と器」アフタヌーンティー編など特集",
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/33104/239/33104-239-226693c715877fe65ab55e49fe0bbe32-300x400.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000006.000126803.html",
+          "author": null,
+          "description": "[一般社団法人日本NFTツーリズム協会]\n一般社団法人日本NFTツーリズム協会（所在地：東京都新宿区、代表：岩下拓、https://nfttourism.net）は、2025年1月23日（木）、24日(金)の13時30分より2日間連続で「ツーリズム×Web3 フォーラム 2025 冬季」をオ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000006.000126803.html",
+          "publishedOn": "2025-01-16T08:40:02.000Z",
+          "wordCount": 1920,
+          "title": "1月23日（木）、24日（金）「ツーリズム×Web3 フォーラム 2025 冬季」オンライン開催。ツーリズム産業と地域の未来をつくる20事業者が一堂に事例を発信。",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/126803/6/126803-6-54bd83e5afe9b152695a6a546ef850ad-1440x810.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
           "id": "https://prtimes.jp/main/html/rd/p/000000081.000075782.html",
@@ -5216,6 +6676,16 @@
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/53624/257/53624-257-52b7445cc943946cda3af554a04149e2-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000041.000001332.html",
+          "author": null,
+          "description": "[株式会社イプロス]\n[画像: https://prcdn.freetls.fastly.net/release_image/1332/41/1332-41-9bb113e1a0fe6918cd0870caad8b4591-1280x720.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000041.000001332.html",
+          "publishedOn": "2025-01-16T01:40:03.000Z",
+          "wordCount": 1469,
+          "title": "イプロス、情報検索サイト「イプロスものづくり／イプロス」を1月14日に全面リニューアル",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/1332/41/1332-41-9bb113e1a0fe6918cd0870caad8b4591-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000000313.000011608.html",
           "author": null,
           "description": "[株式会社ジョンマスターオーガニックグループ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/11608/313/11608-313-5d740640e49f1913bb7a680ef3705949-3900x2038.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
@@ -6216,6 +7686,16 @@
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/49164/623/49164-623-c46e95cad0750c05853e9ac942f1b514-1535x1086.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000518.000010207.html",
+          "author": null,
+          "description": "[株式会社リロバケーションズ]\n“想いをつむぎ、新しさでつなぐ”Relo Hotels＆Resorts（リロホテルズ＆リゾーツ）の熱海エリアの3施設「ゆとりろ熱海」「熱海TENSUI」「熱海風雅」では、熱海梅園にて2025年1月11日～3月2日開催の梅まつりにお得...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000518.000010207.html",
+          "publishedOn": "2025-01-15T04:15:02.000Z",
+          "wordCount": 1721,
+          "title": "熱海の旅館がお得な特典付き「梅まつりコラボプラン」販売開始　梅酒ワンドリンクや夕食アップグレードも｜～2025年3月1日まで",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/10207/518/10207-518-dc239015727f97fdb1eb277013096cc6-1200x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000000175.000033525.html",
           "author": null,
           "description": "[株式会社 山岸竹材店]\n[画像1: https://prcdn.freetls.fastly.net/release_image/33525/175/33525-175-8d4ab94d16a7407a1435e40073e889c9-930x620.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
@@ -6246,6 +7726,16 @@
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/127749/86/127749-86-e20872aaddb6d4b49dafe638b15cbd10-2473x1684.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000166.000053016.html",
+          "author": null,
+          "description": "[マルトモ株式会社]\nかつお節・だしと、海洋資源を通じて健康と食文化の発展に貢献するマルトモ株式会社（社長：今井均　本社：愛媛県伊予市）は、 創業110年を超える老舗アサムラサキが開発した広島産牡蠣のうま味エキスと鰹、昆布...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000166.000053016.html",
+          "publishedOn": "2025-01-15T02:40:03.000Z",
+          "wordCount": 1430,
+          "title": "創業110年を超える老舗アサムラサキのかき醤油を使用したマルトモ「素直な、おかか。(R)かき醤油」新発売",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/53016/166/53016-166-5f3dcd39a3f879105cad534199bea2f6-1115x1500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000000038.000034200.html",
           "author": null,
           "description": "[オフィスナビ株式会社]\nオフィスの移転・開設コンサルティングを展開するオフィスナビ株式会社（東京本社：東京都千代田区神田司町2-6、神田平沼ビル2階）は、2025年1月1日付で取締役副社長の種田充博が代表取締役社長に昇格し、創業者...",
@@ -6254,6 +7744,16 @@
           "wordCount": 1538,
           "title": "オフィスナビ新社長に副社長の種田充博が就任、創業者の金本修幸は会長に",
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/34200/38/34200-38-f96a66d386cc989bcef68e0f498e1710-946x628.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000042.000139448.html",
+          "author": null,
+          "description": "[株式会社RePlayce（リプレイス）]\n中高生向けキャリア探究サービスを運営する株式会社RePlayce（本社：東京都渋谷区 代表取締役CEO 山本将裕、以下RePlayce）は、2025年4月開校する通信制高校サポート校「HR高等学院」において実施するプログラム...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000042.000139448.html",
+          "publishedOn": "2025-01-15T01:15:53.000Z",
+          "wordCount": 1547,
+          "title": "【プログラム紹介第3弾】HR高等学院が、MIXIなど最先端のIT企業と連携してテック人材を育成する「テクノロジー＆サイエンス」",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/139448/42/139448-42-b081387357b6dbfe0877f03a92491520-2400x1350.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
           "id": "https://prtimes.jp/main/html/rd/p/000000002.000154113.html",
@@ -8304,6 +9804,16 @@
           "wordCount": 1462,
           "title": "『アラウ.ベビー 洗たくせっけん・泡全身ソープ』が 「ninaruママパパベスト2025」で第1位を獲得！",
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/56238/57/56238-57-95aebb0e3775472656deca28ee004140-1800x754.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000019.000100322.html",
+          "author": null,
+          "description": "[株式会社Neautech]\n[画像1: https://prcdn.freetls.fastly.net/release_image/100322/19/100322-19-427691cda69111679284c400809b93d5-3900x2600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000019.000100322.html",
+          "publishedOn": "2025-01-14T05:15:02.000Z",
+          "wordCount": 1592,
+          "title": "オンライン美肌治療サービスの「ANS.（アンス）」初の第3類医薬品「ANS. シスC （アンス シスシー）」2025年1月20日より処方開始",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/100322/19/100322-19-427691cda69111679284c400809b93d5-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
           "id": "https://prtimes.jp/main/html/rd/p/000000095.000045335.html",
@@ -44484,686 +45994,6 @@
           "wordCount": 1521,
           "title": "アンジェラ佐藤さんも挑戦した！諭吉そばの一番人気「特大諭吉ラーメン」登場!!",
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/148120/5/148120-5-70322a9f36c114584495698c610da5a5-3456x2304.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000037.000048437.html",
-          "author": null,
-          "description": "[seamint.]\nZ世代に特化した企画・コンサルティングを提供する株式会社seamint.（本社：東京都江東区、代表取締役：戎 光璃）は、2024年トレンド大賞&2025年トレンド予測を、渋谷女子インターナショナルスクールとseamin...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000037.000048437.html",
-          "publishedOn": "2024-12-21T11:15:02.000Z",
-          "wordCount": 1539,
-          "title": "【女子高生が選ぶ！Z世代の2024年トレンド大賞&2025年トレンド予測】「Y2K」「アサイーボウル」「CUTIE STREET」などがランクイン！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/48437/37/48437-37-defeca859d1440dae67fc52f5a7a3370-1080x720.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000083.000025460.html",
-          "author": null,
-          "description": "[株式会社Parasol]\n[画像1: https://prcdn.freetls.fastly.net/release_image/25460/83/25460-83-8b516311236b31831509e08ecfbe5b24-1402x792.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000083.000025460.html",
-          "publishedOn": "2024-12-21T10:40:01.000Z",
-          "wordCount": 1529,
-          "title": "オンライン婚活サービス利用者数No.1の「ヒトオシ」が北関東エリアに進出！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/25460/83/25460-83-8b516311236b31831509e08ecfbe5b24-1402x792.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000005.000152287.html",
-          "author": null,
-          "description": "[株式会社カブ＆ピース]\n株式会社カブ＆ピース（代表：前澤友作、所在地：東京都港区）は、３年以内（2027年12月31日まで）に上場できなかった場合、サービス利用者が受け取る未公開株の買取りを保証することをお知らせします。\n[画像1: ...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000005.000152287.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1453,
-          "title": "株式会社カブ&ピースサービスを使った分だけ株がもらえる「カブアンド」３年以内に上場できなかったら株を買い取ります！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/152287/5/152287-5-893a929be25c0125d5874bbd1da1419c-2400x1260.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000112.000105204.html",
-          "author": null,
-          "description": "[株式会社クイーポ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/105204/112/105204-112-71ba87e1b9af65157f71bf517ad473ac-2048x1465.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000112.000105204.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1508,
-          "title": "【genten】12月26日「最強開運日」に金運や財運が上がる、“リス”がラッキーモチーフの福財布を発売！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/105204/112/105204-112-71ba87e1b9af65157f71bf517ad473ac-2048x1465.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000109.000018441.html",
-          "author": null,
-          "description": "[F Ventures LLP]\n[画像1: https://prcdn.freetls.fastly.net/release_image/18441/109/18441-109-9548dd71befbddd01e468b507621a29d-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000109.000018441.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1580,
-          "title": "U25世代向けスタートアップの祭典『TORYUMON TOKYO 2024 IGNITE』のコミュニティパートナー決定【第3弾】",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/18441/109/18441-109-9548dd71befbddd01e468b507621a29d-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000110.000061598.html",
-          "author": null,
-          "description": "[ロロ・ピアーナ ジャパン株式会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/61598/110/61598-110-ef26345d406b948e96adbfebff08d64b-1280x913.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000110.000061598.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1413,
-          "title": "上海の浦東美術館（MAP）にて創業100周年を祝う初の展覧会を開催",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/61598/110/61598-110-ef26345d406b948e96adbfebff08d64b-1280x913.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000166.000034808.html",
-          "author": null,
-          "description": "[ヒューゴボスジャパン株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/34808/166/34808-166-2eb1fb1f6b42fcf0b296453e5a4f6b34-3900x2928.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000166.000034808.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1516,
-          "title": "BOSS ストア 心斎橋 リニューアルオープン",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/34808/166/34808-166-2eb1fb1f6b42fcf0b296453e5a4f6b34-3900x2928.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000091.000116644.html",
-          "author": null,
-          "description": "[株式会社SHIFT AI]\n株式会社SHIFT AI（東京都渋谷区、代表取締役 木内翔大、以下 当社 ）は、当社が提供する法人向け生成AIリスキリングサービス「SHIFT AI for Biz」において、一般社団法人生成AI活用普及協会（以下 GUGA）が提供...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000091.000116644.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1641,
-          "title": "法人向け生成AIリスキリングサービス SHIFT AI for Biz　24年12月20日【生成AIパスポート試験対策コース】開始",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/116644/91/116644-91-a3fce9ac9cd39d0c10308a234db8cd8c-1360x764.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000119.000121065.html",
-          "author": null,
-          "description": "[株式会社電通デジタル]\n　株式会社電通デジタル（本社：東京都港区　代表取締役社長執行役員：瀧本 恒）は、株主総会にて2025年度の役員体制を決定しましたので、下記の通りお知らせいたします。\n\n1.    取締役・監査役の新体制について...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000119.000121065.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1492,
-          "title": "2025年度の役員体制に関するお知らせ",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/121065/119/121065-119-678e01b78bc888643aa793cbb364db5a-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000617.000011088.html",
-          "author": null,
-          "description": "[楽天証券]\n楽天証券株式会社（本社：東京都港区、代表取締役社長：楠 雄治、以下「楽天証券」）は、2025年1月20日（月）（※1）より、国内株式（現物）取引の「SORサービス」の接続先に、Japan Alternative Market株式会社（...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000617.000011088.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1425,
-          "title": "楽天証券、国内株式取引「SORサービス」の接続先にJAXを追加",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/11088/617/11088-617-44909e5e6446e92a257002fadd34bbf5-1563x370.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000584.000019615.html",
-          "author": null,
-          "description": "[株式会社Ｂｆｕｌｌ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/19615/584/19615-584-48b99ee515fa638be939446358f7edd8-2600x1463.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000584.000019615.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1642,
-          "title": "玉乃井ぺろめくりオリジナルイラスト「チャイナ娘 紐パンツver.」がフィギュアで新登場！本日 12月20日(金)よりBfullオンラインショップにて予約開始！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/19615/584/19615-584-48b99ee515fa638be939446358f7edd8-2600x1463.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000055.000050476.html",
-          "author": null,
-          "description": "[株式会社ライテック]\n株式会社ライテック（本社：東京都台東区、代表取締役：廣田拓郎）は、本社および子会社ライテックロジスティックスにおける使用電力を、100%再生可能エネルギーに切り替えたことをお知らせいたします。\n[画像1: ...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000055.000050476.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1456,
-          "title": "ライテックグループ、使用電力を100%再生可能エネルギーに切り替え。電力由来のCO2排出量を実質ゼロへ",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/50476/55/50476-55-69a71d4c91b75d4238500d6eb03d853e-1714x1372.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000199.000084182.html",
-          "author": null,
-          "description": "[野村アセットマネジメント株式会社]\n野村アセットマネジメント株式会社（CEO兼代表取締役社長:小池広靖、以下「当社」）は、責任投資原則（PRI※、Principles for Responsible Investment）による2024年の年次評価において、8項目で最高評価の「5つ星...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000199.000084182.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1461,
-          "title": "野村AM、責任投資原則（PRI）の年次評価（2024年）の結果について",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/84182/199/84182-199-20214f571db0a70c55a123ff39f7d03e-690x230.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000456.000026860.html",
-          "author": null,
-          "description": "[auじぶん銀行]\n自動車に関する複合的なサービスを提供するオートモビリティ企業のプレミアグループ株式会社（本社：東京都港区、代表取締役社長：柴田洋一）の連結子会社であるプレミア株式会社（本社：東京都港区、代表取締役...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000456.000026860.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1545,
-          "title": "プレミアとauじぶん銀行が業務提携～提携オートローンの取扱を開始～",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/26860/456/26860-456-c26da2c82c4ad6688d9ab1b85fbaa583-773x111.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000129.000022624.html",
-          "author": null,
-          "description": "[株式会社ユカリア]\n　株式会社ユカリア（本社：東京都千代田区、代表取締役社長：三沢英生）は、2017年より販売を行ってきた医療従事者向けベッドサイド情報端末「EUCALIA TOUCH（ユカリアタッチ）」の後継機として2024年6月にリリ...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000129.000022624.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1495,
-          "title": "医療従事者向けベッドサイド情報端末「EUCALIA TOUCH with」（ユカリアタッチ ウィズ）サービスサイトをリニューアル",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/22624/129/22624-129-b7dd3c0be616c52e90c18dfcafa91fb4-1280x673.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000003693.000029501.html",
-          "author": null,
-          "description": "[吉本興業株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/29501/3693/29501-3693-ea3154b9a67c9a4a6029e9f20d8e66ed-1915x1079.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
-          "link": "https://prtimes.jp/main/html/rd/p/000003693.000029501.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1466,
-          "title": "西武園ゆうえんちで“昭和”の町にタイムスリップ！『桂文枝の全国の首長さんに逢いたい！』",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/29501/3693/29501-3693-ea3154b9a67c9a4a6029e9f20d8e66ed-1915x1079.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000031.000126739.html",
-          "author": null,
-          "description": "[JX石油開発株式会社]\n当社（社長：中原　俊也）の役員等の人事異動につきまして、下記のとおりお知らせいたします。\n\n\n１．取締役および取締役を兼務する執行役員の異動\n（１）新任、委嘱する職の変更等\n\n[表1: https://prtimes.jp/da...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000031.000126739.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1803,
-          "title": "役員等の人事異動について",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/126739/31/126739-31-0718a6e2f12450a2fbfdbfa962ab6576-3174x1774.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000868.000064643.html",
-          "author": null,
-          "description": "[ABEMA]\n[画像1: https://prcdn.freetls.fastly.net/release_image/64643/868/64643-868-43d0ee845b66d9eac9c05283822cb40a-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000868.000064643.html",
-          "publishedOn": "2024-12-21T09:40:02.000Z",
-          "wordCount": 1452,
-          "title": "忙しい人あるある？「ちょっと休むと風邪をひく」に、EXIT・兼近大樹が共感！最大9連休の年末年始、「楽しみではない」が2割？『ABEMA Prime』「ABEMA」で無料見逃し配信中",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/64643/868/64643-868-43d0ee845b66d9eac9c05283822cb40a-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000321.000035474.html",
-          "author": null,
-          "description": "[オンセミ]\n[画像: https://prcdn.freetls.fastly.net/release_image/35474/321/35474-321-9c056bc5ec7fe130de4b195132e653bf-1366x768.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000321.000035474.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1650,
-          "title": "オン・セミコンダクター財団、52のグローバルプロジェクトにSTEAM教育助成金として200万ドルを授与",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/35474/321/35474-321-9c056bc5ec7fe130de4b195132e653bf-1366x768.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000332.000089626.html",
-          "author": null,
-          "description": "[jinjer株式会社]\njinjer株式会社（本社：東京都新宿区、代表取締役社長：桑内 孝志 ）が提供するクラウド型人事労務システム「ジンジャー」が、PayPay株式会社（本社：東京都港区、代表取締役 社長執行役員CEO：中山 一郎 以下、P...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000332.000089626.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1479,
-          "title": "ジンジャー、給与デジタル払いに対応希望する従業員のPayPayアカウントへ給与振込が可能に",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/89626/332/89626-332-512ea028fde167ed3b8baf83589374d9-2400x1260.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000060.000040982.html",
-          "author": null,
-          "description": "[日本生活協同組合連合会]\n　日本生活協同組合連合会（略称：日本生協連、代表理事会長：土屋　敏夫）は、全国66主要地域生協の2024年11月度の供給高（売上高）の速報をまとめましたので、ご報告いたします。\n\n■全国主要地域生協2024年11月...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000060.000040982.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1411,
-          "title": "主要地域生協11月度供給高（売上高）速報",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/40982/60/40982-60-c7c7282a0425df93546622c2a09453cc-630x221.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000855.000074768.html",
-          "author": null,
-          "description": "[株式会社レンサ]\n株式会社レンサ（本社：東京都渋谷区、代表取締役：武井哲也）は、2024年12月20日（金）より、運営する公式占いサイト「真木あかりの誕生日占い」にて『真木あかりが占う2025年の運勢』の特集ページを一般向けに...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000855.000074768.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1507,
-          "title": "2025年の運勢｜真木あかりが誕生日で占う2025年あなたの運勢。公式占いサイトにて『2025年の運勢占い』を一般公開中",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/74768/855/74768-855-b6e6270eb7223afbfec6db11c3e64809-640x319.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000026.000020009.html",
-          "author": null,
-          "description": "[つばめ投資顧問合同会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/20009/26/20009-26-771d38898693a04c2d17f08b2d83e76f-600x200.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&b...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000026.000020009.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1467,
-          "title": "つばめ投資顧問がまぐまぐ大賞2024を受賞！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/20009/26/20009-26-771d38898693a04c2d17f08b2d83e76f-600x200.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000043.000103921.html",
-          "author": null,
-          "description": "[アトム法律事務所]\n[画像1: https://prcdn.freetls.fastly.net/release_image/103921/43/103921-43-1981485a2569bda153d63eab2fd01191-1024x683.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000043.000103921.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1564,
-          "title": "アトム法律事務所が「ドナー休暇制度」を12月より正式導入【特別の有給休暇】で社員の社会貢献活動を支援",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/103921/43/103921-43-1981485a2569bda153d63eab2fd01191-1024x683.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000132.000102331.html",
-          "author": null,
-          "description": "[株式会社パワー・インタラクティブ]\n[画像: https://prcdn.freetls.fastly.net/release_image/102331/132/102331-132-663fd6a7f189ccd8b7e77295cc04f6ab-1500x787.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000132.000102331.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1487,
-          "title": "『これだけは押さえたい！Googleアナリティクス4データ計測設定マニュアル』を無料公開",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/102331/132/102331-132-663fd6a7f189ccd8b7e77295cc04f6ab-1500x787.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000002235.000002296.html",
-          "author": null,
-          "description": "[大和ハウス工業株式会社]\n　大和ハウス工業株式会社（本社：大阪府大阪市、社長：芳井敬一）は、一般社団法人ジャパンラグビーリーグワン（所在地：東京都港区、理事長：玉塚元一、以下：リーグワン）と、2024年12月21日より開催される「N...",
-          "link": "https://prtimes.jp/main/html/rd/p/000002235.000002296.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1431,
-          "title": "「ジャパンラグビーリーグワン」とのオフィシャルパートナー契約を締結（ニュースレター）",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/2296/2235/2296-2235-637acfcc751029edafcdade48aec4056-600x138.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000062.000043275.html",
-          "author": null,
-          "description": "[SALESCORE株式会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/43275/62/43275-62-c305626ec2554ca4eec1bf5a2263be41-1440x684.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000062.000043275.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1434,
-          "title": "東京都のスタートアップ協働プロジェクトに、SALESCOREが採択されました",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/43275/62/43275-62-c305626ec2554ca4eec1bf5a2263be41-1440x684.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000043.000042566.html",
-          "author": null,
-          "description": "[Zuora Japan株式会社]\nサブスクリプション・ビジネスにおける収益化のためのプラットフォームを提供するZuora（本社：米国カリフォルニア州レッドウッドシティ、日本法人 Zuora Japan株式会社：東京都千代田区、代表取締役社長 桑野 順...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000043.000042566.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1488,
-          "title": "【ウェビナー】サブスクリプション・ビジネスの収益を最大化するZuoraの使用量課金プラットフォーム『Togai』を解説！",
-          "imageUrl": "https://prtimes.jp/common/pc_v4/og.png"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000157.000070978.html",
-          "author": null,
-          "description": "[XREAL]\nAR（拡張現実）グラスを開発・販売している、XREAL（日本法人：日本Xreal株式会社）は、本年お世話になった関係者様を迎えて「XREAL 感謝祭 2024」を2024年12月19日（木）に開催いたしました。\n\n[画像1: https://...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000157.000070978.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1543,
-          "title": "XREAL「感謝祭2024」を開催",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/70978/157/70978-157-593cfd174ef28be8512be5597a1cea5b-1256x838.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000855.000012754.html",
-          "author": null,
-          "description": "[河出書房新社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/12754/855/12754-855-65a4ff502d96eca16b1cae7881ff2b02-1748x1184.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000855.000012754.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1495,
-          "title": "町屋良平『生きる演技』が第41回織田作之助賞を受賞！選考委員の古川日出男氏は「文学史に残る傑作」と講評。　文藝賞、芥川賞、野間文芸新人賞、川端康成文学賞受賞に続く、五冠達成の快挙！　1月に重版出来！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/12754/855/12754-855-65a4ff502d96eca16b1cae7881ff2b02-1748x1184.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000618.000026172.html",
-          "author": null,
-          "description": "[一般社団法人ウェブ解析士協会]\n[画像1: https://prcdn.freetls.fastly.net/release_image/26172/618/26172-618-89b65b2c80df3751cdcc5d534b900c3f-2400x1260.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000618.000026172.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1508,
-          "title": "薬機法に則りつつ“売れる”ウェブ広告を実現する表現のコツ（オンラインセミナー）",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/26172/618/26172-618-89b65b2c80df3751cdcc5d534b900c3f-2400x1260.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000129.000124454.html",
-          "author": null,
-          "description": "[川崎市]\n　令和６年能登半島地震で被災された皆様に心よりお見舞い申し上げます。\n　本市では、被災された皆様の支援のため寄附金を受け付けています。この度、寄附金の一部を活用し、次のとおり物資支援、産業復興支援を...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000129.000124454.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1516,
-          "title": "令和６年能登半島地震被災者支援等の寄附金を活用して支援を実施しています",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/124454/129/124454-129-ceb284bd6c7d9161416efeebccec9d07-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000058.000123851.html",
-          "author": null,
-          "description": "[ネスレ日本 ネスレ ヘルスサイエンス カンパニー]\nネスレ日本株式会社 ネスレ ヘルスサイエンス カンパニー(本社：兵庫県神戸市、カンパニープレジデント：中島昭広)は、2024年12月7日(土)～8日(日)に神戸商工会議所会館で開催された『日本デイケア学会※1 第29回...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000058.000123851.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1637,
-          "title": "『日本デイケア学会 第29回年次大会 兵庫大会』にて、早期の栄養評価・栄養介入によるデイサービス利用継続率向上に伴う費用対効果の調査結果を発表",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/123851/58/123851-58-12645e94bab44f36e8c86a37922d7dae-1920x1280.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000001516.000018760.html",
-          "author": null,
-          "description": "[カルチュア・コンビニエンス・クラブ株式会社]\n　カルチュア・コンビニエンス・クラブ株式会社（本社：東京都渋谷区、代表取締役社長兼CEO：高橋誉則、以下「CCC」）とその子会社である蔦屋投資（上海）有限公司は、寧波汲嶼文化伝播有限公司とフランチャイズ...",
-          "link": "https://prtimes.jp/main/html/rd/p/000001516.000018760.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1547,
-          "title": "寧波市の中心地である三江口に「TSUTAYA BOOKSTORE寧波K11店」12月21日（土）OPEN",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/18760/1516/18760-1516-e46d0f69cd260dd33f6ba775c295cb8c-3900x2601.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000001.000154883.html",
-          "author": null,
-          "description": "[株式会社Tierra]\n[画像: https://prcdn.freetls.fastly.net/release_image/154883/1/154883-1-f547c05ae40cac9e3bc64147a6109f76-3240x2160.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000001.000154883.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1427,
-          "title": "カメラマンや編集者と被写体をつなぐSNS時代における新たなマッチングサービス『BaeTolu(バエトル)』を12月19日リリース",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/154883/1/154883-1-f547c05ae40cac9e3bc64147a6109f76-3240x2160.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000028.000082076.html",
-          "author": null,
-          "description": "[キャピタランド・ジャパン 株式会社]\nシンガポール　2024年12月16日　世界有数のリアルアセット (不動産およびインフラ等) マネージャーであるキャピタランド・インベストメント・リミテッド（CLI）は、ウィンゲート・グループ・ホールディングス（ウ...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000028.000082076.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1677,
-          "title": "キャピタランド・インベストメント、ウィンゲートの戦略的買収を発表　プライベート・クレジット投資事業の拡大とオーストラリアでのプレゼンスを強化",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/82076/28/82076-28-78c5a7ea5f394c573570adb0c019d68f-1600x1096.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000867.000064643.html",
-          "author": null,
-          "description": "[ABEMA]\n[画像1: https://prcdn.freetls.fastly.net/release_image/64643/867/64643-867-f7bee4bb64b9c9777b609a9ebdd11dda-1648x928.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000867.000064643.html",
-          "publishedOn": "2024-12-21T08:40:02.000Z",
-          "wordCount": 1814,
-          "title": "年末年始も「ABEMA」で韓国三昧！400作品以上を無料配信中ラブストーリーから復讐劇まで…年末に一気見したい日本でリメイクされた人気韓国ドラマ6選",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/64643/867/64643-867-f7bee4bb64b9c9777b609a9ebdd11dda-1648x928.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000008.000136401.html",
-          "author": null,
-          "description": "[株式会社ライフアドバンス]\n【調査概要】\n\n・調査対象：ペットと一緒に暮らしている方\n・調査期間：2024年12月10日～15日\n・調査機関：自社調査\n・調査方法：Webアンケートによる調査\n・有効回答数：300人（女性211人／男性89人）\n・回答者...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000008.000136401.html",
-          "publishedOn": "2024-12-21T08:15:02.000Z",
-          "wordCount": 1745,
-          "title": "【ペットとの暮らしについて】ペットと一緒に暮らす男女300人アンケート調査",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/136401/8/136401-8-cf266954f3d787e7a096537348fdbd28-1024x768.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000028.000059760.html",
-          "author": null,
-          "description": "[株式会社タイムチケット]\nクリエイタープラットフォーム『Time Ticket』（https://www.timeticket.jp/）を運営する株式会社タイムチケット（本社：東京都渋谷区、代表取締役社長 各務正人）は、このたびライブエンターテイメント事業（タ...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000028.000059760.html",
-          "publishedOn": "2024-12-21T07:40:01.000Z",
-          "wordCount": 1562,
-          "title": "Pocochaの「こっぴ―」がTikTok LIVEに参戦！　大阪のライバー事務所・ Activation Groupとタイムチケットプロダクションが提携",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/59760/28/59760-28-32631e42db912fd49a6a993225233bd1-3900x1254.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000014.000069447.html",
-          "author": null,
-          "description": "[meetalk株式会社]\n女性起業家・リーダーのコミュニティを運営するmeetalk株式会社（東京都渋谷区、代表取締役：山中直子、以下「meeTalk」）は、吸収率にこだわり、リポソーム技術を活用して開発されたサプリメント「Lypo-C」ブラ...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000014.000069447.html",
-          "publishedOn": "2024-12-21T07:15:02.000Z",
-          "wordCount": 1912,
-          "title": "【meeTalk × Lypo-C】こころとカラダを整えるためのプログラム「Think! Performance」第1回を共催！話題の女性起業家20名が集結。",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/69447/14/69447-14-79e84a7b3b8fa6ab63ef45fcf87e15d3-1920x1142.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000879.000064643.html",
-          "author": null,
-          "description": "[ABEMA]\n[画像1: https://prcdn.freetls.fastly.net/release_image/64643/879/64643-879-baa97beafc291b98d28cf4342bbff436-1648x928.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000879.000064643.html",
-          "publishedOn": "2024-12-21T06:40:02.000Z",
-          "wordCount": null,
-          "title": "大人気“後宮謎解きエンタテインメント”『薬屋のひとりごと』第2期放送直前12月27日（金）より第1期の全話無料一挙放送が決定！キャストサイン入り色紙が当たる！第1期のエピソード投票企画も実施",
-          "imageUrl": null
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000004.000150398.html",
-          "author": null,
-          "description": "[株式会社Philocoffea]\n[画像1: https://prcdn.freetls.fastly.net/release_image/150398/4/150398-4-6db0532d9e3eb8acb00d7b2296d600ca-2000x1335.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000004.000150398.html",
-          "publishedOn": "2024-12-21T04:40:01.000Z",
-          "wordCount": 1638,
-          "title": "2016年世界チャンピオン粕谷哲が代表のPHILOCOFFEAダイオーズ ジャパンと「株式会社特別な珈琲体験を」設立、本格始動",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/150398/4/150398-4-6db0532d9e3eb8acb00d7b2296d600ca-2000x1335.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000031.000098579.html",
-          "author": null,
-          "description": "[株式会社EgoDiva]\n[画像: https://prcdn.freetls.fastly.net/release_image/98579/31/98579-31-b4a573862a879a39adeb46e058e055b0-3840x2160.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000031.000098579.html",
-          "publishedOn": "2024-12-21T04:40:01.000Z",
-          "wordCount": 1509,
-          "title": "『十八番VIRTUAL』TikTok LIVE 提携エージェンシーとして始動！Vライバーから顔出しライバーまで、多様なクリエイターをサポート",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/98579/31/98579-31-b4a573862a879a39adeb46e058e055b0-3840x2160.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000019.000037565.html",
-          "author": null,
-          "description": "[株式会社ヴィンテージ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/37565/19/37565-19-248c1f208af34e9ae7e3c90d26160dfc-1200x675.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000019.000037565.html",
-          "publishedOn": "2024-12-21T04:40:01.000Z",
-          "wordCount": 1543,
-          "title": "「いまから取り組む相談管理業務の効率化セミナー」開催｜高まる福祉サポートの重要性と多様化・複雑化する社会福祉事業の最前線",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/37565/19/37565-19-248c1f208af34e9ae7e3c90d26160dfc-1200x675.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000266.000033323.html",
-          "author": null,
-          "description": "[株式会社日刊工業新聞社]\n[画像: https://prcdn.freetls.fastly.net/release_image/33323/266/33323-266-893e60991d1e3c269cd9b1f629cbc881-231x322.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000266.000033323.html",
-          "publishedOn": "2024-12-21T03:40:01.000Z",
-          "wordCount": 1484,
-          "title": "日刊工業新聞社、「マテリアル戦略総合シンポジウム2025」への協賛",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/33323/266/33323-266-893e60991d1e3c269cd9b1f629cbc881-231x322.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000091.000030426.html",
-          "author": null,
-          "description": "[Turkish Airlines]\n[画像: https://prcdn.freetls.fastly.net/release_image/30426/91/30426-91-ecf8ccbc7df31846054c4f9540279d3a-3900x2194.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000091.000030426.html",
-          "publishedOn": "2024-12-21T03:15:02.000Z",
-          "wordCount": 1567,
-          "title": "【ターキッシュ エアラインズ】「最も多くの国に就航する航空会社」としてギネス世界記録(TM)に認定",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/30426/91/30426-91-ecf8ccbc7df31846054c4f9540279d3a-3900x2194.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000028.000073069.html",
-          "author": null,
-          "description": "[株式会社KEAR]\n[画像1: https://prcdn.freetls.fastly.net/release_image/73069/28/73069-28-0de833af87c408905cd0b34d0b240c78-1800x1013.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000028.000073069.html",
-          "publishedOn": "2024-12-21T03:15:02.000Z",
-          "wordCount": 1655,
-          "title": "webメディア「fempass」連載企画から初の生写真セットが登場！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/73069/28/73069-28-0de833af87c408905cd0b34d0b240c78-1800x1013.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000037.000145544.html",
-          "author": null,
-          "description": "[Clickout Media Ltd.]\n\n[画像1: https://prcdn.freetls.fastly.net/release_image/145544/37/145544-37-69be5ff28b71507470c482757fa914c5-1192x1182.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000037.000145544.html",
-          "publishedOn": "2024-12-21T02:40:03.000Z",
-          "wordCount": 1576,
-          "title": "ビットコインが急落する中、Best Walletトークンはプレセールで500万ドル調達で好調",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/145544/37/145544-37-69be5ff28b71507470c482757fa914c5-1192x1182.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000239.000106737.html",
-          "author": null,
-          "description": "[株式会社THINKR]\n[画像1: https://prcdn.freetls.fastly.net/release_image/106737/239/106737-239-de9015232d26da0146ef8e35285a9bce-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000239.000106737.html",
-          "publishedOn": "2024-12-21T00:45:03.000Z",
-          "wordCount": 1713,
-          "title": "KAMITSUBAKI STUDIOプロデュースのオーケストラが彩る、V.W.P・梶裕貴主演のバーチャル舞台劇「御伽噺(染)」2025年3月 東京にて凱旋公演開催&配信実施決定",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/106737/239/106737-239-de9015232d26da0146ef8e35285a9bce-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000496.000042665.html",
-          "author": null,
-          "description": "[株式会社フィナンシェ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/42665/496/42665-496-f48f24fdf33360a3e1b41f8784d4644d-1800x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000496.000042665.html",
-          "publishedOn": "2024-12-21T00:45:03.000Z",
-          "wordCount": 1514,
-          "title": "国民的アイドルになるための登竜門フェスを創る！『天下一武道館@神田みつき』が本日FiNANCiEにてコミュニティを公開！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/42665/496/42665-496-f48f24fdf33360a3e1b41f8784d4644d-1800x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000184.000049041.html",
-          "author": null,
-          "description": "[株式会社ソニー・ミュージックエンタテインメント]\n株式会社ソニー・ミュージックエンタテインメント（本社：東京都千代田区、代表取締役社長：村松 俊亮）は、バーチャルタレント育成&マネジメントプロジェクト「VEE」の所属バーチャルタレント「秋雪こはく」...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000184.000049041.html",
-          "publishedOn": "2024-12-21T00:45:03.000Z",
-          "wordCount": 1540,
-          "title": "Sony MusicによるVTuberプロジェクト「VEE」、所属VTuber「秋雪こはく」の冠番組「秋雪こはくのDEEPなセカイ」が12月27日より放送スタート！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/49041/184/49041-184-c4beb735584fb6b3198a8e04b9e3e997-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000003.000153423.html",
-          "author": null,
-          "description": "[株式会社Ivy]\n[画像1: https://prcdn.freetls.fastly.net/release_image/153423/3/153423-3-789969043905c82c655ebf59c8baf333-1896x628.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000003.000153423.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1629,
-          "title": "【Peony】ブランド初となるPOPUP STORE『Peony Love of a Cat』を渋谷スクランブルスクエア6Fで期間限定開催！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/153423/3/153423-3-789969043905c82c655ebf59c8baf333-1896x628.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000029.000038509.html",
-          "author": null,
-          "description": "[株式会社さくらネット]\n[画像1: https://prcdn.freetls.fastly.net/release_image/38509/29/38509-29-112386530521eaebeadb537008822c57-1106x600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000029.000038509.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1479,
-          "title": "オンラインで学習する「進化する翻訳機」Mayumi4新発売",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/38509/29/38509-29-112386530521eaebeadb537008822c57-1106x600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000179.000012285.html",
-          "author": null,
-          "description": "[リネットジャパングループ株式会社]\nリネットジャパングループ株式会社（本社：愛知県名古屋市）、リネットジャパンリサイクル\n株式会社（本社：愛知県大府市）ならびに一般社団法人地域SDGs創生ネットワーク（東京都港区）は、大阪市教育委員会の後...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000179.000012285.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1580,
-          "title": "応募総数 1254件！ 大阪市教育委員会後援 不用なパソコンに含まれる金属からメダルを作る、大阪マラソンメダルプロジェクト。小学生メダルデザインコンテスト結果発表。",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/12285/179/12285-179-cc125bc3e3d6be25ed6e665e4331d95e-589x293.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000028.000098909.html",
-          "author": null,
-          "description": "[THEFIVERIVERSFINEGLAMPING群馬白沢]\n[画像1: https://prcdn.freetls.fastly.net/release_image/98909/28/98909-28-c5260a4ddfce0512be129a29be4efd19-2048x1536.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000028.000098909.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1666,
-          "title": "最高のリトリートを体験できる THE FIVE RIVERS FINE GLAMPING 群馬 白沢　　赤城和牛を使用した豪華すき焼き　こたつグランピングで食べる”冬限定ディナー”提供開始",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/98909/28/98909-28-c5260a4ddfce0512be129a29be4efd19-2048x1536.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000001345.000011969.html",
-          "author": null,
-          "description": "[株式会社STARBASE]\n[画像1: https://prcdn.freetls.fastly.net/release_image/11969/1345/11969-1345-eb0e1098cf685e7983f69813775890bb-3900x3900.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
-          "link": "https://prtimes.jp/main/html/rd/p/000001345.000011969.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1548,
-          "title": "ビートメイカーsophisticated silence、待望の1stアルバムをリリース",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/11969/1345/11969-1345-eb0e1098cf685e7983f69813775890bb-3900x3900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000818.000034930.html",
-          "author": null,
-          "description": "[株式会社GENDA GiGO Entertainment]\n株式会社GENDA GiGO Entertainment（本社：東京都港区 代表取締役社長：二宮 一浩　以下「当社」）は、Fangamer Japan（所在地：愛知県蒲郡市　代表者：ライクワイン・マーク・ジョセフ）との共同開発で「ゲーマ...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000818.000034930.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1737,
-          "title": "Fangamer Japan in GiGO ゲーマーポップコーン 第２弾販売のお知らせ",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/34930/818/34930-818-91eda32bc86e5f25d570f04728d86bf3-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000221.000053064.html",
-          "author": null,
-          "description": "[松竹株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/53064/221/53064-221-63c69ba0a7c9562a20a240fbe9e81024-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000221.000053064.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1500,
-          "title": "全世界50万本の販売を達成した『バックパック・バトル』オンライン対戦機能を含む大型アップデートが公開！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/53064/221/53064-221-63c69ba0a7c9562a20a240fbe9e81024-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000109.000034713.html",
-          "author": null,
-          "description": "[バルス株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/34713/109/34713-109-e749dd48202d40a7bb1fa9f2692973d7-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000109.000034713.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1482,
-          "title": "梶原岳人のファンクラブ限定配信番組がリニューアル！アーティストと奏でる特別な音楽セッション＆トークをお届け",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/34713/109/34713-109-e749dd48202d40a7bb1fa9f2692973d7-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000002876.000011414.html",
-          "author": null,
-          "description": "[株式会社リクルート]\n株式会社リクルート（本社：東京都千代田区 代表取締役社長：北村 吉弘、以下リクルート）が発行する結婚情報誌『ゼクシィ』は、2月号（2024年12月23日（月）発売 ※一部地域を除く）の巻頭グラビアに俳優の舘 ひ...",
-          "link": "https://prtimes.jp/main/html/rd/p/000002876.000011414.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1495,
-          "title": "舘 ひろしが『ゼクシィ』で理想の結婚式を形に 舘流ダンディズム健在！ 私服コーデで74歳の花婿姿を披露",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/11414/2876/11414-2876-30444fa01d3012ae5112c671bac06c90-1200x600.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000020.000109713.html",
-          "author": null,
-          "description": "[reth株式会社]\n「みんなの故郷”白馬”をつくる」をヴィジョンに掲げる reth株式会社（本社：長野県白馬村、共同代表：田口 雄・村田仁志）が製造・販売しているクラフトビール「HAKUBA CRAFT」は、AnyReach株式会社（本社：東京...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000020.000109713.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1559,
-          "title": "硬度”ゼロ”の超軟水クラフトビール HAKUBA CRAFT がeギフトサービス『AnyGift』に対応",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/109713/20/109713-20-a3c15efaf0506602c8455d464c6e3591-512x341.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000008055.000001355.html",
-          "author": null,
-          "description": "[株式会社WOWOW]\n[画像1: https://prcdn.freetls.fastly.net/release_image/1355/8055/1355-8055-1a21f9af9ab192ed9d1b142d5cb78d2e-3900x2194.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000008055.000001355.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1488,
-          "title": "WOWOW 12/28(土)「宝塚プルミエール」「彩風咲奈 退団スペシャル」彩風咲奈、綾凰華、野々花ひまりのロケ企画をお届け！番組ナレーターは舞羽美海が担当！コメント着！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/1355/8055/1355-8055-1a21f9af9ab192ed9d1b142d5cb78d2e-3900x2194.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000875.000064643.html",
-          "author": null,
-          "description": "[ABEMA]\n[画像1: https://prcdn.freetls.fastly.net/release_image/64643/875/64643-875-fd1fb851289d9f65baf822ce41fc6b8c-1648x928.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000875.000064643.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1492,
-          "title": "新作冬アニメ『沖縄で好きになった子が方言すぎてツラすぎる』「ABEMA」で2025年1月4日（土）夜25時から地上波同時・無料放送＆WEB最速配信決定！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/64643/875/64643-875-fd1fb851289d9f65baf822ce41fc6b8c-1648x928.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000002352.000002929.html",
-          "author": null,
-          "description": "[株式会社スペースシャワーネットワーク]\n[画像1: https://prcdn.freetls.fastly.net/release_image/2929/2352/2929-2352-cff5daf454ca7531780a44505dd8b9ec-3000x2000.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000002352.000002929.html",
-          "publishedOn": "2024-12-21T00:40:02.000Z",
-          "wordCount": 1533,
-          "title": "日本初9人組グローバルグループ&TEAM。2nd ALBUM『雪明かり (Yukiakari)』リリースを記念して、スペースシャワーTVプラスで撮り下ろし特別番組を独占放送！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/2929/2352/2929-2352-cff5daf454ca7531780a44505dd8b9ec-3000x2000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000271.000021008.html",
-          "author": null,
-          "description": "[株式会社CAM]\n[画像1: https://prcdn.freetls.fastly.net/release_image/21008/271/21008-271-edd0f76fc5970408be84331264485e87-960x540.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000271.000021008.html",
-          "publishedOn": "2024-12-21T00:15:03.000Z",
-          "wordCount": 1535,
-          "title": "「突然ですが占ってもいいですか？」で話題の星ひとみが贈るクリスマス期間限定のお得なプレミアム鑑定を公開",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/21008/271/21008-271-edd0f76fc5970408be84331264485e87-960x540.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000004111.000019470.html",
-          "author": null,
-          "description": "[日本コロムビア株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/19470/4111/19470-4111-78facd4a29d866a42784ee851de60c00-2215x1709.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
-          "link": "https://prtimes.jp/main/html/rd/p/000004111.000019470.html",
-          "publishedOn": "2024-12-21T00:15:03.000Z",
-          "wordCount": 1475,
-          "title": "松山千春が開催した『シンガーソングライター発掘オーディション』で最優秀賞に輝いたシンガーソングライター小川哲央が日本コロムビアよりメジャーデビュー決定！！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/19470/4111/19470-4111-78facd4a29d866a42784ee851de60c00-2215x1709.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000001.000154841.html",
-          "author": null,
-          "description": "[コージー合同会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/154841/1/154841-1-a383282367de3bb5ec2cc475b85ce3a6-1600x900.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000001.000154841.html",
-          "publishedOn": "2024-12-21T00:15:03.000Z",
-          "wordCount": 1546,
-          "title": "《WinMan 10》で窓掃除革命！Makuakeにて12月20日19:00よりクラウドファンディング開始！AI x センサー x Wローラーブラシ搭載。全自動で最高の清掃力！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/154841/1/154841-1-a383282367de3bb5ec2cc475b85ce3a6-1600x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000003875.000003670.html",
-          "author": null,
-          "description": "[クリーク・アンド・リバー社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/3670/3875/3670-3875-ed07129539549ee6dbc21e720ab528ca-698x394.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-          "link": "https://prtimes.jp/main/html/rd/p/000003875.000003670.html",
-          "publishedOn": "2024-12-21T00:15:03.000Z",
-          "wordCount": 1771,
-          "title": "2月受験の直前対策！全4回で試験のポイントをおさらいしよう！1/15（水）～全4回「ネットマーケティング検定ポイント解説」のアーカイブ映像を無料配信！",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/3670/3875/3670-3875-ed07129539549ee6dbc21e720ab528ca-698x394.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         }
       ]
     },
@@ -45251,16 +46081,6 @@
           "wordCount": 3342,
           "title": "A CSS Wishlist for 2025",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383249"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383224",
-          "author": "Juan Diego Rodríguez",
-          "description": "Today, I want to focus on what I'll call the little triangle in the tooltip. It receives minimal attention but it amazes you by how many ways there are to make them. Let's start with the simplest and make our way up to the not-so-simple.\nThe Little Triangle in the Tooltip originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-little-triangle-in-the-tooltip/",
-          "publishedOn": "2024-12-20T16:31:05.000Z",
-          "wordCount": 3240,
-          "title": "The Little Triangle in the Tooltip",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383224"
         }
       ]
     },
@@ -45805,36 +46625,6 @@
           "wordCount": 4940,
           "title": "How to Become a Web Developer – a Beginner's Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/505eectW54k/upload/4567a9e14c8e9bac3dc8d6c6a39661f5.jpeg"
-        },
-        {
-          "id": "6765e0f59e51f9e8b04f2529",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Kevin Powell. He's a designer, a software engineer, and an expert in CSS. He's runs a CSS-focused YouTube channel with nearly a million subscribers. There's nothing ...",
-          "link": "https://www.freecodecamp.org/news/how-to-not-hate-css-kevin-powell-interview-154/",
-          "publishedOn": "2024-12-20T21:26:13.000Z",
-          "wordCount": 1268,
-          "title": "Why developers needn't fear CSS – with the King of CSS himself Kevin Powell [Podcast #154]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734729865195/15498ad9-15f9-4dc3-98cc-8d7f07cec348.png"
-        },
-        {
-          "id": "6765d8da1ec59713cfa06b50",
-          "author": "Krishna Sarathi Ghosh",
-          "description": "AI tools have become commonplace these days, and you may use them daily. One of the key ways to secure your confidential data – both personal and business-related – is by running your own AI on your own infrastructure. This guide will explain how to ...",
-          "link": "https://www.freecodecamp.org/news/how-to-run-open-source-llms-on-your-own-computer-using-ollama/",
-          "publishedOn": "2024-12-20T20:51:38.000Z",
-          "wordCount": 3222,
-          "title": "How to Run Open Source LLMs on Your Own Computer Using Ollama",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734681473969/20c1a1cd-898a-4f48-a26f-d2d3d2917efc.png"
-        },
-        {
-          "id": "67659959cfcbe6eba5ecf6dc",
-          "author": "Isaiah Clifford Opoku",
-          "description": "Classes are the fundamental building blocks of object-oriented programming in C#. They allow you to create reusable and modular code by grouping related data and functions. Different types of classes serve various purposes. For instance, organizing y...",
-          "link": "https://www.freecodecamp.org/news/classes-in-c-sharp-handbook-with-examples/",
-          "publishedOn": "2024-12-20T16:20:41.000Z",
-          "wordCount": 6912,
-          "title": "The C# Class Handbook – Types of Classes with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734711601436/b4de90be-1d93-4d8d-a4ed-ae09b192ef5c.png"
         }
       ]
     }
